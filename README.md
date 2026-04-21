@@ -130,9 +130,11 @@ depends on a provincial delta, use the applicable provincial code:
   [British-Columbia-Building-Code-Skill](https://github.com/dorianbanks/British-Columbia-Building-Code-Skill).
 - **City of Vancouver** — VBBL 2025 (its own by-law). Companion skill:
   [Vancouver-Building-By-law-Skill](https://github.com/dorianbanks/Vancouver-Building-By-law-Skill).
-- **Northwest Territories** — NBC applies as adopted; use the
-  [Northwest-Territories-Building-Code-Skill](https://github.com/dorianbanks/Northwest-Territories-Building-Code-Skill)
-  for the northern design-guide overlay.
+- **Northwest Territories** — NBC applies as adopted under the NWT
+  *Safety Act*. For City of Yellowknife projects specifically, use the
+  [Yellowknife-Building-Bylaw-Skill](https://github.com/dorianbanks/Yellowknife-Building-Bylaw-Skill)
+  for the municipal by-law overlay (permits, inspections,
+  Yellowknife-specific construction deltas, energy efficiency).
 - **Other provinces/territories** — consult the applicable provincial
   building code directly.
 
