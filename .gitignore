@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude local config
+.claude/
+
+# Packaging artifacts (build locally; don't commit)
+*.skill
+*.zip
+
+# Optimizer / eval workspaces (local only)
+*-workspace/
+eval-tools/

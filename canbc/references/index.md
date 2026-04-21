@@ -1,0 +1,3864 @@
+# NBC 2020 — Citation Index
+
+Auto-generated from the PDF bookmark tree. Pages are 1-indexed and refer to
+`assets/nbc_2020.pdf`. Use `scripts/lookup.py <citation>` to resolve a citation
+to a page, or read the PDF directly with the Read tool and the `pages` parameter.
+
+- National Building Code of Canada 2020, second printing  _(p.1)_
+  - Volume 1  _(p.1)_
+    - Table of Contents  _(p.4)_
+    - Preface  _(p.6)_
+      - Development of the National Model Codes  _(p.6)_
+      - National Building Code of Canada 2020  _(p.7)_
+        - Relationship between the NBC and the NFC  _(p.7)_
+        - Relationship between the NBC and the NECB  _(p.8)_
+        - Code Requirements  _(p.8)_
+      - Objective-Based Code Format  _(p.8)_
+        - Objectives  _(p.9)_
+        - Functional Statements  _(p.9)_
+        - Intent Statements  _(p.9)_
+      - Structure of the NBC  _(p.10)_
+        - Division A: Compliance, Objectives and Functional Statements  _(p.10)_
+        - Division B: Acceptable Solutions  _(p.10)_
+        - Division C: Administrative Provisions  _(p.10)_
+        - Relationship between Division A and Division B  _(p.11)_
+        - Parts in Division B and Professional Disciplines  _(p.11)_
+      - What's New in the 2020 Edition  _(p.11)_
+        - New Part 2  _(p.11)_
+      - Additional Information  _(p.11)_
+        - Numbering System  _(p.11)_
+        - Meaning of the Words “And” and “Or” between the Clauses and Subclauses of a Sentence  _(p.12)_
+        - Change Indication  _(p.12)_
+        - Units  _(p.12)_
+        - Complementary Publications  _(p.12)_
+      - Commercial Reproduction  _(p.13)_
+      - Contact Information  _(p.13)_
+    - Relationship of the NBC to Standards Development and Conformity Assessment  _(p.14)_
+      - Canadian Standards  _(p.14)_
+      - Non-Canadian Standards  _(p.15)_
+      - Conformity Assessment  _(p.15)_
+        - Testing  _(p.15)_
+        - Certification  _(p.15)_
+        - Evaluation  _(p.15)_
+        - Qualification  _(p.16)_
+    - Canadian Commission on Building and Fire Codes and Standing Committees  _(p.18)_
+    - Revisions and Errata  _(p.22)_
+    - Division A Compliance, Objectives and Functional Statements  _(p.26)_
+      - **Part 1** — Part 1 Compliance  _(p.28)_
+        - **1.1** — Section 1.1. General  _(p.30)_
+          - **1.1.1** — 1.1.1. Application of this Code  _(p.30)_
+            - **1.1.1.1** — 1.1.1.1. Application of this Code  _(p.30)_
+        - **1.2** — Section 1.2. Compliance  _(p.30)_
+          - **1.2.1** — 1.2.1. Compliance with this Code  _(p.30)_
+            - **1.2.1.1** — 1.2.1.1. Compliance with this Code  _(p.30)_
+          - **1.2.2** — 1.2.2. Materials, Appliances, Systems and Equipment  _(p.30)_
+            - **1.2.2.1** — 1.2.2.1. Characteristics of Materials, Appliances, Systems and Equipment  _(p.30)_
+            - **1.2.2.2** — 1.2.2.2. Storage on the Building Site  _(p.31)_
+            - **1.2.2.3** — 1.2.2.3. Used Materials, Appliances and Equipment  _(p.31)_
+        - **1.3** — Section 1.3. Divisions A, B and C of this Code  _(p.31)_
+          - **1.3.1** — 1.3.1. General  _(p.31)_
+            - **1.3.1.1** — 1.3.1.1. Scope of Division A  _(p.31)_
+            - **1.3.1.2** — 1.3.1.2. Scope of Division B  _(p.31)_
+            - **1.3.1.3** — 1.3.1.3. Scope of Division C  _(p.31)_
+            - **1.3.1.4** — 1.3.1.4. Internal Cross-references  _(p.31)_
+          - **1.3.2** — 1.3.2. Application of Division A  _(p.31)_
+            - **1.3.2.1** — 1.3.2.1. Application of Parts 1, 2 and 3  _(p.31)_
+          - **1.3.3** — 1.3.3. Application of Division B  _(p.31)_
+            - **1.3.3.1** — 1.3.3.1. Application of Parts 1, 7 and 8  _(p.31)_
+            - **1.3.3.2** — 1.3.3.2. Application of Parts 3, 4, 5 and 6  _(p.31)_
+            - **1.3.3.3** — 1.3.3.3. Application of Part 9  _(p.32)_
+            - **1.3.3.4** — 1.3.3.4. Building Size Determination  _(p.32)_
+            - **1.3.3.5** — 1.3.3.5. Application of Part 2  _(p.32)_
+            - **1.3.3.6** — 1.3.3.6. Classification of Buildings Containing Agricultural Occupancies  _(p.32)_
+          - **1.3.4** — 1.3.4. Application of Division C  _(p.32)_
+            - **1.3.4.1** — 1.3.4.1. Application of Parts 1 and 2  _(p.32)_
+        - **1.4** — Section 1.4. Terms and Abbreviations  _(p.33)_
+          - **1.4.1** — 1.4.1. Definitions of Words and Phrases  _(p.33)_
+            - **1.4.1.1** — 1.4.1.1. Non-defined Terms  _(p.33)_
+            - **1.4.1.2** — 1.4.1.2. Defined Terms  _(p.33)_
+          - **1.4.2** — 1.4.2. Symbols and Other Abbreviations  _(p.43)_
+            - **1.4.2.1** — 1.4.2.1. Symbols and Other Abbreviations  _(p.43)_
+        - **1.5** — Section 1.5. Referenced Documents and Organizations  _(p.44)_
+          - **1.5.1** — 1.5.1. Referenced Documents  _(p.44)_
+            - **1.5.1.1** — 1.5.1.1. Application of Referenced Documents  _(p.44)_
+            - **1.5.1.2** — 1.5.1.2. Conflicting Requirements  _(p.44)_
+            - **1.5.1.3** — 1.5.1.3. Applicable Editions  _(p.44)_
+          - **1.5.2** — 1.5.2. Organizations  _(p.44)_
+            - **1.5.2.1** — 1.5.2.1. Abbreviations of Proper Names  _(p.44)_
+        - Notes to Part 1 Compliance  _(p.46)_
+          - **A-1.1.1.1.(1)** — A-1.1.1.1.(1) Application to Existing Buildings  _(p.46)_
+          - **A-1.1.1.1.(2)** — A-1.1.1.1.(2) Factory-Constructed Buildings  _(p.47)_
+          - **A-1.2.1.1.(1)** — A-1.2.1.1.(1)(a) Code Compliance via Acceptable Solutions  _(p.47)_
+          - **A-1.2.1.1.(1)** — A-1.2.1.1.(1)(b) Code Compliance via Alternative Solutions  _(p.47)_
+            - Level of Performance  _(p.47)_
+            - Areas of Performance  _(p.48)_
+            - Applicable Acceptable Solutions  _(p.48)_
+          - **A-1.3.3.4.(1)** — A-1.3.3.4.(1) Buildings Divided by Firewalls  _(p.48)_
+          - **A-1.3.3.4.(2)** — A-1.3.3.4.(2) Buildings on Sloping Sites  _(p.48)_
+          - **A-1.4.1.2.(1)** — A-1.4.1.2.(1) Defined Terms  _(p.49)_
+            - Agricultural Occupancy  _(p.49)_
+            - Agricultural Occupancy with No Human Occupants  _(p.49)_
+            - ASTC and STC  _(p.49)_
+            - Care Occupancy  _(p.49)_
+            - Dangerous Goods  _(p.50)_
+            - Exit  _(p.51)_
+            - Farm Building  _(p.51)_
+            - Fire Separation  _(p.51)_
+            - Flight  _(p.51)_
+            - Grade  _(p.51)_
+            - Home-Type Care Occupancy  _(p.52)_
+            - Mechanically Vented  _(p.52)_
+            - Post-Disaster Building  _(p.52)_
+            - Public Corridor  _(p.52)_
+            - Rim Joist  _(p.52)_
+            - Secondary Suite  _(p.52)_
+            - Service Room  _(p.53)_
+            - Solid Masonry Units  _(p.53)_
+            - Storage Garage  _(p.53)_
+            - Suite  _(p.53)_
+            - Treatment  _(p.54)_
+            - Treatment Occupancy  _(p.54)_
+            - Vapour Barrier  _(p.54)_
+          - **A-1.5.1.1.(1)** — A-1.5.1.1.(1) Application of Referenced Documents  _(p.54)_
+      - **Part 2** — Part 2 Objectives  _(p.56)_
+        - **2.1** — Section 2.1. Application  _(p.58)_
+          - **2.1.1** — 2.1.1. Application  _(p.58)_
+            - **2.1.1.1** — 2.1.1.1. Application  _(p.58)_
+            - **2.1.1.2** — 2.1.1.2. Application of Objectives  _(p.58)_
+        - **2.2** — Section 2.2. Objectives  _(p.59)_
+          - **2.2.1** — 2.2.1. Objectives  _(p.59)_
+            - **2.2.1.1** — 2.2.1.1. Objectives  _(p.59)_
+            - OS Safety  _(p.59)_
+            - OS1 Fire Safety  _(p.59)_
+            - OS2 Structural Safety  _(p.59)_
+            - OS3 Safety in Use  _(p.59)_
+            - OS4 Resistance to Unwanted Entry  _(p.60)_
+            - OS5 Safety at Construction and Demolition Sites  _(p.60)_
+            - OH Health  _(p.60)_
+            - OH1 Indoor Conditions  _(p.60)_
+            - OH2 Sanitation  _(p.60)_
+            - OH3 Noise Protection  _(p.61)_
+            - OH4 Vibration and Deflection Limitation  _(p.61)_
+            - OH5 Hazardous Substances Containment  _(p.61)_
+            - OA Accessibility  _(p.61)_
+            - OA1 Barrier-Free Path of Travel  _(p.61)_
+            - OA2 Barrier-Free Facilities  _(p.61)_
+            - OP Fire and Structural Protection of Buildings  _(p.61)_
+            - OP1 Fire Protection of the Building  _(p.62)_
+            - OP2 Structural Sufficiency of the Building  _(p.62)_
+            - OP3 Protection of Adjacent Buildings from Fire  _(p.62)_
+            - OP4 Protection of Adjacent Buildings from Structural Damage  _(p.62)_
+            - OE Environment  _(p.62)_
+            - OE1 Resources  _(p.63)_
+        - Notes to Part 2 Objectives  _(p.64)_
+          - **A-2.1.1.2.(6)** — A-2.1.1.2.(6) Application of Environment Objective  _(p.64)_
+          - **A-2.2.1.1.(1)** — A-2.2.1.1.(1) Objectives  _(p.64)_
+            - Listing of objectives  _(p.64)_
+            - The building  _(p.64)_
+            - Emergency  _(p.64)_
+            - Fire Safety  _(p.64)_
+      - **Part 3** — Part 3 Functional Statements  _(p.66)_
+        - **3.1** — Section 3.1. Application  _(p.68)_
+          - **3.1.1** — 3.1.1. Application  _(p.68)_
+            - **3.1.1.1** — 3.1.1.1. Application  _(p.68)_
+            - **3.1.1.2** — 3.1.1.2. Application of Functional Statements  _(p.68)_
+        - **3.2** — Section 3.2. Functional Statements  _(p.68)_
+          - **3.2.1** — 3.2.1. Functional Statements  _(p.68)_
+            - **3.2.1.1** — 3.2.1.1. Functional Statements  _(p.68)_
+        - Notes to Part 3 Functional Statements  _(p.72)_
+          - **A-3.2.1.1.(1)** — A-3.2.1.1.(1) Listing of Functional Statements  _(p.72)_
+    - Division B Acceptable Solutions  _(p.74)_
+      - **Part 1** — Part 1 General  _(p.76)_
+        - **1.1** — Section 1.1. General  _(p.78)_
+          - **1.1.1** — 1.1.1. Application  _(p.78)_
+            - **1.1.1.1** — 1.1.1.1. Application  _(p.78)_
+          - **1.1.2** — 1.1.2. Objectives and Functional Statements  _(p.78)_
+            - **1.1.2.1** — 1.1.2.1. Attributions to Acceptable Solutions  _(p.78)_
+          - **1.1.3** — 1.1.3. Climatic and Seismic Data  _(p.78)_
+            - **1.1.3.1** — 1.1.3.1. Climatic and Seismic Values  _(p.78)_
+            - **1.1.3.2** — 1.1.3.2. Depth of Frost Penetration  _(p.78)_
+          - **1.1.4** — 1.1.4. Fire Safety Plan  _(p.78)_
+            - **1.1.4.1** — 1.1.4.1. Fire Safety Plan  _(p.78)_
+        - **1.2** — Section 1.2. Terms and Abbreviations  _(p.79)_
+          - **1.2.1** — 1.2.1. Definitions of Words and Phrases  _(p.79)_
+            - **1.2.1.1** — 1.2.1.1. Non-defined Terms  _(p.79)_
+            - **1.2.1.2** — 1.2.1.2. Defined Terms  _(p.79)_
+          - **1.2.2** — 1.2.2. Symbols and Other Abbreviations  _(p.79)_
+            - **1.2.2.1** — 1.2.2.1. Symbols and Other Abbreviations  _(p.79)_
+        - **1.3** — Section 1.3. Referenced Documents and Organizations  _(p.79)_
+          - **1.3.1** — 1.3.1. Referenced Documents  _(p.79)_
+            - **1.3.1.1** — 1.3.1.1. Effective Date  _(p.79)_
+            - **1.3.1.2** — 1.3.1.2. Applicable Editions  _(p.79)_
+          - **1.3.2** — 1.3.2. Organizations  _(p.108)_
+            - **1.3.2.1** — 1.3.2.1. Abbreviations of Proper Names  _(p.108)_
+        - Notes to Part 1 General  _(p.112)_
+          - **A-1.1.2.1.(1)** — A-1.1.2.1.(1) Objectives and Functional Statements Attributed to Acceptable Solutions  _(p.112)_
+          - **A-1.1.3.1.(2)** — A-1.1.3.1.(2) Climatic Values  _(p.112)_
+          - **A-1.1.3.1.(3)** — A-1.1.3.1.(3) Winter Design Temperatures  _(p.112)_
+          - **A-1.1.3.1.(4)** — A-1.1.3.1.(4) Seismic Values  _(p.112)_
+      - **Part 2** — Part 2 Farm Buildings  _(p.114)_
+        - **2.1** — Section 2.1. General  _(p.116)_
+          - **2.1.1** — 2.1.1. Scope  _(p.116)_
+            - **2.1.1.1** — 2.1.1.1. Scope  _(p.116)_
+          - **2.1.2** — 2.1.2. Application  _(p.116)_
+            - **2.1.2.1** — 2.1.2.1. Application  _(p.116)_
+          - **2.1.3** — 2.1.3. Definitions  _(p.116)_
+            - **2.1.3.1** — 2.1.3.1. Defined Terms  _(p.116)_
+          - **2.1.4** — 2.1.4. Classification of Farm Buildings by Major Occupancy  _(p.116)_
+            - **2.1.4.1** — 2.1.4.1. Classification  _(p.116)_
+        - **2.2** — Section 2.2. Fire Protection and Occupant Safety  _(p.117)_
+          - **2.2.1** — 2.2.1. General  _(p.117)_
+            - **2.2.1.1** — 2.2.1.1. Classification  _(p.117)_
+            - **2.2.1.2** — 2.2.1.2. Prohibition of Occupancy Combinations  _(p.117)_
+            - **2.2.1.3** — 2.2.1.3. Exceptions for Major Occupancies  _(p.117)_
+            - **2.2.1.4** — 2.2.1.4. Separation of Occupancies  _(p.117)_
+            - **2.2.1.5** — 2.2.1.5. Fire Separations and Closures  _(p.118)_
+            - **2.2.1.6** — 2.2.1.6. Penetrations in Fire Separations and Fire-Rated Assemblies  _(p.118)_
+            - **2.2.1.7** — 2.2.1.7. Firewalls  _(p.118)_
+            - **2.2.1.8** — 2.2.1.8. Fire Blocks  _(p.118)_
+            - **2.2.1.9** — 2.2.1.9. Additional Fire Separations  _(p.119)_
+            - **2.2.1.10** — 2.2.1.10. Determination of Fire-Resistance Ratings  _(p.119)_
+            - **2.2.1.11** — 2.2.1.11. Determination of Flame-Spread Ratings  _(p.120)_
+            - **2.2.1.12** — 2.2.1.12. Flame-Spread Rating  _(p.120)_
+            - **2.2.1.13** — 2.2.1.13. Foamed Plastics  _(p.120)_
+            - **2.2.1.14** — 2.2.1.14. Fabrics and Films  _(p.120)_
+            - **2.2.1.15** — 2.2.1.15. Electrical Wiring and Equipment  _(p.120)_
+            - **2.2.1.16** — 2.2.1.16. Wires and Cables  _(p.120)_
+            - **2.2.1.17** — 2.2.1.17. Occupant Load  _(p.120)_
+          - **2.2.2** — 2.2.2. Building Size and Construction Relative to Major Occupancy  _(p.120)_
+            - **2.2.2.1** — 2.2.2.1. Farm Buildings with Multiple Agricultural Major Occupancies  _(p.120)_
+            - **2.2.2.2** — 2.2.2.2. Exceptions in Determining Building Height  _(p.120)_
+            - **2.2.2.3** — 2.2.2.3. Group G, Division 1, up to 3 Storeys, Limited Area, Sprinklered  _(p.121)_
+            - **2.2.2.4** — 2.2.2.4. Group G, Division 1, One Storey  _(p.121)_
+            - **2.2.2.5** — 2.2.2.5. Group G, Division 2, Any Height, Any Area, Sprinklered  _(p.121)_
+            - **2.2.2.6** — 2.2.2.6. Group G, Division 2, up to 3 Storeys, Any Area  _(p.121)_
+            - **2.2.2.7** — 2.2.2.7. Group G, Division 3, One Storey, Any Area  _(p.121)_
+            - **2.2.2.8** — 2.2.2.8. Group G, Division 4, Any Height, Any Area  _(p.121)_
+          - **2.2.3** — 2.2.3. Fire Alarm and Detection Systems  _(p.122)_
+            - **2.2.3.1** — 2.2.3.1. Determination of Requirement for a Fire Alarm System  _(p.122)_
+            - **2.2.3.2** — 2.2.3.2. Types of Fire Alarm Systems  _(p.122)_
+            - **2.2.3.3** — 2.2.3.3. Design of Fire Alarm Systems  _(p.122)_
+            - **2.2.3.4** — 2.2.3.4. Fire Alarm Signals  _(p.122)_
+            - **2.2.3.5** — 2.2.3.5. Silencing of Alarm Signals  _(p.122)_
+            - **2.2.3.6** — 2.2.3.6. Electrical Supervision  _(p.123)_
+            - **2.2.3.7** — 2.2.3.7. Fire Detectors  _(p.123)_
+          - **2.2.4** — 2.2.4. Provisions for Firefighting  _(p.123)_
+            - **2.2.4.1** — 2.2.4.1. Fire Department Access to Buildings  _(p.123)_
+            - **2.2.4.2** — 2.2.4.2. Automatic Sprinkler Systems  _(p.123)_
+            - **2.2.4.3** — 2.2.4.3. Portable Fire Extinguishers  _(p.123)_
+          - **2.2.5** — 2.2.5. Emergency Lighting  _(p.123)_
+            - **2.2.5.1** — 2.2.5.1. Minimum Lighting Requirements  _(p.123)_
+          - **2.2.6** — 2.2.6. Safety within Farm Buildings  _(p.124)_
+            - **2.2.6.1** — 2.2.6.1. Means of Egress  _(p.124)_
+            - **2.2.6.2** — 2.2.6.2. Egress Doorways  _(p.124)_
+            - **2.2.6.3** — 2.2.6.3. Travel Distance  _(p.124)_
+            - **2.2.6.4** — 2.2.6.4. Headroom Clearance  _(p.124)_
+            - **2.2.6.5** — 2.2.6.5. Access to Exits  _(p.125)_
+            - **2.2.6.6** — 2.2.6.6. Door Swing  _(p.125)_
+            - **2.2.6.7** — 2.2.6.7. Doors and Door Hardware  _(p.125)_
+            - **2.2.6.8** — 2.2.6.8. Ramps and Stairways  _(p.125)_
+            - **2.2.6.9** — 2.2.6.9. Floor Openings  _(p.125)_
+            - **2.2.6.10** — 2.2.6.10. Guards  _(p.126)_
+            - **2.2.6.11** — 2.2.6.11. Signage  _(p.126)_
+            - **2.2.6.12** — 2.2.6.12. Transparent Doors and Panels  _(p.126)_
+          - **2.2.7** — 2.2.7. Exits  _(p.126)_
+            - **2.2.7.1** — 2.2.7.1. Exit Facilities  _(p.126)_
+            - **2.2.7.2** — 2.2.7.2. Types of Exits  _(p.126)_
+            - **2.2.7.3** — 2.2.7.3. Minimum Number of Exits  _(p.126)_
+            - **2.2.7.4** — 2.2.7.4. Distance between Exits  _(p.127)_
+            - **2.2.7.5** — 2.2.7.5. Location of Exits  _(p.127)_
+            - **2.2.7.6** — 2.2.7.6. Width and Height of Exits  _(p.127)_
+            - **2.2.7.7** — 2.2.7.7. Direction of Exit Door Swing  _(p.127)_
+            - **2.2.7.8** — 2.2.7.8. Exit Door Hardware  _(p.127)_
+            - **2.2.7.9** — 2.2.7.9. Exit Stairs and Fire Escapes  _(p.128)_
+            - **2.2.7.10** — 2.2.7.10. Exit Signs  _(p.128)_
+          - **2.2.8** — 2.2.8. Hazardous Substances, Processes and Equipment  _(p.128)_
+            - **2.2.8.1** — 2.2.8.1. General  _(p.128)_
+            - **2.2.8.2** — 2.2.8.2. Exhaust Ventilation and Explosion Venting  _(p.128)_
+            - **2.2.8.3** — 2.2.8.3. Below-Floor Storage Areas for Liquid Manure  _(p.128)_
+            - **2.2.8.4** — 2.2.8.4. Welding and Cutting  _(p.129)_
+            - **2.2.8.5** — 2.2.8.5. Liquid Manure Storage Tanks and Piping Systems  _(p.129)_
+            - **2.2.8.6** — 2.2.8.6. Gas Traps or Valves  _(p.129)_
+            - **2.2.8.7** — 2.2.8.7. Dangerous Goods Storage  _(p.130)_
+            - **2.2.8.8** — 2.2.8.8. Pesticide Storage Areas  _(p.130)_
+        - **2.3** — Section 2.3. Structural Loads and Procedures  _(p.130)_
+          - **2.3.1** — 2.3.1. Structural Design Requirements  _(p.130)_
+            - **2.3.1.1** — 2.3.1.1. General  _(p.130)_
+          - **2.3.2** — 2.3.2. Loads Due to Use and Occupancy  _(p.130)_
+            - **2.3.2.1** — 2.3.2.1. Loads Supported on a Floor or Suspended from a Ceiling  _(p.130)_
+            - **2.3.2.2** — 2.3.2.2. Poultry Manure  _(p.131)_
+            - **2.3.2.3** — 2.3.2.3. Stored Products  _(p.131)_
+            - **2.3.2.4** — 2.3.2.4. Farm Machinery and Vehicles  _(p.131)_
+            - **2.3.2.5** — 2.3.2.5. Liquid Manure Storage Tanks  _(p.131)_
+          - **2.3.3** — 2.3.3. Loads Due to Snow  _(p.132)_
+            - **2.3.3.1** — 2.3.3.1. Unobstructed Slippery Roofs  _(p.132)_
+            - **2.3.3.2** — 2.3.3.2. Roof Areas of Greenhouses  _(p.132)_
+          - **2.3.4** — 2.3.4. Loads Due to Earthquakes  _(p.132)_
+            - **2.3.4.1** — 2.3.4.1. Application Limitation  _(p.132)_
+        - **2.4** — Section 2.4. Heating, Ventilating and Air-Conditioning  _(p.133)_
+          - **2.4.1** — 2.4.1. General  _(p.133)_
+            - **2.4.1.1** — 2.4.1.1. Application  _(p.133)_
+          - **2.4.2** — 2.4.2. Ventilation  _(p.133)_
+            - **2.4.2.1** — 2.4.2.1. Required Ventilation  _(p.133)_
+            - **2.4.2.2** — 2.4.2.2. Greenhouses  _(p.133)_
+            - **2.4.2.3** — 2.4.2.3. Controlled-Atmosphere Storage Areas  _(p.133)_
+            - **2.4.2.4** — 2.4.2.4. Silos and Grain Storage Bins  _(p.133)_
+            - **2.4.2.5** — 2.4.2.5. Below-Floor Storage of Liquid Manure  _(p.134)_
+          - **2.4.3** — 2.4.3. Heating Appliances  _(p.134)_
+            - **2.4.3.1** — 2.4.3.1. Location of Appliances  _(p.134)_
+        - **2.5** — Section 2.5. Objectives and Functional Statements  _(p.134)_
+          - **2.5.1** — 2.5.1. Objectives and Functional Statements  _(p.134)_
+            - **2.5.1.1** — 2.5.1.1. Attributions to Acceptable Solutions  _(p.134)_
+        - Notes to Part 2 Farm Buildings  _(p.138)_
+          - A-2 Application of Part 2  _(p.138)_
+          - **A-2.1.1.1.(1)** — A-2.1.1.1.(1) Safety of Persons  _(p.138)_
+          - **A-2.1.4.1.(1)** — A-2.1.4.1.(1) Major Occupancy Classifications for Farm Buildings  _(p.138)_
+          - **A-2.2.1.1.(2)** — A-2.2.1.1.(2) Non-agricultural Major Occupancies  _(p.139)_
+          - **A-2.2.1.5** — A-2.2.1.5. Environmental Conditions  _(p.139)_
+          - **A-2.2.1.8.(1)** — A-2.2.1.8.(1) Concealed Spaces Used as Supply Air Plenums  _(p.139)_
+          - **A-2.2.1.15.(2)** — A-2.2.1.15.(2) Damage to Electrical Wiring  _(p.139)_
+          - **A-2.2.7.1.(1)** — A-2.2.7.1.(1) Exiting from Floor Areas  _(p.139)_
+          - **A-2.2.7.2** — A-2.2.7.2. Overhead Doors and Sliding Doors  _(p.139)_
+          - **A-2.2.8.2.(3)** — A-2.2.8.2.(3) Ventilation of Below-Floor Storage Areas for Liquid Manure  _(p.139)_
+          - **A-2.2.8.3** — A-2.2.8.3. Below-Floor Storage Areas for Liquid Manure  _(p.139)_
+          - **A-2.2.8.4.(1)** — A-2.2.8.4.(1) Welding and Cutting  _(p.139)_
+          - **A-2.2.8.6** — A-2.2.8.6. Liquids Capable of Releasing Hazardous Gases or Vapours  _(p.139)_
+          - **A-2.3.1.1.(1)** — A-2.3.1.1.(1) Design of Bins and Silos  _(p.139)_
+          - **A-2.3.2.3.(1)** — A-2.3.2.3.(1) Bulk Densities of Agricultural Products  _(p.139)_
+          - **A-2.3.2.5.(3)** — A-2.3.2.5.(3) Lateral Ice Pressure in Liquid Manure Storage Tanks  _(p.141)_
+          - **A-2.3.2.5.(4)** — A-2.3.2.5.(4)(a) Lateral Earth Pressure on Walls of Liquid Manure Storage Tanks  _(p.142)_
+          - **A-2.3.2.5.(6)** — A-2.3.2.5.(6) Design of Liquid Manure Storage Tanks to Minimize Leakage  _(p.142)_
+          - **A-2.3.3.1.(1)** — A-2.3.3.1.(1) Reduced Snow Loads for Unobstructed Slippery Roofs  _(p.142)_
+          - **A-2.3.4** — A-2.3.4. Seismic Design of Above-Ground Liquid Manure Storage Tanks  _(p.142)_
+          - **A-2.3.4.1.(1)** — A-2.3.4.1.(1)(b) SFRSs for Farm Buildings in Seismic Category SC2  _(p.143)_
+          - **A-2.4.2.1.(1)** — A-2.4.2.1.(1) Required Ventilation  _(p.143)_
+          - **A-2.4.2.3** — A-2.4.2.3. Controlled-Atmosphere Storage Areas  _(p.143)_
+          - **A-2.4.2.4.(3)** — A-2.4.2.4.(3) Gas Hazards in Enclosed Horizontal Silos  _(p.143)_
+          - **A-2.4.2.4.(3)** — A-2.4.2.4.(3)(b) Openings at Floor Level in Enclosed Horizontal Silos  _(p.143)_
+          - **A-2.4.2.5** — A-2.4.2.5. Below-Floor Storage of Liquid Manure  _(p.143)_
+          - **A-2.4.2.5.(1)** — A-2.4.2.5.(1) Minimum Ventilation Rate  _(p.143)_
+      - **Part 3** — Part 3 Fire Protection, Occupant Safety and Accessibility  _(p.144)_
+        - **3.1** — Section 3.1. General  _(p.146)_
+          - **3.1.1** — 3.1.1. Scope and Definitions  _(p.146)_
+            - **3.1.1.1** — 3.1.1.1. Scope  _(p.146)_
+            - **3.1.1.2** — 3.1.1.2. Defined Words  _(p.146)_
+            - **3.1.1.3** — 3.1.1.3. Use of Term Storage Tank  _(p.146)_
+            - **3.1.1.4** — 3.1.1.4. Fire Protection Information  _(p.146)_
+          - **3.1.2** — 3.1.2. Classification of Buildings or Parts of Buildings by Major Occupancy  _(p.146)_
+            - **3.1.2.1** — 3.1.2.1. Classification of Buildings  _(p.146)_
+            - **3.1.2.2** — 3.1.2.2. Occupancies of Same Classification  _(p.147)_
+            - **3.1.2.3** — 3.1.2.3. Arena-Type Buildings  _(p.147)_
+            - **3.1.2.4** — 3.1.2.4. Police Stations  _(p.147)_
+            - **3.1.2.5** — 3.1.2.5. Convalescent and Children's Custodial Homes  _(p.147)_
+            - **3.1.2.6** — 3.1.2.6. Storage of Combustible Fibres  _(p.147)_
+          - **3.1.3** — 3.1.3. Multiple Occupancy Requirements  _(p.147)_
+            - **3.1.3.1** — 3.1.3.1. Separation of Major Occupancies  _(p.147)_
+            - **3.1.3.2** — 3.1.3.2. Prohibition of Occupancy Combinations  _(p.148)_
+          - **3.1.4** — 3.1.4. Combustible Construction  _(p.149)_
+            - **3.1.4.1** — 3.1.4.1. Combustible Materials Permitted  _(p.149)_
+            - **3.1.4.2** — 3.1.4.2. Protection of Foamed Plastics  _(p.149)_
+            - **3.1.4.3** — 3.1.4.3. Wires and Cables  _(p.149)_
+            - **3.1.4.4** — 3.1.4.4. Non-metallic Raceways  _(p.150)_
+            - **3.1.4.5** — 3.1.4.5. Fire-Retardant-Treated Wood  _(p.150)_
+            - **3.1.4.6** — 3.1.4.6. Heavy Timber Construction Alternative  _(p.150)_
+            - **3.1.4.7** — 3.1.4.7. Heavy Timber Construction  _(p.150)_
+            - **3.1.4.8** — 3.1.4.8. Exterior Cladding  _(p.151)_
+          - **3.1.5** — 3.1.5. Noncombustible Construction  _(p.152)_
+            - **3.1.5.1** — 3.1.5.1. Noncombustible Materials  _(p.152)_
+            - **3.1.5.2** — 3.1.5.2. Minor Combustible Components  _(p.152)_
+            - **3.1.5.3** — 3.1.5.3. Combustible Roofing Materials  _(p.153)_
+            - **3.1.5.4** — 3.1.5.4. Combustible Windows, Glazing and Skylights  _(p.153)_
+            - **3.1.5.5** — 3.1.5.5. Combustible Cladding on Exterior Walls  _(p.154)_
+            - **3.1.5.6** — 3.1.5.6. Combustible Components in Exterior Walls  _(p.154)_
+            - **3.1.5.7** — 3.1.5.7. Factory-Assembled Panels  _(p.155)_
+            - **3.1.5.8** — 3.1.5.8. Nailing Elements  _(p.156)_
+            - **3.1.5.9** — 3.1.5.9. Combustible Millwork  _(p.156)_
+            - **3.1.5.10** — 3.1.5.10. Combustible Flooring Elements  _(p.156)_
+            - **3.1.5.11** — 3.1.5.11. Combustible Stairs in Dwelling Units  _(p.156)_
+            - **3.1.5.12** — 3.1.5.12. Combustible Interior Finishes  _(p.156)_
+            - **3.1.5.13** — 3.1.5.13. Gypsum Board  _(p.156)_
+            - **3.1.5.14** — 3.1.5.14. Combustible Insulation  _(p.157)_
+            - **3.1.5.15** — 3.1.5.15. Foamed Plastic Insulation  _(p.158)_
+            - **3.1.5.16** — 3.1.5.16. Combustible Elements in Partitions  _(p.159)_
+            - **3.1.5.17** — 3.1.5.17. Storage Lockers in Residential Buildings  _(p.159)_
+            - **3.1.5.18** — 3.1.5.18. Combustible Ducts  _(p.159)_
+            - **3.1.5.19** — 3.1.5.19. Combustible Piping Materials  _(p.160)_
+            - **3.1.5.20** — 3.1.5.20. Combustible Plumbing Fixtures  _(p.160)_
+            - **3.1.5.21** — 3.1.5.21. Wires and Cables  _(p.160)_
+            - **3.1.5.22** — 3.1.5.22. Combustible Travelling Cables for Elevators  _(p.161)_
+            - **3.1.5.23** — 3.1.5.23. Non-metallic Raceways  _(p.161)_
+            - **3.1.5.24** — 3.1.5.24. Decorative Wood Cladding  _(p.161)_
+          - **3.1.6** — 3.1.6. Encapsulated Mass Timber Construction  _(p.162)_
+            - **3.1.6.1** — 3.1.6.1. Scope  _(p.162)_
+            - **3.1.6.2** — 3.1.6.2. Materials Permitted  _(p.162)_
+            - **3.1.6.3** — 3.1.6.3. Structural Mass Timber Elements  _(p.162)_
+            - **3.1.6.4** — 3.1.6.4. Encapsulation of Mass Timber Elements  _(p.163)_
+            - **3.1.6.5** — 3.1.6.5. Determination of Encapsulation Ratings  _(p.164)_
+            - **3.1.6.6** — 3.1.6.6. Encapsulation Materials  _(p.164)_
+            - **3.1.6.7** — 3.1.6.7. Combustible Roofing Materials  _(p.164)_
+            - **3.1.6.8** — 3.1.6.8. Combustible Window Sashes and Frames  _(p.165)_
+            - **3.1.6.9** — 3.1.6.9. Exterior Cladding  _(p.165)_
+            - **3.1.6.10** — 3.1.6.10. Combustible Components in Exterior Walls  _(p.166)_
+            - **3.1.6.11** — 3.1.6.11. Nailing Elements  _(p.166)_
+            - **3.1.6.12** — 3.1.6.12. Combustible Flooring Elements  _(p.166)_
+            - **3.1.6.13** — 3.1.6.13. Combustible Stairs  _(p.167)_
+            - **3.1.6.14** — 3.1.6.14. Combustible Interior Finishes  _(p.167)_
+            - **3.1.6.15** — 3.1.6.15. Combustible Elements in Partitions  _(p.167)_
+            - **3.1.6.16** — 3.1.6.16. Exposed Construction Materials and Components in Concealed Spaces  _(p.168)_
+            - **3.1.6.17** — 3.1.6.17. Penetration by Outlet Boxes  _(p.168)_
+          - **3.1.7** — 3.1.7. Fire-Resistance Ratings  _(p.168)_
+            - **3.1.7.1** — 3.1.7.1. Determination of Ratings  _(p.168)_
+            - **3.1.7.2** — 3.1.7.2. Exception for Exterior Walls  _(p.168)_
+            - **3.1.7.3** — 3.1.7.3. Exposure Conditions for Rating  _(p.168)_
+            - **3.1.7.4** — 3.1.7.4. Minimum Fire-Resistance Rating  _(p.168)_
+            - **3.1.7.5** — 3.1.7.5. Rating of Supporting Construction  _(p.169)_
+          - **3.1.8** — 3.1.8. Fire Separations and Closures  _(p.169)_
+            - **3.1.8.1** — 3.1.8.1. General Requirements  _(p.169)_
+            - **3.1.8.2** — 3.1.8.2. Combustible Construction Support  _(p.169)_
+            - **3.1.8.3** — 3.1.8.3. Continuity of Fire Separations  _(p.169)_
+            - **3.1.8.4** — 3.1.8.4. Determination of Ratings and Classifications  _(p.170)_
+            - **3.1.8.5** — 3.1.8.5. Installation of Closures  _(p.170)_
+            - **3.1.8.6** — 3.1.8.6. Maximum Openings  _(p.171)_
+            - **3.1.8.7** — 3.1.8.7. Location of Fire Dampers and Smoke Dampers  _(p.171)_
+            - **3.1.8.8** — 3.1.8.8. Fire Dampers Waived  _(p.171)_
+            - **3.1.8.9** — 3.1.8.9. Smoke Dampers Waived  _(p.172)_
+            - **3.1.8.10** — 3.1.8.10. Installation of Fire Dampers  _(p.172)_
+            - **3.1.8.11** — 3.1.8.11. Installation of Smoke Dampers  _(p.173)_
+            - **3.1.8.12** — 3.1.8.12. Twenty-Minute Closures  _(p.173)_
+            - **3.1.8.13** — 3.1.8.13. Self-closing Devices  _(p.173)_
+            - **3.1.8.14** — 3.1.8.14. Hold-Open Devices  _(p.174)_
+            - **3.1.8.15** — 3.1.8.15. Door Latches  _(p.174)_
+            - **3.1.8.16** — 3.1.8.16. Wired Glass and Glass Block  _(p.174)_
+            - **3.1.8.17** — 3.1.8.17. Temperature Rise Limit for Doors  _(p.175)_
+            - **3.1.8.18** — 3.1.8.18. Area Limits for Wired Glass, Glass Block and Safety Glazing  _(p.175)_
+            - **3.1.8.19** — 3.1.8.19. Temperature Rise and Area Limits Waived  _(p.175)_
+          - **3.1.9** — 3.1.9. Penetrations in Fire Separations and Fire-Rated Assemblies  _(p.176)_
+            - **3.1.9.1** — 3.1.9.1. Firestops  _(p.176)_
+            - **3.1.9.2** — 3.1.9.2. Service Equipment Penetrations  _(p.176)_
+            - **3.1.9.3** — 3.1.9.3. Penetration by Outlet Boxes  _(p.177)_
+            - **3.1.9.4** — 3.1.9.4. Combustible Piping Penetrations  _(p.177)_
+            - **3.1.9.5** — 3.1.9.5. Openings through a Membrane Ceiling  _(p.178)_
+            - **3.1.9.6** — 3.1.9.6. Plenums  _(p.178)_
+          - **3.1.10** — 3.1.10. Firewalls  _(p.178)_
+            - **3.1.10.1** — 3.1.10.1. Prevention of Firewall Collapse  _(p.178)_
+            - **3.1.10.2** — 3.1.10.2. Rating of Firewalls  _(p.179)_
+            - **3.1.10.3** — 3.1.10.3. Continuity of Firewalls  _(p.179)_
+            - **3.1.10.4** — 3.1.10.4. Parapets  _(p.179)_
+            - **3.1.10.5** — 3.1.10.5. Maximum Openings  _(p.179)_
+            - **3.1.10.6** — 3.1.10.6. Exposure Protection for Adjacent Walls  _(p.179)_
+            - **3.1.10.7** — 3.1.10.7. Combustible Projections  _(p.180)_
+          - **3.1.11** — 3.1.11. Fire Blocks in Concealed Spaces  _(p.180)_
+            - **3.1.11.1** — 3.1.11.1. Separation of Concealed Spaces  _(p.180)_
+            - **3.1.11.2** — 3.1.11.2. Fire Blocks in Wall Assemblies  _(p.180)_
+            - **3.1.11.3** — 3.1.11.3. Fire Blocks between Nailing and Supporting Elements  _(p.180)_
+            - **3.1.11.4** — 3.1.11.4. Fire Blocks between Vertical and Horizontal Spaces  _(p.181)_
+            - **3.1.11.5** — 3.1.11.5. Fire Blocks in Horizontal Concealed Spaces  _(p.181)_
+            - **3.1.11.6** — 3.1.11.6. Fire Blocks in Crawl Spaces  _(p.182)_
+            - **3.1.11.7** — 3.1.11.7. Fire Block Materials  _(p.182)_
+          - **3.1.12** — 3.1.12. Flame-Spread Rating and Smoke Developed Classification  _(p.182)_
+            - **3.1.12.1** — 3.1.12.1. Determination of Ratings  _(p.182)_
+          - **3.1.13** — 3.1.13. Interior Finish  _(p.183)_
+            - **3.1.13.1** — 3.1.13.1. Interior Finishes, Furnishings and Decorative Materials  _(p.183)_
+            - **3.1.13.2** — 3.1.13.2. Flame-Spread Rating  _(p.183)_
+            - **3.1.13.3** — 3.1.13.3. Bathrooms in Residential Suites  _(p.184)_
+            - **3.1.13.4** — 3.1.13.4. Light Diffusers and Lenses  _(p.184)_
+            - **3.1.13.5** — 3.1.13.5. Skylights  _(p.184)_
+            - **3.1.13.6** — 3.1.13.6. Corridors  _(p.184)_
+            - **3.1.13.7** — 3.1.13.7. High Buildings  _(p.185)_
+            - **3.1.13.8** — 3.1.13.8. Noncombustible Construction  _(p.186)_
+            - **3.1.13.9** — 3.1.13.9. Underground Walkways  _(p.186)_
+            - **3.1.13.10** — 3.1.13.10. Exterior Exit Passageway  _(p.186)_
+            - **3.1.13.11** — 3.1.13.11. Elevator Cars  _(p.186)_
+            - **3.1.13.12** — 3.1.13.12. Encapsulated Mass Timber Construction  _(p.186)_
+          - **3.1.14** — 3.1.14. Roof Assemblies  _(p.186)_
+            - **3.1.14.1** — 3.1.14.1. Fire-Retardant-Treated Wood Roof Systems  _(p.186)_
+            - **3.1.14.2** — 3.1.14.2. Metal Roof Deck Assemblies  _(p.187)_
+          - **3.1.15** — 3.1.15. Roof Covering  _(p.187)_
+            - **3.1.15.1** — 3.1.15.1. Roof Covering Classification  _(p.187)_
+            - **3.1.15.2** — 3.1.15.2. Roof Coverings  _(p.187)_
+          - **3.1.16** — 3.1.16. Fabrics  _(p.187)_
+            - **3.1.16.1** — 3.1.16.1. Fabric Canopies and Marquees  _(p.187)_
+          - **3.1.17** — 3.1.17. Occupant Load  _(p.188)_
+            - **3.1.17.1** — 3.1.17.1. Occupant Load Determination  _(p.188)_
+          - **3.1.18** — 3.1.18. Tents and Air-Supported Structures  _(p.189)_
+            - **3.1.18.1** — 3.1.18.1. Means of Egress  _(p.189)_
+            - **3.1.18.2** — 3.1.18.2. Restrictions  _(p.189)_
+            - **3.1.18.3** — 3.1.18.3. Clearance to Other Structures  _(p.189)_
+            - **3.1.18.4** — 3.1.18.4. Clearance to Flammable Material  _(p.189)_
+            - **3.1.18.5** — 3.1.18.5. Flame Resistance  _(p.189)_
+            - **3.1.18.6** — 3.1.18.6. Emergency Air Supply  _(p.190)_
+            - **3.1.18.7** — 3.1.18.7. Electrical Systems  _(p.190)_
+        - **3.2** — Section 3.2. Building Fire Safety  _(p.190)_
+          - **3.2.1** — 3.2.1. General  _(p.190)_
+            - **3.2.1.1** — 3.2.1.1. Exceptions in Determining Building Height  _(p.190)_
+            - **3.2.1.2** — 3.2.1.2. Storage Garage Considered as a Separate Building  _(p.191)_
+            - **3.2.1.3** — 3.2.1.3. Roof Considered as a Wall  _(p.191)_
+            - **3.2.1.4** — 3.2.1.4. Floor Assembly over Basement  _(p.191)_
+            - **3.2.1.5** — 3.2.1.5. Fire Containment in Basements  _(p.192)_
+            - **3.2.1.6** — 3.2.1.6. Mezzanines  _(p.192)_
+          - **3.2.2** — 3.2.2. Building Size and Construction Relative to Occupancy  _(p.192)_
+            - **3.2.2.1** — 3.2.2.1. Application  _(p.192)_
+            - **3.2.2.2** — 3.2.2.2. Special and Unusual Structures  _(p.192)_
+            - **3.2.2.3** — 3.2.2.3. Exceptions to Structural Fire Protection  _(p.192)_
+            - **3.2.2.4** — 3.2.2.4. Buildings with Multiple Major Occupancies  _(p.193)_
+            - **3.2.2.5** — 3.2.2.5. Applicable Building Height and Area  _(p.193)_
+            - **3.2.2.6** — 3.2.2.6. Multiple Major Occupancies  _(p.193)_
+            - **3.2.2.7** — 3.2.2.7. Superimposed Major Occupancies  _(p.193)_
+            - **3.2.2.8** — 3.2.2.8. Exceptions for Major Occupancies  _(p.193)_
+            - **3.2.2.9** — 3.2.2.9. Crawl Spaces  _(p.194)_
+            - **3.2.2.10** — 3.2.2.10. Streets  _(p.194)_
+            - **3.2.2.11** — 3.2.2.11. Exterior Balconies  _(p.194)_
+            - **3.2.2.12** — 3.2.2.12. Exterior Passageways  _(p.194)_
+            - **3.2.2.13** — 3.2.2.13. Occupancy on Roof  _(p.194)_
+            - **3.2.2.14** — 3.2.2.14. Rooftop Enclosures  _(p.194)_
+            - **3.2.2.15** — 3.2.2.15. Storeys below Ground  _(p.195)_
+            - **3.2.2.16** — 3.2.2.16. Heavy Timber Roof Permitted  _(p.195)_
+            - **3.2.2.17** — 3.2.2.17. Roof Assemblies and Mezzanines in Gymnasiums, Swimming Pools, Arenas and Rinks  _(p.195)_
+            - **3.2.2.18** — 3.2.2.18. Automatic Sprinkler System Required  _(p.196)_
+            - **3.2.2.19** — 3.2.2.19. Buildings Containing Impeded Egress Zones  _(p.196)_
+            - **3.2.2.20** — 3.2.2.20. Group A, Division 1, Any Height, Any Area, Sprinklered  _(p.196)_
+            - **3.2.2.21** — 3.2.2.21. Group A, Division 1, One Storey, Limited Area, Sprinklered  _(p.197)_
+            - **3.2.2.22** — 3.2.2.22. Group A, Division 1, One Storey, Sprinklered  _(p.197)_
+            - **3.2.2.23** — 3.2.2.23. Group A, Division 2, Any Height, Any Area, Sprinklered  _(p.197)_
+            - **3.2.2.24** — 3.2.2.24. Group A, Division 2, up to 6 Storeys, Any Area, Sprinklered  _(p.198)_
+            - **3.2.2.25** — 3.2.2.25. Group A, Division 2, up to 2 Storeys  _(p.198)_
+            - **3.2.2.26** — 3.2.2.26. Group A, Division 2, up to 2 Storeys, Increased Area, Sprinklered  _(p.199)_
+            - **3.2.2.27** — 3.2.2.27. Group A, Division 2, up to 2 Storeys, Sprinklered  _(p.199)_
+            - **3.2.2.28** — 3.2.2.28. Group A, Division 2, One Storey  _(p.199)_
+            - **3.2.2.29** — 3.2.2.29. Group A, Division 3, Any Height, Any Area, Sprinklered  _(p.199)_
+            - **3.2.2.30** — 3.2.2.30. Group A, Division 3, up to 2 Storeys  _(p.200)_
+            - **3.2.2.31** — 3.2.2.31. Group A, Division 3, up to 2 Storeys, Sprinklered  _(p.200)_
+            - **3.2.2.32** — 3.2.2.32. Group A, Division 3, One Storey, Increased Area  _(p.200)_
+            - **3.2.2.33** — 3.2.2.33. Group A, Division 3, One Storey, Sprinklered  _(p.201)_
+            - **3.2.2.34** — 3.2.2.34. Group A, Division 3, One Storey  _(p.201)_
+            - **3.2.2.35** — 3.2.2.35. Group A, Division 4  _(p.201)_
+            - **3.2.2.36** — 3.2.2.36. Group B, Division 1, Any Height, Any Area, Sprinklered  _(p.201)_
+            - **3.2.2.37** — 3.2.2.37. Group B, Division 1, up to 3 Storeys, Sprinklered  _(p.202)_
+            - **3.2.2.38** — 3.2.2.38. Group B, Division 2, Any Height, Any Area, Sprinklered  _(p.202)_
+            - **3.2.2.39** — 3.2.2.39. Group B, Division 2, up to 3 Storeys, Sprinklered  _(p.202)_
+            - **3.2.2.40** — 3.2.2.40. Group B, Division 2, up to 2 Storeys, Sprinklered  _(p.203)_
+            - **3.2.2.41** — 3.2.2.41. Group B, Division 2, One Storey, Sprinklered  _(p.203)_
+            - **3.2.2.42** — 3.2.2.42. Group B, Division 3, Any Height, Any Area, Sprinklered  _(p.203)_
+            - **3.2.2.43** — 3.2.2.43. Group B, Division 3, up to 3 Storeys (Noncombustible), Sprinklered  _(p.203)_
+            - **3.2.2.44** — 3.2.2.44. Group B, Division 3, up to 3 Storeys, Sprinklered  _(p.204)_
+            - **3.2.2.45** — 3.2.2.45. Group B, Division 3, up to 2 Storeys, Sprinklered  _(p.204)_
+            - **3.2.2.46** — 3.2.2.46. Group B, Division 3, One Storey, Sprinklered  _(p.204)_
+            - **3.2.2.47** — 3.2.2.47. Group C, Any Height, Any Area, Sprinklered  _(p.204)_
+            - **3.2.2.48** — 3.2.2.48. Group C, up to 12 Storeys, Sprinklered  _(p.205)_
+            - **3.2.2.49** — 3.2.2.49. Group C, up to 6 Storeys, Sprinklered, Noncombustible Construction  _(p.205)_
+            - **3.2.2.50** — 3.2.2.50. Group C, up to 3 Storeys, Noncombustible Construction  _(p.206)_
+            - **3.2.2.51** — 3.2.2.51. Group C, up to 6 Storeys, Sprinklered  _(p.206)_
+            - **3.2.2.52** — 3.2.2.52. Group C, up to 4 Storeys, Sprinklered  _(p.207)_
+            - **3.2.2.53** — 3.2.2.53. Group C, up to 3 Storeys, Increased Area  _(p.207)_
+            - **3.2.2.54** — 3.2.2.54. Group C, up to 3 Storeys  _(p.208)_
+            - **3.2.2.55** — 3.2.2.55. Group C, up to 3 Storeys, Sprinklered  _(p.209)_
+            - **3.2.2.56** — 3.2.2.56. Group D, Any Height, Any Area, Sprinklered  _(p.209)_
+            - **3.2.2.57** — 3.2.2.57. Group D, up to 12 storeys, Sprinklered  _(p.209)_
+            - **3.2.2.58** — 3.2.2.58. Group D, up to 6 Storeys  _(p.210)_
+            - **3.2.2.59** — 3.2.2.59. Group D, up to 6 Storeys, Sprinklered, Noncombustible Construction  _(p.210)_
+            - **3.2.2.60** — 3.2.2.60. Group D, up to 6 Storeys, Sprinklered  _(p.211)_
+            - **3.2.2.61** — 3.2.2.61. Group D, up to 4 Storeys, Sprinklered  _(p.211)_
+            - **3.2.2.62** — 3.2.2.62. Group D, up to 3 Storeys  _(p.212)_
+            - **3.2.2.63** — 3.2.2.63. Group D, up to 3 Storeys, Sprinklered  _(p.212)_
+            - **3.2.2.64** — 3.2.2.64. Group D, up to 2 Storeys  _(p.213)_
+            - **3.2.2.65** — 3.2.2.65. Group D, up to 2 Storeys, Sprinklered  _(p.213)_
+            - **3.2.2.66** — 3.2.2.66. Group E, Any Height, Any Area, Sprinklered  _(p.213)_
+            - **3.2.2.67** — 3.2.2.67. Group E, up to 4 Storeys, Sprinklered  _(p.214)_
+            - **3.2.2.68** — 3.2.2.68. Group E, up to 3 Storeys  _(p.214)_
+            - **3.2.2.69** — 3.2.2.69. Group E, up to 3 Storeys, Sprinklered  _(p.215)_
+            - **3.2.2.70** — 3.2.2.70. Group E, up to 2 Storeys  _(p.215)_
+            - **3.2.2.71** — 3.2.2.71. Group E, up to 2 Storeys, Sprinklered  _(p.215)_
+            - **3.2.2.72** — 3.2.2.72. Group F, Division 1, up to 4 Storeys, Sprinklered  _(p.216)_
+            - **3.2.2.73** — 3.2.2.73. Group F, Division 1, up to 3 Storeys, Sprinklered  _(p.216)_
+            - **3.2.2.74** — 3.2.2.74. Group F, Division 1, up to 2 Storeys, Sprinklered  _(p.216)_
+            - **3.2.2.75** — 3.2.2.75. Group F, Division 1, One Storey  _(p.217)_
+            - **3.2.2.76** — 3.2.2.76. Group F, Division 2, Any Height, Any Area, Sprinklered  _(p.217)_
+            - **3.2.2.77** — 3.2.2.77. Group F, Division 2, up to 4 Storeys, Increased Area, Sprinklered  _(p.217)_
+            - **3.2.2.78** — 3.2.2.78. Group F, Division 2, up to 3 Storeys  _(p.217)_
+            - **3.2.2.79** — 3.2.2.79. Group F, Division 2, up to 4 Storeys, Sprinklered  _(p.218)_
+            - **3.2.2.80** — 3.2.2.80. Group F, Division 2, up to 2 Storeys  _(p.218)_
+            - **3.2.2.81** — 3.2.2.81. Group F, Division 2, up to 2 Storeys, Sprinklered  _(p.219)_
+            - **3.2.2.82** — 3.2.2.82. Group F, Division 3, Any Height, Any Area, Sprinklered  _(p.219)_
+            - **3.2.2.83** — 3.2.2.83. Group F, Division 3, up to 6 Storeys  _(p.219)_
+            - **3.2.2.84** — 3.2.2.84. Group F, Division 3, up to 6 Storeys, Sprinklered  _(p.220)_
+            - **3.2.2.85** — 3.2.2.85. Group F, Division 3, up to 4 Storeys  _(p.220)_
+            - **3.2.2.86** — 3.2.2.86. Group F, Division 3, up to 4 Storeys, Sprinklered  _(p.221)_
+            - **3.2.2.87** — 3.2.2.87. Group F, Division 3, up to 2 Storeys  _(p.221)_
+            - **3.2.2.88** — 3.2.2.88. Group F, Division 3, up to 2 Storeys, Sprinklered  _(p.222)_
+            - **3.2.2.89** — 3.2.2.89. Group F, Division 3, One Storey  _(p.222)_
+            - **3.2.2.90** — 3.2.2.90. Group F, Division 3, One Storey, Sprinklered  _(p.222)_
+            - **3.2.2.91** — 3.2.2.91. Group F, Division 3, One Storey, Any Area, Low Fire Load Occupancy  _(p.222)_
+            - **3.2.2.92** — 3.2.2.92. Group F, Division 3, Storage Garages up to 22 m High  _(p.223)_
+          - **3.2.3** — 3.2.3. Spatial Separation and Exposure Protection  _(p.223)_
+            - **3.2.3.1** — 3.2.3.1. Limiting Distance and Area of Unprotected Openings  _(p.223)_
+            - **3.2.3.2** — 3.2.3.2. Area of Exposing Building Face  _(p.230)_
+            - **3.2.3.3** — 3.2.3.3. Wall Enclosing Attic or Roof Space  _(p.231)_
+            - **3.2.3.4** — 3.2.3.4. Party Wall  _(p.231)_
+            - **3.2.3.5** — 3.2.3.5. Wall with Limiting Distance Less Than 1.2 m  _(p.231)_
+            - **3.2.3.6** — 3.2.3.6. Combustible Projections  _(p.231)_
+            - **3.2.3.7** — 3.2.3.7. Construction of Exposing Building Face  _(p.231)_
+            - **3.2.3.8** — 3.2.3.8. Protection of Exterior Building Face  _(p.233)_
+            - **3.2.3.9** — 3.2.3.9. Protection of Structural Members  _(p.233)_
+            - **3.2.3.10** — 3.2.3.10. Unlimited Unprotected Openings  _(p.234)_
+            - **3.2.3.11** — 3.2.3.11. Low Fire Load, One Storey Building  _(p.234)_
+            - **3.2.3.12** — 3.2.3.12. Area Increase for Unprotected Openings  _(p.234)_
+            - **3.2.3.13** — 3.2.3.13. Protection of Exit Facilities  _(p.234)_
+            - **3.2.3.14** — 3.2.3.14. Wall Exposed to Another Wall  _(p.234)_
+            - **3.2.3.15** — 3.2.3.15. Wall Exposed to Adjoining Roof  _(p.235)_
+            - **3.2.3.16** — 3.2.3.16. Protection of Soffits  _(p.235)_
+            - **3.2.3.17** — 3.2.3.17. Canopy Protection for Vertically Separated Openings  _(p.236)_
+            - **3.2.3.18** — 3.2.3.18. Covered Vehicular Passageway  _(p.236)_
+            - **3.2.3.19** — 3.2.3.19. Walkway between Buildings  _(p.236)_
+            - **3.2.3.20** — 3.2.3.20. Underground Walkway  _(p.236)_
+            - **3.2.3.21** — 3.2.3.21. Storage and Process Equipment Located Outdoors  _(p.237)_
+            - **3.2.3.22** — 3.2.3.22. Installation of Service Lines Under Buildings  _(p.237)_
+          - **3.2.4** — 3.2.4. Fire Alarm and Detection Systems  _(p.237)_
+            - **3.2.4.1** — 3.2.4.1. Determination of Requirement for a Fire Alarm System  _(p.237)_
+            - **3.2.4.2** — 3.2.4.2. Continuity of Fire Alarm System  _(p.238)_
+            - **3.2.4.3** — 3.2.4.3. Types of Fire Alarm Systems  _(p.238)_
+            - **3.2.4.4** — 3.2.4.4. Description of Fire Alarm Systems  _(p.238)_
+            - **3.2.4.5** — 3.2.4.5. Installation and Verification of Fire Alarm Systems  _(p.239)_
+            - **3.2.4.6** — 3.2.4.6. Silencing of Alarm Signals  _(p.239)_
+            - **3.2.4.7** — 3.2.4.7. Signals to Fire Department  _(p.239)_
+            - **3.2.4.8** — 3.2.4.8. Annunciator and Zone Indication  _(p.239)_
+            - **3.2.4.9** — 3.2.4.9. Electrical Supervision  _(p.240)_
+            - **3.2.4.10** — 3.2.4.10. Fire Detectors  _(p.240)_
+            - **3.2.4.11** — 3.2.4.11. Smoke Detectors  _(p.241)_
+            - **3.2.4.12** — 3.2.4.12. Prevention of Smoke Circulation  _(p.241)_
+            - **3.2.4.13** — 3.2.4.13. Vacuum Cleaning System Shutdown  _(p.242)_
+            - **3.2.4.14** — 3.2.4.14. Elevator Emergency Return  _(p.242)_
+            - **3.2.4.15** — 3.2.4.15. System Monitoring  _(p.242)_
+            - **3.2.4.16** — 3.2.4.16. Manual Stations  _(p.242)_
+            - **3.2.4.17** — 3.2.4.17. Alert and Alarm Signals  _(p.242)_
+            - **3.2.4.18** — 3.2.4.18. Audibility of Alarm Systems  _(p.243)_
+            - **3.2.4.19** — 3.2.4.19. Visible Signals  _(p.244)_
+            - **3.2.4.20** — 3.2.4.20. Smoke Alarms  _(p.244)_
+            - **3.2.4.21** — 3.2.4.21. Residential Fire Warning Systems  _(p.246)_
+            - **3.2.4.22** — 3.2.4.22. Voice Communication Systems for High Buildings  _(p.246)_
+            - **3.2.4.23** — 3.2.4.23. One-Way Voice Communication Systems  _(p.246)_
+          - **3.2.5** — 3.2.5. Provisions for Firefighting  _(p.247)_
+            - **3.2.5.1** — 3.2.5.1. Access to Above-Grade Storeys  _(p.247)_
+            - **3.2.5.2** — 3.2.5.2. Access to Basements  _(p.247)_
+            - **3.2.5.3** — 3.2.5.3. Roof Access  _(p.247)_
+            - **3.2.5.4** — 3.2.5.4. Access Routes  _(p.247)_
+            - **3.2.5.5** — 3.2.5.5. Location of Access Routes  _(p.248)_
+            - **3.2.5.6** — 3.2.5.6. Access Route Design  _(p.248)_
+            - **3.2.5.7** — 3.2.5.7. Water Supply  _(p.248)_
+            - **3.2.5.8** — 3.2.5.8. Standpipe Systems  _(p.248)_
+            - **3.2.5.9** — 3.2.5.9. Standpipe System Design  _(p.249)_
+            - **3.2.5.10** — 3.2.5.10. Hose Connections  _(p.249)_
+            - **3.2.5.11** — 3.2.5.11. Hose Stations  _(p.249)_
+            - **3.2.5.12** — 3.2.5.12. Automatic Sprinkler Systems  _(p.250)_
+            - **3.2.5.13** — 3.2.5.13. Combustible Sprinkler Piping  _(p.251)_
+            - **3.2.5.14** — 3.2.5.14. Sprinklered Service Space  _(p.252)_
+            - **3.2.5.15** — 3.2.5.15. Fire Department Connections  _(p.252)_
+            - **3.2.5.16** — 3.2.5.16. Portable Fire Extinguishers  _(p.252)_
+            - **3.2.5.17** — 3.2.5.17. Protection from Freezing  _(p.252)_
+            - **3.2.5.18** — 3.2.5.18. Fire Pumps  _(p.252)_
+          - **3.2.6** — 3.2.6. Additional Requirements for High Buildings  _(p.253)_
+            - **3.2.6.1** — 3.2.6.1. Application  _(p.253)_
+            - **3.2.6.2** — 3.2.6.2. Limits to Smoke Movement  _(p.253)_
+            - **3.2.6.3** — 3.2.6.3. Connected Buildings  _(p.254)_
+            - **3.2.6.4** — 3.2.6.4. Emergency Operation of Elevators  _(p.254)_
+            - **3.2.6.5** — 3.2.6.5. Elevator for Use by Firefighters  _(p.254)_
+            - **3.2.6.6** — 3.2.6.6. Venting to Aid Firefighting  _(p.255)_
+            - **3.2.6.7** — 3.2.6.7. Central Alarm and Control Facility  _(p.255)_
+            - **3.2.6.8** — 3.2.6.8. Voice Communication System  _(p.256)_
+            - **3.2.6.9** — 3.2.6.9. Testing  _(p.256)_
+          - **3.2.7** — 3.2.7. Lighting and Emergency Power Systems  _(p.256)_
+            - **3.2.7.1** — 3.2.7.1. Minimum Lighting Requirements  _(p.256)_
+            - **3.2.7.2** — 3.2.7.2. Recessed Lighting Fixtures  _(p.256)_
+            - **3.2.7.3** — 3.2.7.3. Emergency Lighting  _(p.256)_
+            - **3.2.7.4** — 3.2.7.4. Emergency Power for Lighting  _(p.257)_
+            - **3.2.7.5** — 3.2.7.5. Emergency Power Supply Installation  _(p.257)_
+            - **3.2.7.6** — 3.2.7.6. Emergency Power for Treatment Occupancies  _(p.257)_
+            - **3.2.7.7** — 3.2.7.7. Fuel Supply Shut-off Valves  _(p.257)_
+            - **3.2.7.8** — 3.2.7.8. Emergency Power for Fire Alarm Systems  _(p.258)_
+            - **3.2.7.9** — 3.2.7.9. Emergency Power for Building Services  _(p.258)_
+            - **3.2.7.10** — 3.2.7.10. Protection of Electrical Conductors  _(p.259)_
+          - **3.2.8** — 3.2.8. Mezzanines and Openings through Floor Assemblies  _(p.260)_
+            - **3.2.8.1** — 3.2.8.1. Application  _(p.260)_
+            - **3.2.8.2** — 3.2.8.2. Exceptions to Special Protection  _(p.260)_
+            - **3.2.8.3** — 3.2.8.3. Sprinklers  _(p.261)_
+            - **3.2.8.4** — 3.2.8.4. Vestibules  _(p.261)_
+            - **3.2.8.5** — 3.2.8.5. Protected Floor Space  _(p.261)_
+            - **3.2.8.6** — 3.2.8.6. Draft Stops  _(p.261)_
+            - **3.2.8.7** — 3.2.8.7. Mechanical Exhaust System  _(p.261)_
+            - **3.2.8.8** — 3.2.8.8. Combustible Content Limits  _(p.261)_
+          - **3.2.9** — 3.2.9. Integrated Fire Protection and Life Safety Systems  _(p.262)_
+            - **3.2.9.1** — 3.2.9.1. Testing  _(p.262)_
+        - **3.3** — Section 3.3. Safety within Floor Areas  _(p.262)_
+          - **3.3.1** — 3.3.1. All Floor Areas  _(p.262)_
+            - **3.3.1.1** — 3.3.1.1. Separation of Suites  _(p.262)_
+            - **3.3.1.2** — 3.3.1.2. Hazardous Substances, Equipment and Processes  _(p.262)_
+            - **3.3.1.3** — 3.3.1.3. Means of Egress  _(p.262)_
+            - **3.3.1.4** — 3.3.1.4. Public Corridor Separations  _(p.263)_
+            - **3.3.1.5** — 3.3.1.5. Egress Doorways  _(p.263)_
+            - **3.3.1.6** — 3.3.1.6. Travel Distance  _(p.265)_
+            - **3.3.1.7** — 3.3.1.7. Protection on Floor Areas with a Barrier-Free Path of Travel  _(p.265)_
+            - **3.3.1.8** — 3.3.1.8. Headroom and Protruding Objects  _(p.265)_
+            - **3.3.1.9** — 3.3.1.9. Corridors  _(p.266)_
+            - **3.3.1.10** — 3.3.1.10. Aisles  _(p.266)_
+            - **3.3.1.11** — 3.3.1.11. Door Swing  _(p.266)_
+            - **3.3.1.12** — 3.3.1.12. Sliding Doors  _(p.266)_
+            - **3.3.1.13** — 3.3.1.13. Doors and Door Hardware  _(p.267)_
+            - **3.3.1.14** — 3.3.1.14. Ramps and Stairways  _(p.267)_
+            - **3.3.1.15** — 3.3.1.15. Exterior Passageways  _(p.267)_
+            - **3.3.1.16** — 3.3.1.16. Tapered Treads in a Curved Flight  _(p.268)_
+            - **3.3.1.17** — 3.3.1.17. Capacity of Access to Exits  _(p.268)_
+            - **3.3.1.18** — 3.3.1.18. Guards  _(p.268)_
+            - **3.3.1.19** — 3.3.1.19. Tactile Walking Surface Indicators  _(p.269)_
+            - **3.3.1.20** — 3.3.1.20. Transparent Doors and Panels  _(p.269)_
+            - **3.3.1.21** — 3.3.1.21. Exhaust Ventilation and Explosion Venting  _(p.270)_
+            - **3.3.1.22** — 3.3.1.22. Janitors' Rooms  _(p.270)_
+            - **3.3.1.23** — 3.3.1.23. Common Laundry Rooms  _(p.270)_
+            - **3.3.1.24** — 3.3.1.24. Obstructions  _(p.270)_
+            - **3.3.1.25** — 3.3.1.25. Signs in Service Spaces  _(p.270)_
+            - **3.3.1.26** — 3.3.1.26. Welding and Cutting  _(p.271)_
+          - **3.3.2** — 3.3.2. Assembly Occupancy  _(p.271)_
+            - **3.3.2.1** — 3.3.2.1. Scope  _(p.271)_
+            - **3.3.2.2** — 3.3.2.2. Fire Separations  _(p.271)_
+            - **3.3.2.3** — 3.3.2.3. Non-fixed Seating  _(p.271)_
+            - **3.3.2.4** — 3.3.2.4. Fixed Seats  _(p.271)_
+            - **3.3.2.5** — 3.3.2.5. Aisles  _(p.272)_
+            - **3.3.2.6** — 3.3.2.6. Corridors  _(p.273)_
+            - **3.3.2.7** — 3.3.2.7. Doors  _(p.273)_
+            - **3.3.2.8** — 3.3.2.8. Fixed Bench-Type Seats without Arms  _(p.273)_
+            - **3.3.2.9** — 3.3.2.9. Guards  _(p.273)_
+            - **3.3.2.10** — 3.3.2.10. Handrails in Aisles with Steps  _(p.274)_
+            - **3.3.2.11** — 3.3.2.11. Outdoor Places of Assembly  _(p.274)_
+            - **3.3.2.12** — 3.3.2.12. Bleachers  _(p.275)_
+            - **3.3.2.13** — 3.3.2.13. Libraries  _(p.275)_
+            - **3.3.2.14** — 3.3.2.14. Stages for Theatrical Performances  _(p.275)_
+            - **3.3.2.15** — 3.3.2.15. Risers for Stairs  _(p.276)_
+            - **3.3.2.16** — 3.3.2.16. Storage Rooms  _(p.276)_
+            - **3.3.2.17** — 3.3.2.17. Safety Glazing  _(p.276)_
+          - **3.3.3** — 3.3.3. Care, Treatment or Detention Occupancies  _(p.276)_
+            - **3.3.3.1** — 3.3.3.1. Application  _(p.276)_
+            - **3.3.3.2** — 3.3.3.2. Separations between Care, Treatment or Detention Occupancies and Repair Garages  _(p.276)_
+            - **3.3.3.3** — 3.3.3.3. Corridors  _(p.276)_
+            - **3.3.3.4** — 3.3.3.4. Doorway Width  _(p.277)_
+            - **3.3.3.5** — 3.3.3.5. Compartments and Fire Separations  _(p.277)_
+            - **3.3.3.6** — 3.3.3.6. Areas of Refuge  _(p.278)_
+            - **3.3.3.7** — 3.3.3.7. Contained Use Areas  _(p.278)_
+          - **3.3.4** — 3.3.4. Residential Occupancy  _(p.279)_
+            - **3.3.4.1** — 3.3.4.1. Scope  _(p.279)_
+            - **3.3.4.2** — 3.3.4.2. Fire Separations  _(p.279)_
+            - **3.3.4.3** — 3.3.4.3. Storage Rooms  _(p.280)_
+            - **3.3.4.4** — 3.3.4.4. Egress from Dwelling Units  _(p.280)_
+            - **3.3.4.5** — 3.3.4.5. Automatic Locking Prohibition  _(p.281)_
+            - **3.3.4.6** — 3.3.4.6. Sound Transmission  _(p.281)_
+            - **3.3.4.7** — 3.3.4.7. Stairs, Ramps, Landings, Handrails and Guards for Dwelling Units  _(p.281)_
+            - **3.3.4.8** — 3.3.4.8. Protection of Openable Windows  _(p.281)_
+          - **3.3.5** — 3.3.5. Industrial Occupancy  _(p.281)_
+            - **3.3.5.1** — 3.3.5.1. Scope  _(p.281)_
+            - **3.3.5.2** — 3.3.5.2. Fire Extinguishing Systems  _(p.281)_
+            - **3.3.5.3** — 3.3.5.3. Basements  _(p.281)_
+            - **3.3.5.4** — 3.3.5.4. Repair and Storage Garages  _(p.282)_
+            - **3.3.5.5** — 3.3.5.5. Repair Garage Separation  _(p.282)_
+            - **3.3.5.6** — 3.3.5.6. Storage Garage Separation  _(p.282)_
+            - **3.3.5.7** — 3.3.5.7. Vestibules  _(p.282)_
+            - **3.3.5.8** — 3.3.5.8. Dispensing of Fuel  _(p.283)_
+            - **3.3.5.9** — 3.3.5.9. Multiple-Tenant Self-Storage Warehouses  _(p.283)_
+            - **3.3.5.10** — 3.3.5.10. Guards  _(p.283)_
+          - **3.3.6** — 3.3.6. Design of Hazardous Areas  _(p.283)_
+            - **3.3.6.1** — 3.3.6.1. Application  _(p.283)_
+            - **3.3.6.2** — 3.3.6.2. Storage of Dangerous Goods  _(p.283)_
+            - **3.3.6.3** — 3.3.6.3. Indoor Storage of Anhydrous Ammonia and Flammable, Toxic and Oxidizing Gases  _(p.284)_
+            - **3.3.6.4** — 3.3.6.4. Storage and Dispensing Rooms for Flammable Liquids and Combustible Liquids  _(p.284)_
+            - **3.3.6.5** — 3.3.6.5. Tire Storage  _(p.284)_
+            - **3.3.6.6** — 3.3.6.6. Ammonium Nitrate Storage  _(p.284)_
+            - **3.3.6.7** — 3.3.6.7. Flooring Materials  _(p.285)_
+            - **3.3.6.8** — 3.3.6.8. Fire Separations in Process Plants  _(p.285)_
+            - **3.3.6.9** — 3.3.6.9. Basements and Pits  _(p.285)_
+        - **3.4** — Section 3.4. Exits  _(p.285)_
+          - **3.4.1** — 3.4.1. General  _(p.285)_
+            - **3.4.1.1** — 3.4.1.1. Scope  _(p.285)_
+            - **3.4.1.2** — 3.4.1.2. Separation of Exits  _(p.285)_
+            - **3.4.1.3** — 3.4.1.3. Access to Exits  _(p.285)_
+            - **3.4.1.4** — 3.4.1.4. Types of Exit  _(p.285)_
+            - **3.4.1.5** — 3.4.1.5. Exterior Exit Passageways  _(p.286)_
+            - **3.4.1.6** — 3.4.1.6. Restricted Use of Horizontal Exits  _(p.286)_
+            - **3.4.1.7** — 3.4.1.7. Slide Escapes  _(p.286)_
+            - **3.4.1.8** — 3.4.1.8. Transparent Doors and Panels  _(p.286)_
+            - **3.4.1.9** — 3.4.1.9. Mirrors near Exits  _(p.286)_
+            - **3.4.1.10** — 3.4.1.10. Combustible Glazing in Exits  _(p.286)_
+          - **3.4.2** — 3.4.2. Number and Location of Exits from Floor Areas  _(p.286)_
+            - **3.4.2.1** — 3.4.2.1. Minimum Number of Exits  _(p.286)_
+            - **3.4.2.2** — 3.4.2.2. Means of Egress from Mezzanines  _(p.287)_
+            - **3.4.2.3** — 3.4.2.3. Distance between Exits  _(p.288)_
+            - **3.4.2.4** — 3.4.2.4. Travel Distance  _(p.288)_
+            - **3.4.2.5** — 3.4.2.5. Location of Exits  _(p.288)_
+            - **3.4.2.6** — 3.4.2.6. Principal Entrances  _(p.289)_
+          - **3.4.3** — 3.4.3. Width and Height of Exits  _(p.289)_
+            - **3.4.3.1** — 3.4.3.1. Exit Width Based on Occupant Load  _(p.289)_
+            - **3.4.3.2** — 3.4.3.2. Exit Width  _(p.289)_
+            - **3.4.3.3** — 3.4.3.3. Exit Width Reduction  _(p.291)_
+            - **3.4.3.4** — 3.4.3.4. Headroom Clearance  _(p.291)_
+          - **3.4.4** — 3.4.4. Fire Separation of Exits  _(p.291)_
+            - **3.4.4.1** — 3.4.4.1. Fire-Resistance Rating of Exit Separations  _(p.291)_
+            - **3.4.4.2** — 3.4.4.2. Exits through Lobbies  _(p.291)_
+            - **3.4.4.3** — 3.4.4.3. Exterior Passageway Exceptions  _(p.292)_
+            - **3.4.4.4** — 3.4.4.4. Integrity of Exits  _(p.292)_
+          - **3.4.5** — 3.4.5. Exit Signs  _(p.292)_
+            - **3.4.5.1** — 3.4.5.1. Exit Signs  _(p.292)_
+            - **3.4.5.2** — 3.4.5.2. Exit Signs with Tactile Information  _(p.293)_
+            - **3.4.5.3** — 3.4.5.3. Signs for Stairs and Ramps at Exit Level  _(p.293)_
+          - **3.4.6** — 3.4.6. Types of Exit Facilities  _(p.294)_
+            - **3.4.6.1** — 3.4.6.1. Slip Resistance of Ramps and Stairs  _(p.294)_
+            - **3.4.6.2** — 3.4.6.2. Minimum Number of Risers  _(p.294)_
+            - **3.4.6.3** — 3.4.6.3. Maximum Vertical Rise of Stair Flights and Required Landings  _(p.294)_
+            - **3.4.6.4** — 3.4.6.4. Dimensions of Landings  _(p.294)_
+            - **3.4.6.5** — 3.4.6.5. Handrails  _(p.294)_
+            - **3.4.6.6** — 3.4.6.6. Guards  _(p.295)_
+            - **3.4.6.7** — 3.4.6.7. Ramp Slope  _(p.296)_
+            - **3.4.6.8** — 3.4.6.8. Treads and Risers  _(p.296)_
+            - **3.4.6.9** — 3.4.6.9. Curved Flights in Exits  _(p.297)_
+            - **3.4.6.10** — 3.4.6.10. Horizontal Exits  _(p.297)_
+            - **3.4.6.11** — 3.4.6.11. Doors  _(p.297)_
+            - **3.4.6.12** — 3.4.6.12. Direction of Door Swing  _(p.298)_
+            - **3.4.6.13** — 3.4.6.13. Self-closing Devices  _(p.298)_
+            - **3.4.6.14** — 3.4.6.14. Sliding Doors  _(p.298)_
+            - **3.4.6.15** — 3.4.6.15. Revolving Doors  _(p.298)_
+            - **3.4.6.16** — 3.4.6.16. Door Release Hardware  _(p.299)_
+            - **3.4.6.17** — 3.4.6.17. Security for Banks and Mercantile Floor Areas  _(p.301)_
+            - **3.4.6.18** — 3.4.6.18. Emergency Crossover Access to Floor Areas  _(p.302)_
+            - **3.4.6.19** — 3.4.6.19. Floor Numbering and Identification of Stair Shafts  _(p.302)_
+          - **3.4.7** — 3.4.7. Fire Escapes  _(p.302)_
+            - **3.4.7.1** — 3.4.7.1. Scope  _(p.302)_
+            - **3.4.7.2** — 3.4.7.2. Fire Escape Construction  _(p.302)_
+            - **3.4.7.3** — 3.4.7.3. Access to Fire Escapes  _(p.302)_
+            - **3.4.7.4** — 3.4.7.4. Protection of Fire Escapes  _(p.303)_
+            - **3.4.7.5** — 3.4.7.5. Stairs  _(p.303)_
+            - **3.4.7.6** — 3.4.7.6. Guards and Railings  _(p.303)_
+            - **3.4.7.7** — 3.4.7.7. Landings  _(p.303)_
+        - **3.5** — Section 3.5. Vertical Transportation  _(p.303)_
+          - **3.5.1** — 3.5.1. General  _(p.303)_
+            - **3.5.1.1** — 3.5.1.1. Scope  _(p.303)_
+          - **3.5.2** — 3.5.2. Standards  _(p.304)_
+            - **3.5.2.1** — 3.5.2.1. Elevators, Escalators and Dumbwaiters  _(p.304)_
+          - **3.5.3** — 3.5.3. Fire Separations  _(p.304)_
+            - **3.5.3.1** — 3.5.3.1. Fire Separations for Elevator Hoistways  _(p.304)_
+            - **3.5.3.2** — 3.5.3.2. Vertical Service Spaces for Dumbwaiters  _(p.305)_
+            - **3.5.3.3** — 3.5.3.3. Fire Separations for Elevator Machine Rooms  _(p.305)_
+          - **3.5.4** — 3.5.4. Dimensions and Signs  _(p.305)_
+            - **3.5.4.1** — 3.5.4.1. Elevator Car Dimensions  _(p.305)_
+            - **3.5.4.2** — 3.5.4.2. Floor Numbering  _(p.305)_
+        - **3.6** — Section 3.6. Service Facilities  _(p.305)_
+          - **3.6.1** — 3.6.1. General  _(p.305)_
+            - **3.6.1.1** — 3.6.1.1. Scope  _(p.305)_
+            - **3.6.1.2** — 3.6.1.2. Electrical Wiring and Equipment  _(p.305)_
+            - **3.6.1.3** — 3.6.1.3. Lightning Protection Systems  _(p.305)_
+            - **3.6.1.4** — 3.6.1.4. Storage Use Prohibition  _(p.306)_
+            - **3.6.1.5** — 3.6.1.5. Appliances Installed outside a Building  _(p.306)_
+          - **3.6.2** — 3.6.2. Service Rooms  _(p.306)_
+            - **3.6.2.1** — 3.6.2.1. Fire Separations around Service Rooms  _(p.306)_
+            - **3.6.2.2** — 3.6.2.2. Service Rooms under Exits  _(p.307)_
+            - **3.6.2.3** — 3.6.2.3. Service Equipment  _(p.307)_
+            - **3.6.2.4** — 3.6.2.4. Incinerator Rooms  _(p.307)_
+            - **3.6.2.5** — 3.6.2.5. Storage of Combustible Refuse and Recycling  _(p.307)_
+            - **3.6.2.6** — 3.6.2.6. Door Swing for Service Rooms  _(p.307)_
+            - **3.6.2.7** — 3.6.2.7. Electrical Equipment Vaults  _(p.307)_
+            - **3.6.2.8** — 3.6.2.8. Emergency Power Installations  _(p.308)_
+          - **3.6.3** — 3.6.3. Vertical Service Spaces and Service Facilities  _(p.308)_
+            - **3.6.3.1** — 3.6.3.1. Fire Separations for Vertical Service Spaces  _(p.308)_
+            - **3.6.3.2** — 3.6.3.2. Foamed Plastic Protection  _(p.309)_
+            - **3.6.3.3** — 3.6.3.3. Linen and Refuse Chutes  _(p.309)_
+            - **3.6.3.4** — 3.6.3.4. Exhaust Duct Negative Pressure  _(p.309)_
+            - **3.6.3.5** — 3.6.3.5. Grease Duct Enclosures  _(p.310)_
+          - **3.6.4** — 3.6.4. Horizontal Service Spaces and Service Facilities  _(p.310)_
+            - **3.6.4.1** — 3.6.4.1. Scope  _(p.310)_
+            - **3.6.4.2** — 3.6.4.2. Fire Separations for Horizontal Service Spaces  _(p.310)_
+            - **3.6.4.3** — 3.6.4.3. Plenum Requirements  _(p.310)_
+            - **3.6.4.4** — 3.6.4.4. Attic or Roof Space Access  _(p.311)_
+            - **3.6.4.5** — 3.6.4.5. Horizontal Service Space Access  _(p.311)_
+            - **3.6.4.6** — 3.6.4.6. Crawl Space Access  _(p.311)_
+          - **3.6.5** — 3.6.5. Air Duct and Plenum Systems  _(p.311)_
+            - **3.6.5.1** — 3.6.5.1. Duct Materials  _(p.311)_
+            - **3.6.5.2** — 3.6.5.2. Vibration Isolation Connectors  _(p.312)_
+            - **3.6.5.3** — 3.6.5.3. Tape  _(p.312)_
+            - **3.6.5.4** — 3.6.5.4. Coverings, Linings, Adhesives and Insulation  _(p.312)_
+            - **3.6.5.5** — 3.6.5.5. Insulation and Coverings  _(p.312)_
+            - **3.6.5.6** — 3.6.5.6. Clearance of Ducts and Plenums  _(p.313)_
+            - **3.6.5.7** — 3.6.5.7. Supply, Return, Intake and Exhaust-Air Openings  _(p.314)_
+            - **3.6.5.8** — 3.6.5.8. Return-Air System  _(p.314)_
+        - **3.7** — Section 3.7. Health Requirements  _(p.314)_
+          - **3.7.1** — 3.7.1. Height of Rooms  _(p.314)_
+            - **3.7.1.1** — 3.7.1.1. Room and Space Height  _(p.314)_
+          - **3.7.2** — 3.7.2. Plumbing Facilities  _(p.314)_
+            - **3.7.2.1** — 3.7.2.1. Plumbing and Drainage Systems  _(p.314)_
+            - **3.7.2.2** — 3.7.2.2. Water Closets  _(p.314)_
+            - **3.7.2.3** — 3.7.2.3. Lavatories  _(p.316)_
+            - **3.7.2.4** — 3.7.2.4. Safety Glazing  _(p.317)_
+            - **3.7.2.5** — 3.7.2.5. Surface Protection  _(p.317)_
+            - **3.7.2.6** — 3.7.2.6. Floor Drain  _(p.317)_
+            - **3.7.2.7** — 3.7.2.7. Grab Bars  _(p.317)_
+            - **3.7.2.8** — 3.7.2.8. Bathtubs  _(p.317)_
+          - **3.7.3** — 3.7.3. Medical Gas Piping Systems  _(p.317)_
+            - **3.7.3.1** — 3.7.3.1. Medical Gas Piping  _(p.317)_
+        - **3.8** — Section 3.8. Accessibility  _(p.318)_
+          - **3.8.1** — 3.8.1. Scope  _(p.318)_
+            - **3.8.1.1** — 3.8.1.1. Scope  _(p.318)_
+          - **3.8.2** — 3.8.2. Application  _(p.318)_
+            - **3.8.2.1** — 3.8.2.1. Exceptions  _(p.318)_
+            - **3.8.2.2** — 3.8.2.2. Entrances  _(p.318)_
+            - **3.8.2.3** — 3.8.2.3. Areas Requiring a Barrier-Free Path of Travel  _(p.318)_
+            - **3.8.2.4** — 3.8.2.4. Access to Storeys Served by Escalators and Moving Walks  _(p.319)_
+            - **3.8.2.5** — 3.8.2.5. Exterior Barrier-Free Paths of Travel to Building Entrances and Exterior Passenger-Loading Zones  _(p.320)_
+            - **3.8.2.6** — 3.8.2.6. Controls  _(p.320)_
+            - **3.8.2.7** — 3.8.2.7. Power Door Operators  _(p.320)_
+            - **3.8.2.8** — 3.8.2.8. Plumbing Facilities  _(p.320)_
+            - **3.8.2.9** — 3.8.2.9. Assistive Listening Systems  _(p.321)_
+            - **3.8.2.10** — 3.8.2.10. Signs and Indicators  _(p.321)_
+            - **3.8.2.11** — 3.8.2.11. Counters  _(p.322)_
+            - **3.8.2.12** — 3.8.2.12. Telephones  _(p.322)_
+          - **3.8.3** — 3.8.3. Design  _(p.322)_
+            - **3.8.3.1** — 3.8.3.1. Design Standards  _(p.322)_
+            - **3.8.3.2** — 3.8.3.2. Barrier-Free Path of Travel  _(p.323)_
+            - **3.8.3.3** — 3.8.3.3. Exterior Walks  _(p.323)_
+            - **3.8.3.4** — 3.8.3.4. Exterior Passenger-Loading Zones  _(p.323)_
+            - **3.8.3.5** — 3.8.3.5. Ramps  _(p.324)_
+            - **3.8.3.6** — 3.8.3.6. Doorways and Doors  _(p.324)_
+            - **3.8.3.7** — 3.8.3.7. Passenger-Elevating Devices  _(p.326)_
+            - **3.8.3.8** — 3.8.3.8. Controls  _(p.326)_
+            - **3.8.3.9** — 3.8.3.9. Accessible Signs  _(p.326)_
+            - **3.8.3.10** — 3.8.3.10. Drinking Fountains  _(p.327)_
+            - **3.8.3.11** — 3.8.3.11. Water-Bottle Filling Stations  _(p.327)_
+            - **3.8.3.12** — 3.8.3.12. Accessible Water-Closet Stalls  _(p.327)_
+            - **3.8.3.13** — 3.8.3.13. Universal Washrooms  _(p.328)_
+            - **3.8.3.14** — 3.8.3.14. Water Closets  _(p.329)_
+            - **3.8.3.15** — 3.8.3.15. Water-Closet Stalls and Urinals for Persons with Limited Mobility  _(p.329)_
+            - **3.8.3.16** — 3.8.3.16. Lavatories and Mirrors  _(p.330)_
+            - **3.8.3.17** — 3.8.3.17. Showers  _(p.331)_
+            - **3.8.3.18** — 3.8.3.18. Accessible Bathtubs  _(p.332)_
+            - **3.8.3.19** — 3.8.3.19. Assistive Listening Systems  _(p.332)_
+            - **3.8.3.20** — 3.8.3.20. Counters  _(p.332)_
+            - **3.8.3.21** — 3.8.3.21. Telephones  _(p.332)_
+            - **3.8.3.22** — 3.8.3.22. Spaces in Seating Area  _(p.333)_
+        - **3.9** — Section 3.9. Self-service Storage Buildings  _(p.333)_
+          - **3.9.1** — 3.9.1. General  _(p.333)_
+            - **3.9.1.1** — 3.9.1.1. Definition  _(p.333)_
+            - **3.9.1.2** — 3.9.1.2. Application  _(p.333)_
+            - **3.9.1.3** — 3.9.1.3. Occupancy Classification  _(p.334)_
+          - **3.9.2** — 3.9.2. Building Fire Safety  _(p.334)_
+            - **3.9.2.1** — 3.9.2.1. Building Area  _(p.334)_
+            - **3.9.2.2** — 3.9.2.2. Spatial Separation  _(p.334)_
+            - **3.9.2.3** — 3.9.2.3. Access Route  _(p.334)_
+          - **3.9.3** — 3.9.3. Floor Areas  _(p.334)_
+            - **3.9.3.1** — 3.9.3.1. Safety Requirements Within Floor Areas  _(p.334)_
+            - **3.9.3.2** — 3.9.3.2. Sanitary Facilities  _(p.335)_
+        - **3.10** — Section 3.10. Objectives and Functional Statements  _(p.335)_
+          - **3.10.1** — 3.10.1. Objectives and Functional Statements  _(p.335)_
+            - **3.10.1.1** — 3.10.1.1. Attributions to Acceptable Solutions  _(p.335)_
+        - Notes to Part 3 Fire Protection, Occupant Safety and Accessibility  _(p.370)_
+          - A-3 Application of Part 3  _(p.370)_
+            - Firefighting Assumptions  _(p.370)_
+          - **A-3.1.2** — A-3.1.2. Use Classification  _(p.371)_
+          - **A-3.1.2.1.(1)** — A-3.1.2.1.(1) Major Occupancy Classification  _(p.371)_
+          - **A-3.1.2.3.(1)** — A-3.1.2.3.(1) Arena Regulation  _(p.374)_
+          - **A-3.1.4.1.(1)** — A-3.1.4.1.(1) Combustible Construction and Materials Permitted  _(p.374)_
+          - **A-3.1.4.2** — A-3.1.4.2. Protection of Penetrations  _(p.374)_
+          - **A-3.1.4.2.(1)** — A-3.1.4.2.(1) Concealed Space  _(p.374)_
+          - **A-3.1.4.2.(1)** — A-3.1.4.2.(1)(c) Thermal Barrier in Combustible Construction  _(p.374)_
+          - **A-3.1.4.2.(2)** — A-3.1.4.2.(2) and 3.1.5.7.(3) Walk-in Coolers and Freezers  _(p.374)_
+          - **A-3.1.4.3.(1)** — A-3.1.4.3.(1)(b)(i) Raceway Definition  _(p.374)_
+          - **A-3.1.4.3.(1)** — A-3.1.4.3.(1) Wire and Cable Equivalence  _(p.374)_
+          - **A-3.1.4.8.(1)** — A-3.1.4.8.(1) Exterior Cladding  _(p.374)_
+          - **A-3.1.5.4.(1)** — A-3.1.5.4.(1) Skylight Spacing  _(p.374)_
+          - **A-3.1.5.5.(1)** — A-3.1.5.5.(1)(b) Combustible Cladding on Exterior Walls  _(p.375)_
+          - **A-3.1.5.5.(1)** — A-3.1.5.5.(1)(b)(i) Flame-Spread Distance  _(p.375)_
+          - **A-3.1.5.5.(1)** — A-3.1.5.5.(1)(b)(ii) Heat Flux Measurement  _(p.375)_
+          - **A-3.1.5.14.(5)** — A-3.1.5.14.(5)(d) Foamed Plastic Insulation Protection  _(p.375)_
+          - **A-3.1.5.21.(1)** — A-3.1.5.21.(1) Wire and Cable Flammability  _(p.375)_
+          - **A-3.1.6** — A-3.1.6. Encapsulated Mass Timber Construction and Materials Permitted  _(p.375)_
+          - **A-3.1.6.3** — A-3.1.6.3. Structural Mass Timber Elements  _(p.375)_
+          - **A-3.1.6.4.(1)** — A-3.1.6.4.(1) Encapsulation of Mass Timber Elements  _(p.375)_
+          - **A-3.1.6.4.(3)** — A-3.1.6.4.(3) to (6) Fire-Resistance Rating of Mass Timber with Exposed Surfaces  _(p.376)_
+          - **A-3.1.6.4.(4)** — A-3.1.6.4.(4) Exposed Surfaces of Mass Timber Walls  _(p.376)_
+          - **A-3.1.6.6** — A-3.1.6.6. Encapsulation Materials  _(p.376)_
+          - **A-3.1.6.6.(2)** — A-3.1.6.6.(2) Protection of Gypsum Board from Foot Traffic  _(p.376)_
+          - **A-3.1.6.9.(1)** — A-3.1.6.9.(1) and (2) Exterior Cladding  _(p.376)_
+          - **A-3.1.8.1.(1)** — A-3.1.8.1.(1)(b) Barrier to Control Smoke Spread  _(p.376)_
+          - **A-3.1.8.1.(2)** — A-3.1.8.1.(2) Installation of Closures  _(p.376)_
+          - **A-3.1.8.3.(2)** — A-3.1.8.3.(2) Fire Separation Continuity  _(p.377)_
+          - **A-3.1.8.3.(5)** — A-3.1.8.3.(5) Joints  _(p.377)_
+          - **A-3.1.8.10.(1)** — A-3.1.8.10.(1) Combination Smoke/Fire Dampers  _(p.377)_
+          - **A-3.1.8.10.(5)** — A-3.1.8.10.(5) Damper Access  _(p.377)_
+          - **A-3.1.8.18.(1)** — A-3.1.8.18.(1) Wired Glass and Glass Block  _(p.377)_
+          - **A-3.1.8.19.(1)** — A-3.1.8.19.(1) Fire-Protection Rating for Doors  _(p.377)_
+          - **A-3.1.9** — A-3.1.9. Penetrations  _(p.377)_
+          - **A-3.1.9.1.(1)** — A-3.1.9.1.(1)(b) Penetration  _(p.378)_
+          - **A-3.1.9.2.(1)** — A-3.1.9.2.(1) Service Equipment Penetrations  _(p.378)_
+          - **A-3.1.9.3** — A-3.1.9.3. Outlet Boxes  _(p.378)_
+          - **A-3.1.9.4.(8)** — A-3.1.9.4.(8) Combustible Branches  _(p.378)_
+          - **A-3.1.10.2.(4)** — A-3.1.10.2.(4) Firewall Construction  _(p.378)_
+          - **A-3.1.11.3.(3)** — A-3.1.11.3.(3) Fire Blocks between Nailing and Supporting Elements  _(p.378)_
+          - **A-3.1.11.5.(1)** — A-3.1.11.5.(1) Fire Blocks in Combustible Construction  _(p.378)_
+          - **A-3.1.11.5.(3)** — A-3.1.11.5.(3) and (4) Fire Blocks in Concealed Spaces  _(p.379)_
+          - **A-3.1.11.7.(7)** — A-3.1.11.7.(7) Integrity of Fire Blocks  _(p.379)_
+          - **A-3.1.11.7.(8)** — A-3.1.11.7.(8) Fire Blocks  _(p.379)_
+          - **A-3.1.13.2.(2)** — A-3.1.13.2.(2) Folding Partition  _(p.379)_
+          - **A-3.1.18** — A-3.1.18. Tents and Air-Supported Structures  _(p.379)_
+          - **A-3.2.1.1.(3)** — A-3.2.1.1.(3)(a) Mezzanine Area  _(p.380)_
+          - **A-3.2.1.1.(8)** — A-3.2.1.1.(8) Accessible Service Space  _(p.380)_
+          - **A-3.2.2.2.(1)** — A-3.2.2.2.(1) Special and Unusual Structures  _(p.380)_
+          - **A-3.2.2.17.(1)** — A-3.2.2.17.(1) Roof Assemblies in Gymnasiums, Swimming Pools, Arenas and Rinks  _(p.380)_
+          - **A-3.2.2.18.(2)** — A-3.2.2.18.(2) Sprinkler Extent  _(p.380)_
+          - **A-3.2.2.35.(4)** — A-3.2.2.35.(4) Sprinkler Requirements  _(p.380)_
+          - **A-3.2.2.48.(4)** — A-3.2.2.48.(4) and 3.2.2.57.(3) Occupancy Combinations in Buildings of Mixed Construction  _(p.381)_
+          - **A-3.2.2.51.(5)** — A-3.2.2.51.(5) and 3.2.2.60.(4) Occupancy Combinations in Buildings of Mixed Construction  _(p.381)_
+          - **A-3.2.3** — A-3.2.3. Fire Protection Related to Limiting Distance versus Separation Between Buildings  _(p.381)_
+          - **A-3.2.3.1.(4)** — A-3.2.3.1.(4) Spatial Separation Design  _(p.381)_
+          - **A-3.2.3.1.(8)** — A-3.2.3.1.(8) Intervention Time and Limiting Distance  _(p.382)_
+          - **A-3.2.3.4.(1)** — A-3.2.3.4.(1) Party Walls  _(p.382)_
+          - **A-3.2.3.6.(2)** — A-3.2.3.6.(2) Protection of Roof Soffits Near Property Lines  _(p.383)_
+          - **A-3.2.3.7.(4)** — A-3.2.3.7.(4)(d)(iv) Thickness of Cladding  _(p.383)_
+          - **A-3.2.3.14.(1)** — A-3.2.3.14.(1) Wall Exposed to Another Wall  _(p.383)_
+          - **A-3.2.4** — A-3.2.4. Fire Alarm System  _(p.384)_
+          - **A-3.2.4.4.(1)** — A-3.2.4.4.(1) Single Stage Fire Alarm System  _(p.384)_
+          - **A-3.2.4.4.(2)** — A-3.2.4.4.(2)(c) Fire Alarm Alert Signal  _(p.384)_
+          - **A-3.2.4.4.(2)** — A-3.2.4.4.(2) Two-Stage Fire Alarm System  _(p.385)_
+          - **A-3.2.4.6.(2)** — A-3.2.4.6.(2) Access to Silencing Switches  _(p.385)_
+          - **A-3.2.4.7.(4)** — A-3.2.4.7.(4) Design and Installation of Fire Department Notification  _(p.385)_
+          - **A-3.2.4.7.(5)** — A-3.2.4.7.(5)(b) Emergency Telephone Number  _(p.385)_
+          - **A-3.2.4.8.(2)** — A-3.2.4.8.(2) Fire Alarm Zones  _(p.385)_
+          - **A-3.2.4.9.(3)** — A-3.2.4.9.(3)(f) Supervision for Fire Pumps  _(p.385)_
+          - **A-3.2.4.11.(1)** — A-3.2.4.11.(1) Smoke Detector Location  _(p.385)_
+          - **A-3.2.4.11.(3)** — A-3.2.4.11.(3) Visible Signals  _(p.385)_
+          - **A-3.2.4.16.(1)** — A-3.2.4.16.(1) Manual Station  _(p.385)_
+          - **A-3.2.4.18** — A-3.2.4.18. Acoustic Measurement and Terminology  _(p.385)_
+            - Effect of Furnishings  _(p.386)_
+            - Glossary of Acoustical Terms  _(p.386)_
+          - **A-3.2.4.18.(1)** — A-3.2.4.18.(1) Alert and Alarm Signals  _(p.387)_
+          - **A-3.2.4.18.(2)** — A-3.2.4.18.(2) Alarm Signal Temporal Pattern  _(p.387)_
+          - **A-3.2.4.18.(3)** — A-3.2.4.18.(3) Audibility of Alarm Systems  _(p.387)_
+          - **A-3.2.4.18.(4)** — A-3.2.4.18.(4) Sound Pressure Level  _(p.387)_
+          - **A-3.2.4.18.(5)** — A-3.2.4.18.(5) Residential Sound Level  _(p.388)_
+          - **A-3.2.4.18.(6)** — A-3.2.4.18.(6) Low Frequency Signal  _(p.388)_
+          - **A-3.2.4.18.(8)** — A-3.2.4.18.(8) Disconnect Device for Dwelling Units  _(p.388)_
+          - **A-3.2.4.18.(9)** — A-3.2.4.18.(9) and (10) Signal Circuits  _(p.388)_
+          - **A-3.2.4.19.(1)** — A-3.2.4.19.(1)(g) Visible Alarm Signals in Hotels and Motels  _(p.388)_
+          - **A-3.2.4.19.(3)** — A-3.2.4.19.(3) Visible Alarm Signal  _(p.388)_
+          - **A-3.2.4.20.(9)** — A-3.2.4.20.(9)(a) Smoke Alarm Installation  _(p.388)_
+          - **A-3.2.4.20.(10)** — A-3.2.4.20.(10) Smoke Detectors in lieu of Smoke Alarms  _(p.388)_
+          - **A-3.2.4.22.(1)** — A-3.2.4.22.(1)(b) Voice Messages  _(p.389)_
+          - **A-3.2.5.4.(1)** — A-3.2.5.4.(1) Fire Department Access for Detention Buildings  _(p.389)_
+          - **A-3.2.5.6.(1)** — A-3.2.5.6.(1) Fire Department Access Route  _(p.389)_
+          - **A-3.2.5.7.(1)** — A-3.2.5.7.(1) Water Supply  _(p.389)_
+          - **A-3.2.5.9.(4)** — A-3.2.5.9.(4)(c) Fire Department Pumping Equipment  _(p.390)_
+          - **A-3.2.5.11.(2)** — A-3.2.5.11.(2) Hose Stations  _(p.390)_
+          - **A-3.2.5.12.(1)** — A-3.2.5.12.(1) Sprinkler System Design  _(p.390)_
+          - **A-3.2.5.12.(2)** — A-3.2.5.12.(2) Sprinklering of Residential Buildings above a Storage Garage Considered as a Separate Building  _(p.390)_
+          - **A-3.2.5.12.(6)** — A-3.2.5.12.(6) Sprinklering of Roof Assemblies  _(p.390)_
+          - **A-3.2.5.12.(7)** — A-3.2.5.12.(7) Balconies and Decks  _(p.390)_
+          - **A-3.2.5.12.(8)** — A-3.2.5.12.(8) Sprinkler Rating  _(p.391)_
+          - **A-3.2.5.13.(1)** — A-3.2.5.13.(1) Hazard Classification for Sprinkler Selection  _(p.391)_
+          - **A-3.2.5.18.(1)** — A-3.2.5.18.(1) Fire Pumps  _(p.391)_
+          - **A-3.2.6** — A-3.2.6. Smoke Control for High Buildings  _(p.391)_
+          - **A-3.2.6.2.(2)** — A-3.2.6.2.(2) Stairway Protection Below Lowest Exit Level  _(p.392)_
+          - **A-3.2.6.2.(3)** — A-3.2.6.2.(3) Pressurization of Stair Shafts  _(p.392)_
+          - **A-3.2.6.2.(4)** — A-3.2.6.2.(4) Limiting Smoke Movement  _(p.392)_
+          - **A-3.2.6.3.(1)** — A-3.2.6.3.(1) Connected Buildings  _(p.394)_
+          - **A-3.2.6.5.(6)** — A-3.2.6.5.(6)(b) Protection of Electrical Conductors  _(p.395)_
+          - **A-3.2.6.6.(1)** — A-3.2.6.6.(1) Venting to Aid Firefighting  _(p.396)_
+          - **A-3.2.6.7.(1)** — A-3.2.6.7.(1) Protection of Central Control Room  _(p.398)_
+          - **A-3.2.6.7.(2)** — A-3.2.6.7.(2) Central Control Room Air Control  _(p.399)_
+          - **A-3.2.6.9.(1)** — A-3.2.6.9.(1) Testing for Smoke Control  _(p.399)_
+          - **A-3.2.7.4.(1)** — A-3.2.7.4.(1) Emergency Power Reliability  _(p.399)_
+          - **A-3.2.7.6.(1)** — A-3.2.7.6.(1) Emergency Power for Treatment Occupancies  _(p.399)_
+          - **A-3.2.7.8.(3)** — A-3.2.7.8.(3) Emergency Power Duration  _(p.399)_
+          - **A-3.2.7.9.(1)** — A-3.2.7.9.(1) Emergency Power Reliability  _(p.399)_
+          - **A-3.2.7.10.(2)** — A-3.2.7.10.(2)(a) and (3)(a) Protection of Electrical Conductors  _(p.399)_
+          - **A-3.2.7.10.(5)** — A-3.2.7.10.(5)(b) Electrical Conductors in the Same Room  _(p.400)_
+          - **A-3.2.7.10.(7)** — A-3.2.7.10.(7) Fire Alarm Branch Circuits  _(p.400)_
+          - **A-3.2.8.2.(3)** — A-3.2.8.2.(3) Special Protection of Opening  _(p.400)_
+          - **A-3.2.8.2.(6)** — A-3.2.8.2.(6)(b) Restriction on Size of Openings Through Floors  _(p.400)_
+          - **A-3.2.8.2.(6)** — A-3.2.8.2.(6)(c) Waiver of Occupancy Separation Continuity  _(p.400)_
+          - **A-3.2.8.4.(1)** — A-3.2.8.4.(1)(c) Contamination of Vestibule  _(p.400)_
+          - **A-3.2.8.7.(1)** — A-3.2.8.7.(1) Smoke Exhaust System  _(p.400)_
+          - **A-3.2.9.1.(1)** — A-3.2.9.1.(1) Testing of Fire Protection and Life Safety Systems  _(p.400)_
+          - **A-3.3** — A-3.3. Safety Within Floor Areas  _(p.401)_
+          - **A-3.3.1.2.(1)** — A-3.3.1.2.(1) Hazardous Substances  _(p.401)_
+          - **A-3.3.1.2.(2)** — A-3.3.1.2.(2) Cooking Equipment Ventilation  _(p.401)_
+          - **A-3.3.1.7.(1)** — A-3.3.1.7.(1) Temporary Refuge for Persons with Disabilities  _(p.401)_
+          - **A-3.3.1.7.(1)** — A-3.3.1.7.(1)(b) Zones  _(p.401)_
+          - **A-3.3.1.8.(2)** — A-3.3.1.8.(2) and (3) Protruding Building Elements in Paths of Travel  _(p.402)_
+          - **A-3.3.1.12.(3)** — A-3.3.1.12.(3) Movable Partitions  _(p.402)_
+          - **A-3.3.1.13.(4)** — A-3.3.1.13.(4) Door Hardware  _(p.402)_
+          - **A-3.3.1.13.(6)** — A-3.3.1.13.(6) Controlled Egress Doors  _(p.402)_
+          - **A-3.3.1.19.(1)** — A-3.3.1.19.(1) Tactile Attention Indicators at Unenclosed Stairs and at Drop-off Edges  _(p.402)_
+          - **A-3.3.1.24.(1)** — A-3.3.1.24.(1) Obstructions in Means of Egress  _(p.402)_
+          - **A-3.3.2.1.(2)** — A-3.3.2.1.(2) Use of NFPA 101  _(p.402)_
+          - **A-3.3.2.4.(2)** — A-3.3.2.4.(2) Tablet Arms  _(p.402)_
+          - **A-3.3.2.10** — A-3.3.2.10. Installation Configurations of Handrails in Aisles with Steps  _(p.402)_
+          - **A-3.3.3.1.(1)** — A-3.3.3.1.(1) Safety in Care, Treatment and Detention Occupancies  _(p.403)_
+          - **A-3.3.3.4.(2)** — A-3.3.3.4.(2) Doorway Width  _(p.403)_
+          - **A-3.3.3.5.(9)** — A-3.3.3.5.(9) Intercommunicating Rooms  _(p.403)_
+          - **A-3.3.3.5.(13)** — A-3.3.3.5.(13) Grilles and Louvres  _(p.404)_
+          - **A-3.3.4.4.(1)** — A-3.3.4.4.(1) Landing in Egress Stairway  _(p.404)_
+          - **A-3.3.4.5.(1)** — A-3.3.4.5.(1) Automatic Locking Prohibited  _(p.404)_
+          - **A-3.3.6.1.(1)** — A-3.3.6.1.(1) Design of Buildings Containing Dangerous Goods  _(p.404)_
+          - **A-3.3.6.2.(2)** — A-3.3.6.2.(2) Storage of Reactive Materials  _(p.404)_
+          - **A-3.3.6.2.(4)** — A-3.3.6.2.(4) Wiring and Electrical Equipment in Hazardous Locations  _(p.404)_
+          - **A-3.3.6.4.(2)** — A-3.3.6.4.(2) Explosion Venting in Hazardous Locations  _(p.405)_
+          - **A-3.3.6.5.(1)** — A-3.3.6.5.(1) Measurement of Tire Storage Volume  _(p.405)_
+          - **A-3.3.6.6.(6)** — A-3.3.6.6.(6) Products Stored with Ammonium Nitrate  _(p.405)_
+          - **A-3.4.1.1.(1)** — A-3.4.1.1.(1) Type of Exit Facility  _(p.405)_
+          - **A-3.4.1.6.(2)** — A-3.4.1.6.(2) Sleeping Area  _(p.405)_
+          - **A-3.4.2.3.(1)** — A-3.4.2.3.(1) Least Distance Between Exits  _(p.405)_
+          - **A-3.4.3.2.(6)** — A-3.4.3.2.(6) Evacuation of Interconnected Floor Space  _(p.405)_
+          - **A-3.4.3.2.(6)** — A-3.4.3.2.(6)(a) Temporary Safety Area  _(p.406)_
+          - **A-3.4.3.4** — A-3.4.3.4. Clear Height and Width  _(p.406)_
+          - **A-3.4.4.2.(2)** — A-3.4.4.2.(2)(e) Requirements for Lobby  _(p.406)_
+          - **A-3.4.5.1.(2)** — A-3.4.5.1.(2)(c) Graphical Symbols for Exit Signs  _(p.406)_
+          - **A-3.4.5.1.(4)** — A-3.4.5.1.(4) Externally Illuminated Signs  _(p.407)_
+          - **A-3.4.6** — A-3.4.6. Application to Means of Egress  _(p.407)_
+          - **A-3.4.6.4** — A-3.4.6.4. Dimensions of Landings  _(p.407)_
+          - **A-3.4.6.5.(4)** — A-3.4.6.5.(4) Wider Stairs than Required  _(p.409)_
+          - **A-3.4.6.5.(11)** — A-3.4.6.5.(11) Termination of Handrails  _(p.409)_
+          - **A-3.4.6.10.(5)** — A-3.4.6.10.(5) Door Swing  _(p.409)_
+          - **A-3.4.6.11.(4)** — A-3.4.6.11.(4) Exit Concealment  _(p.409)_
+            - Exit Doors Concealed with Murals  _(p.409)_
+          - **A-3.4.6.16.(1)** — A-3.4.6.16.(1) Fastening Device  _(p.409)_
+          - **A-3.4.6.16.(5)** — A-3.4.6.16.(5) Electromagnetic Lock  _(p.409)_
+          - **A-3.4.6.16.(6)** — A-3.4.6.16.(6) Electromagnetic Locks in Care and Treatment Occupancies  _(p.409)_
+          - **A-3.4.6.17.(1)** — A-3.4.6.17.(1) Special Security for Doors  _(p.409)_
+          - **A-3.5.2.1.(1)** — A-3.5.2.1.(1) Elevator Design  _(p.410)_
+          - **A-3.5.4.1.(1)** — A-3.5.4.1.(1) Elevator Car Dimensions  _(p.410)_
+          - **A-3.6.2.5.(1)** — A-3.6.2.5.(1) Storage of Combustible Refuse and Recycling  _(p.410)_
+          - **A-3.6.2.7.(5)** — A-3.6.2.7.(5) Explosion Relief  _(p.410)_
+          - **A-3.6.3.1.(1)** — A-3.6.3.1.(1) Vertical Service Spaces  _(p.410)_
+          - **A-3.6.3.5** — A-3.6.3.5. Grease Duct Enclosures  _(p.410)_
+          - **A-3.6.4.2.(2)** — A-3.6.4.2.(2) Ceiling Membrane Rating  _(p.410)_
+          - **A-3.6.5.6.(2)** — A-3.6.5.6.(2) Clearance for Warm-Air Supply Ducts  _(p.410)_
+          - **A-3.6.5.6.(3)** — A-3.6.5.6.(3) Clearance for Warm-Air Supply Ducts  _(p.411)_
+          - **A-3.6.5.6.(4)** — A-3.6.5.6.(4) Clearance for Warm-Air Supply Ducts  _(p.411)_
+          - **A-3.7.2.1.(2)** — A-3.7.2.1.(2) Washroom Units in Industrial Occupancies  _(p.411)_
+          - **A-3.7.2.2.(1)** — A-3.7.2.2.(1) Water Closets  _(p.411)_
+          - **A-3.8** — A-3.8. Barrier-Free Design Principles  _(p.411)_
+          - **A-3.8.2.1** — A-3.8.2.1. Accessibility  _(p.412)_
+          - **A-3.8.2.2** — A-3.8.2.2. Entrances  _(p.412)_
+          - **A-3.8.2.3** — A-3.8.2.3. Access to Rooms and Facilities  _(p.412)_
+          - **A-3.8.2.3.(2)** — A-3.8.2.3.(2)(g) Access to Facilities on a Floor Level other than the Entrance Level  _(p.412)_
+          - **A-3.8.2.3.(4)** — A-3.8.2.3.(4) Waiting Areas with Fixed Seats  _(p.413)_
+          - **A-3.8.2.3.(5)** — A-3.8.2.3.(5) and (6) and 3.8.3.22.(1) and (4) Distribution of Adaptable Seats, Designated Wheelchair Spaces, and Mobility Aid Storage Spaces in Assembly Occupancies  _(p.413)_
+          - **A-3.8.2.4.(1)** — A-3.8.2.4.(1) Access to Storeys Served by Escalators and Moving Walks  _(p.414)_
+          - **A-3.8.2.5** — A-3.8.2.5. Parking Areas  _(p.414)_
+          - **A-3.8.2.5.(1)** — A-3.8.2.5.(1) and (2) Exterior Barrier-Free Paths of Travel  _(p.415)_
+          - **A-3.8.2.6.(1)** — A-3.8.2.6.(1) Application to Security Access Systems  _(p.415)_
+          - **A-3.8.2.7.(1)** — A-3.8.2.7.(1)(b) Power Door Operators for Interior Doors  _(p.415)_
+          - **A-3.8.2.7.(3)** — A-3.8.2.7.(3) Barrier-Free Entrances with Multiple Doorways  _(p.415)_
+          - **A-3.8.2.8.(1)** — A-3.8.2.8.(1) to (4) Accessible and Universal Washrooms  _(p.415)_
+          - **A-3.8.2.8.(13)** — A-3.8.2.8.(13) Universal Dressing and Shower Rooms  _(p.416)_
+          - **A-3.8.2.8.(15)** — A-3.8.2.8.(15) Accessible Change Spaces  _(p.416)_
+          - **A-3.8.2.9.(2)** — A-3.8.2.9.(2) Assistive Listening Systems and Adaptive Technologies  _(p.416)_
+          - **A-3.8.2.10.(4)** — A-3.8.2.10.(4) Directional Signage  _(p.416)_
+          - **A-3.8.2.11.(1)** — A-3.8.2.11.(1) Counters with Work Surfaces  _(p.416)_
+          - **A-3.8.3.1.(1)** — A-3.8.3.1.(1) Barrier-free Design Standards  _(p.416)_
+          - **A-3.8.3.2.(2)** — A-3.8.3.2.(2) Reduction in Clear Width of Barrier-Free Path of Travel  _(p.416)_
+          - **A-3.8.3.2.(3)** — A-3.8.3.2.(3) Surfaces in a Barrier-free Path of Travel  _(p.417)_
+          - **A-3.8.3.2.(6)** — A-3.8.3.2.(6) Wheelchair-Turning Space  _(p.417)_
+          - **A-3.8.3.5.(1)** — A-3.8.3.5.(1)(b) Ramp Slopes  _(p.418)_
+          - **A-3.8.3.5.(1)** — A-3.8.3.5.(1)(c) Landing Design at Doorways Leading to Ramps  _(p.418)_
+          - **A-3.8.3.5.(4)** — A-3.8.3.5.(4)(a) Surface of Ramps  _(p.418)_
+          - **A-3.8.3.6.(2)** — A-3.8.3.6.(2) Doorway Width  _(p.418)_
+          - **A-3.8.3.6.(3)** — A-3.8.3.6.(3) Washrooms in Residential Occupancies  _(p.419)_
+          - **A-3.8.3.6.(4)** — A-3.8.3.6.(4) Lever Handles  _(p.419)_
+          - **A-3.8.3.6.(6)** — A-3.8.3.6.(6) and (7) Doors with Power Operators  _(p.420)_
+          - **A-3.8.3.6.(9)** — A-3.8.3.6.(9) Air Pressure Differences  _(p.420)_
+          - **A-3.8.3.6.(10)** — A-3.8.3.6.(10) Delayed Action on Door Closers  _(p.420)_
+          - **A-3.8.3.6.(11)** — A-3.8.3.6.(11) Clearance at Doorways  _(p.420)_
+          - **A-3.8.3.6.(14)** — A-3.8.3.6.(14) to (16) Minimum Clear Floor Space at Doors in a Barrier-Free Path of Travel  _(p.420)_
+          - **A-3.8.3.6.(17)** — A-3.8.3.6.(17) Public Area  _(p.421)_
+          - **A-3.8.3.8.(1)** — A-3.8.3.8.(1)(c) Controls with Feedback Signals  _(p.421)_
+          - **A-3.8.3.9.(1)** — A-3.8.3.9.(1) and (2) Visual and Tactile Information Signs  _(p.422)_
+          - **A-3.8.3.9.(3)** — A-3.8.3.9.(3) Accessibility Signs  _(p.422)_
+          - **A-3.8.3.11.(2)** — A-3.8.3.11.(2)(b) and (d) Water-Bottle Filling Stations  _(p.423)_
+          - **A-3.8.3.12.(1)** — A-3.8.3.12.(1)(b) Lateral Transfer Space on Alternate Sides of Water Closet  _(p.423)_
+          - **A-3.8.3.12.(1)** — A-3.8.3.12.(1)(d)(v) Water-closet Stalls  _(p.423)_
+          - **A-3.8.3.12.(1)** — A-3.8.3.12.(1)(d)(vi) Door Pulls  _(p.424)_
+          - **A-3.8.3.12.(1)** — A-3.8.3.12.(1)(f)(ii) Additional Grab Bars  _(p.425)_
+          - **A-3.8.3.13** — A-3.8.3.13. Clear Floor Space in Universal Washrooms  _(p.425)_
+          - **A-3.8.3.14.(1)** — A-3.8.3.14.(1) Water Closets  _(p.426)_
+          - **A-3.8.3.16.(1)** — A-3.8.3.16.(1)(e) Clearances Beneath a Lavatory  _(p.427)_
+          - **A-3.8.3.16.(1)** — A-3.8.3.16.(1)(f) Pipe Protection  _(p.427)_
+          - **A-3.8.3.16.(1)** — A-3.8.3.16.(1)(g) Soap Dispenser Location  _(p.427)_
+          - **A-3.8.3.17.(1)** — A-3.8.3.17.(1)(b) Clear Space at Entrances to Showers  _(p.427)_
+          - **A-3.8.3.17.(1)** — A-3.8.3.17.(1)(f) Grab Bars  _(p.428)_
+          - **A-3.8.3.17.(2)** — A-3.8.3.17.(2)(f) Grab Bar at Bench  _(p.428)_
+          - **A-3.8.3.19** — A-3.8.3.19. Assistive Listening Systems  _(p.428)_
+          - **A-3.8.3.20.(1)** — A-3.8.3.20.(1)(c) Knee Space at Service Counters  _(p.430)_
+          - **A-3.8.3.21.(2)** — A-3.8.3.21.(2) Telephone Shelves or Counters  _(p.430)_
+          - **A-3.8.3.22.(4)** — A-3.8.3.22.(4) Storage Spaces for Mobility Aids  _(p.430)_
+          - **A-3.9.2.1.(1)** — A-3.9.2.1.(1) Building Area of Self-service Storage Buildings  _(p.430)_
+          - **A-3.9.2.2** — A-3.9.2.2. Spatial Separation Between Self-service Storage Buildings  _(p.431)_
+          - **A-3.9.3.1.(1)** — A-3.9.3.1.(1) Storage of Flammable and Combustible Liquids  _(p.432)_
+          - **A-3.9.3.2.(1)** — A-3.9.3.2.(1) Sanitary Facilities  _(p.432)_
+      - **Part 4** — Part 4 Structural Design  _(p.434)_
+        - **4.1** — Section 4.1. Structural Loads and Procedures  _(p.436)_
+          - **4.1.1** — 4.1.1. General  _(p.436)_
+            - **4.1.1.1** — 4.1.1.1. Scope  _(p.436)_
+            - **4.1.1.2** — 4.1.1.2. Definitions  _(p.436)_
+            - **4.1.1.3** — 4.1.1.3. Design Requirements  _(p.436)_
+            - **4.1.1.4** — 4.1.1.4. Structural Drawings and Related Documents  _(p.436)_
+            - **4.1.1.5** — 4.1.1.5. Design Basis  _(p.436)_
+          - **4.1.2** — 4.1.2. Specified Loads and Effects  _(p.437)_
+            - **4.1.2.1** — 4.1.2.1. Loads and Effects  _(p.437)_
+            - **4.1.2.2** — 4.1.2.2. Loads Not Listed  _(p.438)_
+          - **4.1.3** — 4.1.3. Limit States Design  _(p.438)_
+            - **4.1.3.1** — 4.1.3.1. Definitions  _(p.438)_
+            - **4.1.3.2** — 4.1.3.2. Strength and Stability  _(p.439)_
+            - **4.1.3.3** — 4.1.3.3. Fatigue  _(p.440)_
+            - **4.1.3.4** — 4.1.3.4. Serviceability  _(p.441)_
+            - **4.1.3.5** — 4.1.3.5. Deflection  _(p.442)_
+            - **4.1.3.6** — 4.1.3.6. Vibration  _(p.442)_
+          - **4.1.4** — 4.1.4. Dead Loads  _(p.442)_
+            - **4.1.4.1** — 4.1.4.1. Dead Loads  _(p.442)_
+          - **4.1.5** — 4.1.5. Live Loads Due to Use and Occupancy  _(p.443)_
+            - **4.1.5.1** — 4.1.5.1. Loads Due to Use of Floors and Roofs  _(p.443)_
+            - **4.1.5.2** — 4.1.5.2. Uses Not Stipulated  _(p.443)_
+            - **4.1.5.3** — 4.1.5.3. Full and Partial Loading  _(p.443)_
+            - **4.1.5.4** — 4.1.5.4. Loads for Occupancy Served  _(p.445)_
+            - **4.1.5.5** — 4.1.5.5. Loads on Exterior Areas  _(p.446)_
+            - **4.1.5.6** — 4.1.5.6. Loads for Dining Areas  _(p.446)_
+            - **4.1.5.7** — 4.1.5.7. More Than One Occupancy  _(p.446)_
+            - **4.1.5.8** — 4.1.5.8. Variation with Tributary Area  _(p.446)_
+            - **4.1.5.9** — 4.1.5.9. Concentrated Loads  _(p.447)_
+            - **4.1.5.10** — 4.1.5.10. Sway Forces in Assembly Occupancies  _(p.447)_
+            - **4.1.5.11** — 4.1.5.11. Crane-Supporting Structures and Impact of Machinery and Equipment  _(p.447)_
+            - **4.1.5.12** — 4.1.5.12. Bleachers  _(p.448)_
+            - **4.1.5.13** — 4.1.5.13. Helicopter Landing Areas  _(p.448)_
+            - **4.1.5.14** — 4.1.5.14. Loads on Guards and Handrails  _(p.448)_
+            - **4.1.5.15** — 4.1.5.15. Loads on Vehicle Guardrails  _(p.449)_
+            - **4.1.5.16** — 4.1.5.16. Loads on Walls Acting As Guards  _(p.449)_
+            - **4.1.5.17** — 4.1.5.17. Firewalls  _(p.449)_
+          - **4.1.6** — 4.1.6. Loads Due to Snow and Rain  _(p.449)_
+            - **4.1.6.1** — 4.1.6.1. Specified Load Due to Rain or to Snow and Associated Rain  _(p.449)_
+            - **4.1.6.2** — 4.1.6.2. Specified Snow Load  _(p.450)_
+            - **4.1.6.3** — 4.1.6.3. Full and Partial Loading  _(p.452)_
+            - **4.1.6.4** — 4.1.6.4. Specified Rain Load  _(p.452)_
+            - **4.1.6.5** — 4.1.6.5. Multi-level Roofs  _(p.453)_
+            - **4.1.6.6** — 4.1.6.6. Horizontal Gap between a Roof and a Higher Roof  _(p.455)_
+            - **4.1.6.7** — 4.1.6.7. Areas Adjacent to Roof Projections  _(p.455)_
+            - **4.1.6.8** — 4.1.6.8. Snow Drift at Corners  _(p.456)_
+            - **4.1.6.9** — 4.1.6.9. Gable Roofs  _(p.457)_
+            - **4.1.6.10** — 4.1.6.10. Arch Roofs, Curved Roofs and Domes  _(p.457)_
+            - **4.1.6.11** — 4.1.6.11. Snow Loads Due to Sliding  _(p.460)_
+            - **4.1.6.12** — 4.1.6.12. Valleys in Curved or Sloped Roofs  _(p.461)_
+            - **4.1.6.13** — 4.1.6.13. Specific Weight of Snow  _(p.462)_
+            - **4.1.6.14** — 4.1.6.14. Snow Removal  _(p.462)_
+            - **4.1.6.15** — 4.1.6.15. Ice Loading of Structures  _(p.462)_
+            - **4.1.6.16** — 4.1.6.16. Roofs with Solar Panels  _(p.463)_
+          - **4.1.7** — 4.1.7. Wind Load  _(p.464)_
+            - **4.1.7.1** — 4.1.7.1. Specified Wind Load  _(p.464)_
+            - **4.1.7.2** — 4.1.7.2. Classification of Buildings  _(p.465)_
+            - **4.1.7.3** — 4.1.7.3. Static Procedure  _(p.465)_
+            - **4.1.7.4** — 4.1.7.4. Topographic Factor  _(p.467)_
+            - **4.1.7.5** — 4.1.7.5. External Pressure Coefficients  _(p.468)_
+            - **4.1.7.6** — 4.1.7.6. External Pressure Coefficients for Low Buildings  _(p.469)_
+            - **4.1.7.7** — 4.1.7.7. Internal Pressure Coefficient  _(p.478)_
+            - **4.1.7.8** — 4.1.7.8. Dynamic Procedure  _(p.479)_
+            - **4.1.7.9** — 4.1.7.9. Full and Partial Wind Loading  _(p.480)_
+            - **4.1.7.10** — 4.1.7.10. Interior Walls and Partitions  _(p.481)_
+            - **4.1.7.11** — 4.1.7.11. Exterior Ornamentations, Equipment and Appendages  _(p.481)_
+            - **4.1.7.12** — 4.1.7.12. Attached Canopies on Low Buildings with a Height H ≤ 20 m  _(p.481)_
+            - **4.1.7.13** — 4.1.7.13. Roof-Mounted Solar Panels on Buildings of Any Height  _(p.483)_
+            - **4.1.7.14** — 4.1.7.14. Wind Tunnel Procedure  _(p.486)_
+          - **4.1.8** — 4.1.8. Earthquake Load and Effects  _(p.487)_
+            - **4.1.8.1** — 4.1.8.1. Analysis  _(p.487)_
+            - **4.1.8.2** — 4.1.8.2. Notation  _(p.489)_
+            - **4.1.8.3** — 4.1.8.3. General Requirements  _(p.491)_
+            - **4.1.8.4** — 4.1.8.4. Site Properties  _(p.491)_
+            - **4.1.8.5** — 4.1.8.5. Importance Factor and Seismic Category  _(p.494)_
+            - **4.1.8.6** — 4.1.8.6. Structural Configuration  _(p.494)_
+            - **4.1.8.7** — 4.1.8.7. Methods of Analysis  _(p.495)_
+            - **4.1.8.8** — 4.1.8.8. Direction of Loading  _(p.496)_
+            - **4.1.8.9** — 4.1.8.9. SFRS Force Modification Factors and General Restrictions  _(p.496)_
+            - **4.1.8.10** — 4.1.8.10. Additional System Restrictions  _(p.498)_
+            - **4.1.8.11** — 4.1.8.11. Equivalent Static Force Procedure for Structures Satisfying the Conditions of Article 4.1.8.7.  _(p.500)_
+            - **4.1.8.12** — 4.1.8.12. Dynamic Analysis Procedure  _(p.504)_
+            - **4.1.8.13** — 4.1.8.13. Deflections and Drift Limits  _(p.505)_
+            - **4.1.8.14** — 4.1.8.14. Structural Separation  _(p.505)_
+            - **4.1.8.15** — 4.1.8.15. Design Provisions  _(p.505)_
+            - **4.1.8.16** — 4.1.8.16. Foundation Provisions  _(p.506)_
+            - **4.1.8.17** — 4.1.8.17. Site Stability  _(p.508)_
+            - **4.1.8.18** — 4.1.8.18. Elements of Structures, Non-structural Components and Equipment  _(p.508)_
+            - **4.1.8.19** — 4.1.8.19. Seismic Isolation  _(p.512)_
+            - **4.1.8.20** — 4.1.8.20. Seismic Isolation Design Provisions  _(p.513)_
+            - **4.1.8.21** — 4.1.8.21. Supplemental Energy Dissipation  _(p.514)_
+            - **4.1.8.22** — 4.1.8.22. Supplemental Energy Dissipation Design Considerations  _(p.515)_
+            - **4.1.8.23** — 4.1.8.23. Additional Performance Requirements for Post-disaster Buildings, High Importance Category Buildings, and a Subset of Normal Importance Category Buildings  _(p.516)_
+        - **4.2** — Section 4.2. Foundations  _(p.517)_
+          - **4.2.1** — 4.2.1. General  _(p.517)_
+            - **4.2.1.1** — 4.2.1.1. Application  _(p.517)_
+          - **4.2.2** — 4.2.2. Subsurface Investigations, Drawings and Reviews  _(p.517)_
+            - **4.2.2.1** — 4.2.2.1. Subsurface Investigation  _(p.517)_
+            - **4.2.2.2** — 4.2.2.2. Drawings  _(p.517)_
+            - **4.2.2.3** — 4.2.2.3. Field Review  _(p.517)_
+            - **4.2.2.4** — 4.2.2.4. Altered Subsurface Condition  _(p.517)_
+          - **4.2.3** — 4.2.3. Materials Used in Foundations  _(p.518)_
+            - **4.2.3.1** — 4.2.3.1. Wood  _(p.518)_
+            - **4.2.3.2** — 4.2.3.2. Preservation Treatment of Wood  _(p.518)_
+            - **4.2.3.3** — 4.2.3.3. Plain and Reinforced Masonry  _(p.518)_
+            - **4.2.3.4** — 4.2.3.4. Prevention of Deterioration of Masonry  _(p.518)_
+            - **4.2.3.5** — 4.2.3.5. Concrete  _(p.518)_
+            - **4.2.3.6** — 4.2.3.6. Protection Against Chemical Attack  _(p.518)_
+            - **4.2.3.7** — 4.2.3.7. Steel  _(p.518)_
+            - **4.2.3.8** — 4.2.3.8. Steel Piles  _(p.518)_
+            - **4.2.3.9** — 4.2.3.9. High Strength Steel Tendons  _(p.519)_
+            - **4.2.3.10** — 4.2.3.10. Corrosion of Steel  _(p.519)_
+          - **4.2.4** — 4.2.4. Design Requirements  _(p.519)_
+            - **4.2.4.1** — 4.2.4.1. Design Basis  _(p.519)_
+            - **4.2.4.2** — 4.2.4.2. Subsurface Investigation  _(p.519)_
+            - **4.2.4.3** — 4.2.4.3. Identification  _(p.519)_
+            - **4.2.4.4** — 4.2.4.4. Depth of Foundations  _(p.519)_
+            - **4.2.4.5** — 4.2.4.5. Sloping Ground  _(p.520)_
+            - **4.2.4.6** — 4.2.4.6. Eccentric and Inclined Loads  _(p.520)_
+            - **4.2.4.7** — 4.2.4.7. Dynamic Loading  _(p.520)_
+            - **4.2.4.8** — 4.2.4.8. Hydrostatic Uplift  _(p.520)_
+            - **4.2.4.9** — 4.2.4.9. Groundwater Level Change  _(p.520)_
+            - **4.2.4.10** — 4.2.4.10. Permafrost  _(p.520)_
+            - **4.2.4.11** — 4.2.4.11. Swelling and Shrinking Soils  _(p.520)_
+            - **4.2.4.12** — 4.2.4.12. Expanding and Deteriorating Rock  _(p.520)_
+            - **4.2.4.13** — 4.2.4.13. Construction on Fill  _(p.520)_
+            - **4.2.4.14** — 4.2.4.14. Structural Design  _(p.520)_
+          - **4.2.5** — 4.2.5. Excavations  _(p.521)_
+            - **4.2.5.1** — 4.2.5.1. Design of Excavations  _(p.521)_
+            - **4.2.5.2** — 4.2.5.2. Excavation Construction  _(p.521)_
+            - **4.2.5.3** — 4.2.5.3. Supported Excavations  _(p.521)_
+            - **4.2.5.4** — 4.2.5.4. Unsupported Excavations  _(p.521)_
+            - **4.2.5.5** — 4.2.5.5. Control of Water around Excavations  _(p.521)_
+            - **4.2.5.6** — 4.2.5.6. Loss of Ground  _(p.521)_
+            - **4.2.5.7** — 4.2.5.7. Protection and Maintenance at Excavations  _(p.521)_
+            - **4.2.5.8** — 4.2.5.8. Backfilling  _(p.521)_
+          - **4.2.6** — 4.2.6. Shallow Foundations  _(p.521)_
+            - **4.2.6.1** — 4.2.6.1. Design of Shallow Foundations  _(p.521)_
+            - **4.2.6.2** — 4.2.6.2. Support of Shallow Foundations  _(p.521)_
+            - **4.2.6.3** — 4.2.6.3. Incorrect Placement of Shallow Foundations  _(p.522)_
+            - **4.2.6.4** — 4.2.6.4. Damaged Shallow Foundations  _(p.522)_
+          - **4.2.7** — 4.2.7. Deep Foundations  _(p.522)_
+            - **4.2.7.1** — 4.2.7.1. General  _(p.522)_
+            - **4.2.7.2** — 4.2.7.2. Design of Deep Foundations  _(p.522)_
+            - **4.2.7.3** — 4.2.7.3. Tolerance in Alignment and Location  _(p.522)_
+            - **4.2.7.4** — 4.2.7.4. Incorrect Alignment and Location  _(p.522)_
+            - **4.2.7.5** — 4.2.7.5. Installation of Deep Foundations  _(p.523)_
+            - **4.2.7.6** — 4.2.7.6. Damaged Deep Foundation Units  _(p.523)_
+          - **4.2.8** — 4.2.8. Special Foundations  _(p.523)_
+            - **4.2.8.1** — 4.2.8.1. General  _(p.523)_
+            - **4.2.8.2** — 4.2.8.2. Use of Existing Foundations  _(p.523)_
+        - **4.3** — Section 4.3. Design Requirements for Structural Materials  _(p.523)_
+          - **4.3.1** — 4.3.1. Wood  _(p.523)_
+            - **4.3.1.1** — 4.3.1.1. Design Basis for Wood  _(p.523)_
+            - **4.3.1.2** — 4.3.1.2. Glued-Laminated Members  _(p.523)_
+            - **4.3.1.3** — 4.3.1.3. Termites  _(p.523)_
+          - **4.3.2** — 4.3.2. Plain and Reinforced Masonry  _(p.523)_
+            - **4.3.2.1** — 4.3.2.1. Design Basis for Plain and Reinforced Masonry  _(p.523)_
+          - **4.3.3** — 4.3.3. Plain, Reinforced and Pre-stressed Concrete  _(p.524)_
+            - **4.3.3.1** — 4.3.3.1. Design Basis for Plain, Reinforced and Pre-stressed Concrete  _(p.524)_
+          - **4.3.4** — 4.3.4. Steel  _(p.524)_
+            - **4.3.4.1** — 4.3.4.1. Design Basis for Structural Steel  _(p.524)_
+            - **4.3.4.2** — 4.3.4.2. Design Basis for Cold-Formed Steel  _(p.524)_
+            - **4.3.4.3** — 4.3.4.3. Steel Building Systems  _(p.524)_
+          - **4.3.5** — 4.3.5. Aluminum  _(p.524)_
+            - **4.3.5.1** — 4.3.5.1. Design Basis for Aluminum  _(p.524)_
+          - **4.3.6** — 4.3.6. Glass  _(p.524)_
+            - **4.3.6.1** — 4.3.6.1. Design Basis for Glass  _(p.524)_
+        - **4.4** — Section 4.4. Design Requirements for Special Structures  _(p.524)_
+          - **4.4.1** — 4.4.1. Air-, Cable- and Frame-Supported Membrane Structures  _(p.524)_
+            - **4.4.1.1** — 4.4.1.1. Design Basis for Air-, Cable- and Frame-Supported Membrane Structures  _(p.524)_
+          - **4.4.2** — 4.4.2. Parking Structures  _(p.525)_
+            - **4.4.2.1** — 4.4.2.1. Design Basis for Storage Garages and Repair Garages  _(p.525)_
+          - **4.4.3** — 4.4.3. Storage Racks  _(p.525)_
+            - **4.4.3.1** — 4.4.3.1. Design Basis for Storage Racks  _(p.525)_
+        - **4.5** — Section 4.5. Objectives and Functional Statements  _(p.525)_
+          - **4.5.1** — 4.5.1. Objectives and Functional Statements  _(p.525)_
+            - **4.5.1.1** — 4.5.1.1. Attributions to Acceptable Solutions  _(p.525)_
+        - Notes to Part 4 Structural Design  _(p.538)_
+          - **A-4.1.1.3.(1)** — A-4.1.1.3.(1) Structural Integrity  _(p.538)_
+          - **A-4.1.1.3.(2)** — A-4.1.1.3.(2) Serviceability  _(p.538)_
+          - **A-4.1.1.5.(2)** — A-4.1.1.5.(2) Structural Equivalents  _(p.538)_
+          - **A-4.1.2.1** — A-4.1.2.1. Loads and Effects  _(p.538)_
+          - **A-4.1.2.1.(1)** — A-4.1.2.1.(1) Temperature Changes  _(p.538)_
+          - **A-4.1.2.1.(3)** — A-4.1.2.1.(3) Major Occupancies  _(p.538)_
+          - A-Table 4.1.2.1. Importance Categories for Buildings  _(p.538)_
+            - Low Importance Category  _(p.538)_
+            - Normal Importance Category  _(p.539)_
+            - High Importance Category  _(p.539)_
+            - Post-disaster Importance Category  _(p.539)_
+          - **A-4.1.2.2.(1)** — A-4.1.2.2.(1) Loads Not Listed  _(p.539)_
+          - **A-4.1.3** — A-4.1.3. Limit States Design  _(p.539)_
+          - **A-4.1.3.2.(2)** — A-4.1.3.2.(2) Load Combinations  _(p.539)_
+            - Load Combination Equations  _(p.539)_
+            - Load Cases and Crane Load Effects  _(p.539)_
+            - Crane Loads  _(p.540)_
+          - **A-4.1.3.2.(4)** — A-4.1.3.2.(4) Effects of Lateral Earth Pressure, H, Pre-stress, P, and Imposed Deformation, T, in Design Calculations  _(p.540)_
+            - Effects of Lateral Earth Pressure, H, in Design Calculations  _(p.540)_
+            - Effects of Pre-stress, P, and Imposed Deformation, T, in Design Calculations  _(p.540)_
+          - **A-4.1.3.2.(5)** — A-4.1.3.2.(5) Overturning, Uplift or Sliding  _(p.540)_
+          - **A-4.1.3.3.(1)** — A-4.1.3.3.(1) Failure due to Fatigue  _(p.540)_
+          - **A-4.1.3.3.(2)** — A-4.1.3.3.(2) Vibration Effects  _(p.540)_
+          - **A-4.1.3.4.(1)** — A-4.1.3.4.(1) Loads and Load Combinations for Serviceability  _(p.540)_
+          - A-Table 4.1.3.4. Acceleration due to Vibrations  _(p.540)_
+          - **A-4.1.3.5.(1)** — A-4.1.3.5.(1) Deflections  _(p.540)_
+          - **A-4.1.3.5.(3)** — A-4.1.3.5.(3) Lateral Deflection of Buildings  _(p.541)_
+          - **A-4.1.3.6.(1)** — A-4.1.3.6.(1) Floor Vibration  _(p.541)_
+          - **A-4.1.3.6.(2)** — A-4.1.3.6.(2) Floor Vibrations Caused by Resonance with Operating Machinery or Equipment  _(p.541)_
+          - **A-4.1.3.6.(3)** — A-4.1.3.6.(3) Dynamic Analyses of Floor Vibrations  _(p.541)_
+          - **A-4.1.3.6.(4)** — A-4.1.3.6.(4) Lateral Vibration Under Wind Load  _(p.541)_
+          - **A-4.1.4.1.(2)** — A-4.1.4.1.(2) Permanent Partitions Fixed to the Structure  _(p.541)_
+          - **A-4.1.4.1.(3)** — A-4.1.4.1.(3) Partitions Not Shown on the Drawings  _(p.541)_
+          - **A-4.1.4.1.(6)** — A-4.1.4.1.(6) Counteracting Dead Load Due to Soil  _(p.541)_
+          - **A-4.1.5.1.(1)** — A-4.1.5.1.(1) Loads Due to Use of Floors and Roofs  _(p.541)_
+          - A-Table 4.1.5.3. Considerations for Live Loads  _(p.541)_
+            - Arenas, Grandstands and Stadia  _(p.541)_
+            - Attics - Limited Accessibility  _(p.541)_
+            - Corridors, Aisles and Rows of Seats  _(p.541)_
+            - Floor Areas That Could Be Used As Viewing Areas  _(p.542)_
+            - Lecture Halls and Classrooms  _(p.542)_
+            - Minimum Roof Live Load  _(p.542)_
+            - Office Areas  _(p.542)_
+            - Vehicle Loads  _(p.542)_
+          - **A-4.1.5.5** — A-4.1.5.5. Loads on Exterior Areas  _(p.542)_
+          - **A-4.1.5.8** — A-4.1.5.8. Tributary Area  _(p.542)_
+          - A-Table 4.1.5.9. Loads Due to Concentrations  _(p.542)_
+          - **A-4.1.5.11** — A-4.1.5.11. Crane-Supporting Structures  _(p.542)_
+          - **A-4.1.5.14** — A-4.1.5.14. and 4.1.5.15.(1) Design of Guards  _(p.543)_
+          - **A-4.1.5.17** — A-4.1.5.17. Loads on Firewalls  _(p.543)_
+          - **A-4.1.6.1.(1)** — A-4.1.6.1.(1) Specified Load Due to Rain or to Snow and Associated Rain  _(p.543)_
+          - **A-4.1.6.2** — A-4.1.6.2. Coefficients for Snow Loads on Roofs  _(p.543)_
+          - **A-4.1.6.2.(2)** — A-4.1.6.2.(2) Basic Roof Snow Load Factor  _(p.543)_
+          - **A-4.1.6.3.(2)** — A-4.1.6.3.(2) Full and Partial Loading under Snow Loads  _(p.543)_
+          - **A-4.1.6.4.(1)** — A-4.1.6.4.(1) Rain Loads  _(p.543)_
+          - **A-4.1.6.4.(3)** — A-4.1.6.4.(3) Flow Control Drains  _(p.543)_
+          - **A-4.1.6.7.(1)** — A-4.1.6.7.(1) Roof Projections  _(p.544)_
+          - **A-4.1.6.7.(2)** — A-4.1.6.7.(2) Values of Ca for Small Roof Projections  _(p.544)_
+          - **A-4.1.6.9** — A-4.1.6.9. Snow on Gable Roofs  _(p.544)_
+          - **A-4.1.6.16** — A-4.1.6.16. Roofs with Solar Panels  _(p.545)_
+          - **A-4.1.6.16.(3)** — A-4.1.6.16.(3) Snow Obstructed from Sliding by Solar Panels  _(p.545)_
+          - **A-4.1.6.16.(4)** — A-4.1.6.16.(4)(b) Snow Loads for a Sloped Roof with Parallel Flush Solar Panels Where wg ≥ wp  _(p.545)_
+          - **A-4.1.6.16.(4)** — A-4.1.6.16.(4)(c) Snow Loads for a Sloped Roof with Parallel Flush Solar Panels Where wg < wp  _(p.546)_
+          - **A-4.1.6.16.(5)** — A-4.1.6.16.(5)(a) Snow Loads for a Flat Roof with Parallel Raised Solar Panels  _(p.546)_
+          - **A-4.1.6.16.(5)** — A-4.1.6.16.(5)(b) Snow Loads for a Sloped Roof with Parallel Raised Solar Panels  _(p.547)_
+          - **A-4.1.6.16.(6)** — A-4.1.6.16.(6) Snow Loads for a Flat Roof with Tilted Solar Panels  _(p.547)_
+          - **A-4.1.6.16.(6)** — A-4.1.6.16.(6)(c) Variation of Ca with hg − CbCwSs/γ  _(p.547)_
+          - **A-4.1.7.1.(6)** — A-4.1.7.1.(6) Computational Fluid Dynamics (CFD)  _(p.548)_
+          - **A-4.1.7.2** — A-4.1.7.2. Natural Frequency  _(p.548)_
+          - **A-4.1.7.3.(5)** — A-4.1.7.3.(5)(c) Procedure for Calculating Intermediate Ce  _(p.548)_
+          - **A-4.1.7.3.(10)** — A-4.1.7.3.(10) Internal Gust Effect Factor, Cgi  _(p.548)_
+          - **A-4.1.7.5.(2)** — A-4.1.7.5.(2) and (3) Pressure Coefficients for Main Structural System on Rectangular Buildings  _(p.549)_
+          - **A-4.1.7.5.(4)** — A-4.1.7.5.(4) Pressure Coefficients for Roof and Wall Claddings and Secondary Structural Supports of Cladding on Rectangular Buildings  _(p.550)_
+          - **A-4.1.7.5.(9)** — A-4.1.7.5.(9) and 4.1.7.7.(2) Cladding on Parapets  _(p.550)_
+          - **A-4.1.7.8.(2)** — A-4.1.7.8.(2) and (3) Exposure Factor for Dynamic Procedure  _(p.551)_
+          - **A-4.1.7.8.(4)** — A-4.1.7.8.(4) Peak Factor, Size Reduction Factor and Gust Energy Ratio  _(p.551)_
+          - **A-4.1.7.9.(1)** — A-4.1.7.9.(1) Full and Partial Wind Loading  _(p.552)_
+          - **A-4.1.7.11** — A-4.1.7.11. Exterior Ornamentations, Equipment and Appendages  _(p.553)_
+          - **A-4.1.7.12** — A-4.1.7.12. Attached Canopies on Low Buildings (H ≤ 20 m)  _(p.553)_
+          - **A-4.1.7.13** — A-4.1.7.13. Roof-Mounted Solar Panels on Buildings of Any Height  _(p.554)_
+          - **A-4.1.8.2.(1)** — A-4.1.8.2.(1) Notation  _(p.555)_
+            - Definition of ex  _(p.555)_
+            - Definition of W  _(p.555)_
+          - **A-4.1.8.3.(4)** — A-4.1.8.3.(4) General Design of the SFRS  _(p.555)_
+          - **A-4.1.8.3.(6)** — A-4.1.8.3.(6) General Design of Stiff Elements  _(p.555)_
+          - **A-4.1.8.3.(7)** — A-4.1.8.3.(7)(b) and (c) Stiffness Imparted to the Structure from Elements Not Part of the SFRS  _(p.555)_
+          - **A-4.1.8.3.(8)** — A-4.1.8.3.(8) Structural Modeling  _(p.555)_
+          - **A-4.1.8.4.(2)** — A-4.1.8.4.(2) and (3) Site Designation  _(p.555)_
+          - **A-4.1.8.4.(3)** — A-4.1.8.4.(3) Site Class  _(p.555)_
+          - **A-4.1.8.4.(6)** — A-4.1.8.4.(6) Log–Log Interpolation  _(p.555)_
+          - A-Table 4.1.8.5.-A Serviceability Limit States for Earthquake  _(p.555)_
+          - A-Table 4.1.8.6. Structural Irregularities  _(p.556)_
+            - Structural Irregularities  _(p.556)_
+            - Gravity-Induced Lateral Demand – Type 9 Irregularity  _(p.556)_
+          - **A-4.1.8.7.(1)** — A-4.1.8.7.(1) Dynamic Analysis Procedures  _(p.556)_
+          - A-Table 4.1.8.9. Industrial-Type Steel Structures  _(p.556)_
+          - **A-4.1.8.9.(4)** — A-4.1.8.9.(4) Vertical Variations in RdRo  _(p.556)_
+          - **A-4.1.8.9.(5)** — A-4.1.8.9.(5) RdRo and Equivalent Systems  _(p.556)_
+          - **A-4.1.8.10.(5)** — A-4.1.8.10.(5) and (6) Mid-rise Timber SFRSs  _(p.556)_
+          - **A-4.1.8.10.(7)** — A-4.1.8.10.(7) Gravity-Induced Lateral Demand – Type 9 Irregularity  _(p.556)_
+          - **A-4.1.8.10.(9)** — A-4.1.8.10.(9) Gravity-Induced Lateral Demand – Non-linear Dynamic Analysis  _(p.557)_
+          - **A-4.1.8.10.(10)** — A-4.1.8.10.(10)(a) Sloped Column Irregularity  _(p.557)_
+          - **A-4.1.8.11.(3)** — A-4.1.8.11.(3) Determination of the Fundamental Period, Ta  _(p.557)_
+          - **A-4.1.8.12.(1)** — A-4.1.8.12.(1)(a) Linear Dynamic Analysis  _(p.557)_
+          - **A-4.1.8.12.(1)** — A-4.1.8.12.(1)(b) Non-linear Dynamic Analysis  _(p.557)_
+          - **A-4.1.8.12.(3)** — A-4.1.8.12.(3) Ground Motion Time Histories  _(p.557)_
+          - **A-4.1.8.12.(4)** — A-4.1.8.12.(4)(a) Accidental Torsional Moments  _(p.557)_
+          - **A-4.1.8.13.(4)** — A-4.1.8.13.(4) Deflections and Sway Effects  _(p.557)_
+          - **A-4.1.8.15.(1)** — A-4.1.8.15.(1) Diaphragms and Their Connections  _(p.557)_
+          - **A-4.1.8.15.(3)** — A-4.1.8.15.(3) Ductile Diaphragms  _(p.557)_
+          - **A-4.1.8.15.(4)** — A-4.1.8.15.(4) Influence of Dynamic Diaphragm In-Plane Response  _(p.558)_
+            - Clause 4.1.8.15.(4)(a)  _(p.558)_
+            - Clause 4.1.8.15.(4)(b)  _(p.558)_
+          - **A-4.1.8.15.(5)** — A-4.1.8.15.(5) Discontinuities  _(p.558)_
+          - **A-4.1.8.15.(6)** — A-4.1.8.15.(6) Vertical Variations in RdRo  _(p.558)_
+          - **A-4.1.8.15.(7)** — A-4.1.8.15.(7) Concurrent Yielding  _(p.558)_
+          - **A-4.1.8.15.(8)** — A-4.1.8.15.(8) Design Force in Elements  _(p.558)_
+          - **A-4.1.8.16.(1)** — A-4.1.8.16.(1) Foundation Movement  _(p.558)_
+          - **A-4.1.8.16.(2)** — A-4.1.8.16.(2) Actual Lateral Load Capacity of the SFRS  _(p.559)_
+          - **A-4.1.8.16.(4)** — A-4.1.8.16.(4) Overturning Resistance of the Foundation  _(p.559)_
+          - **A-4.1.8.16.(6)** — A-4.1.8.16.(6)(a) Interconnection of Foundation Elements  _(p.559)_
+          - **A-4.1.8.16.(7)** — A-4.1.8.16.(7) Earthquake Lateral Pressures from Backfill or Natural Ground  _(p.559)_
+          - **A-4.1.8.16.(8)** — A-4.1.8.16.(8)(a) Cyclic Inelastic Behaviour of Foundation Elements  _(p.559)_
+          - **A-4.1.8.16.(9)** — A-4.1.8.16.(9) Alternative Foundation Ties  _(p.559)_
+          - **A-4.1.8.16.(10)** — A-4.1.8.16.(10) Liquefaction  _(p.559)_
+          - **A-4.1.8.17.(1)** — A-4.1.8.17.(1) Slope Stability  _(p.559)_
+          - **A-4.1.8.18** — A-4.1.8.18. Elements of Structures, Non-structural Components and Equipment  _(p.559)_
+          - A-Table 4.1.8.18. Non-structural Components and Equipment  _(p.560)_
+          - **A-4.1.8.18.(7)** — A-4.1.8.18.(7)(e) Post-installed Anchors  _(p.560)_
+          - **A-4.1.8.18.(13)** — A-4.1.8.18.(13) and 4.4.3.1.(1) Storage Racks  _(p.560)_
+          - **A-4.1.8.18.(14)** — A-4.1.8.18.(14) and (15) Glass Fallout and Failure  _(p.560)_
+          - **A-4.1.8.18.(16)** — A-4.1.8.18.(16) Elements of Structures, Non-structural Components and Equipment in Structures with Supplemental Energy Dissipation  _(p.560)_
+          - **A-4.1.8.18.(18)** — A-4.1.8.18.(18) Climatic Conditions  _(p.560)_
+          - **A-4.1.8.19.(2)** — A-4.1.8.19.(2) Design Review  _(p.560)_
+          - **A-4.1.8.19.(3)** — A-4.1.8.19.(3)(a) Non-linear Dynamic Analysis  _(p.560)_
+          - **A-4.1.8.19.(4)** — A-4.1.8.19.(4) and 4.1.8.21.(5) Ground Motion Time Histories  _(p.560)_
+          - **A-4.1.8.21.(2)** — A-4.1.8.21.(2) Design Review  _(p.560)_
+          - **A-4.1.8.21.(4)** — A-4.1.8.21.(4)(a) Non-linear Dynamic Analysis  _(p.561)_
+          - **A-4.2.2.1.(1)** — A-4.2.2.1.(1) Subsurface Investigation  _(p.561)_
+          - **A-4.2.2.3.(1)** — A-4.2.2.3.(1) Responsibilities of the Designer as Defined in Part 4  _(p.561)_
+          - **A-4.2.4.1.(1)** — A-4.2.4.1.(1) Innovative Designs  _(p.561)_
+          - **A-4.2.4.1.(3)** — A-4.2.4.1.(3) Ultimate Limit States for Foundations  _(p.561)_
+          - **A-4.2.4.1.(5)** — A-4.2.4.1.(5) Design of Foundations for Differential Movements  _(p.561)_
+          - **A-4.2.4.4.(1)** — A-4.2.4.4.(1) Depth of Foundations  _(p.561)_
+          - **A-4.2.5.1.(1)** — A-4.2.5.1.(1) Excavations  _(p.561)_
+          - **A-4.2.6.1.(1)** — A-4.2.6.1.(1) Shallow Foundations  _(p.561)_
+          - **A-4.2.7.1.(1)** — A-4.2.7.1.(1) Deep Foundation Units  _(p.561)_
+          - **A-4.2.7.2.(1)** — A-4.2.7.2.(1) Deep Foundations  _(p.561)_
+          - **A-4.2.7.2.(2)** — A-4.2.7.2.(2) Load Testing of Piles  _(p.561)_
+          - **A-4.3.3.1.(1)** — A-4.3.3.1.(1) Precast Concrete  _(p.561)_
+          - **A-4.3.4.1.(1)** — A-4.3.4.1.(1) Welded Construction  _(p.562)_
+          - **A-4.3.4.2.(1)** — A-4.3.4.2.(1) Cold-Formed Stainless Steel Members  _(p.562)_
+          - **A-4.3.6.1.(1)** — A-4.3.6.1.(1) Design Basis for Glass  _(p.562)_
+          - **A-4.4.2.1.(1)** — A-4.4.2.1.(1) Design Basis for Storage Garages and Repair Garages  _(p.562)_
+      - **Part 5** — Part 5 Environmental Separation  _(p.564)_
+        - **5.1** — Section 5.1. General  _(p.566)_
+          - **5.1.1** — 5.1.1. Scope  _(p.566)_
+            - **5.1.1.1** — 5.1.1.1. Scope  _(p.566)_
+          - **5.1.2** — 5.1.2. Application  _(p.566)_
+            - **5.1.2.1** — 5.1.2.1. Exposure to Exterior Space or the Ground and Separation of Dissimilar Environments  _(p.566)_
+          - **5.1.3** — 5.1.3. Definitions  _(p.566)_
+            - **5.1.3.1** — 5.1.3.1. Defined Words  _(p.566)_
+          - **5.1.4** — 5.1.4. Resistance to Loads and Deterioration  _(p.567)_
+            - **5.1.4.1** — 5.1.4.1. Structural and Environmental Loads  _(p.567)_
+            - **5.1.4.2** — 5.1.4.2. Resistance to Deterioration  _(p.568)_
+          - **5.1.5** — 5.1.5. Other Requirements  _(p.568)_
+            - **5.1.5.1** — 5.1.5.1. Requirements in Other Parts of the Code  _(p.568)_
+        - **5.2** — Section 5.2. Loads and Procedures  _(p.568)_
+          - **5.2.1** — 5.2.1. Environmental Loads and Design Procedures  _(p.568)_
+            - **5.2.1.1** — 5.2.1.1. Exterior Environmental Loads  _(p.568)_
+            - **5.2.1.2** — 5.2.1.2. Interior Environmental Loads  _(p.568)_
+            - **5.2.1.3** — 5.2.1.3. Environmental Load and Transfer Calculations  _(p.568)_
+          - **5.2.2** — 5.2.2. Structural Loads and Design Procedures  _(p.569)_
+            - **5.2.2.1** — 5.2.2.1. Determination of Structural Loads and Effects  _(p.569)_
+            - **5.2.2.2** — 5.2.2.2. Determination of Wind Load  _(p.569)_
+            - **5.2.2.3** — 5.2.2.3. Design Procedures  _(p.569)_
+        - **5.3** — Section 5.3. Heat Transfer  _(p.570)_
+          - **5.3.1** — 5.3.1. Thermal Resistance of Assemblies  _(p.570)_
+            - **5.3.1.1** — 5.3.1.1. Required Resistance to Heat Transfer  _(p.570)_
+            - **5.3.1.2** — 5.3.1.2. Properties to Resist Heat Transfer or Dissipate Heat  _(p.570)_
+            - **5.3.1.3** — 5.3.1.3. Location and Installation of Materials Providing Thermal Resistance  _(p.570)_
+        - **5.4** — Section 5.4. Air Leakage  _(p.570)_
+          - **5.4.1** — 5.4.1. Air Barrier Systems  _(p.570)_
+            - **5.4.1.1** — 5.4.1.1. Required Resistance to Air Leakage  _(p.570)_
+            - **5.4.1.2** — 5.4.1.2. Air Barrier Assemblies  _(p.571)_
+        - **5.5** — Section 5.5. Vapour Diffusion  _(p.572)_
+          - **5.5.1** — 5.5.1. Vapour Barriers  _(p.572)_
+            - **5.5.1.1** — 5.5.1.1. Required Resistance to Vapour Diffusion  _(p.572)_
+            - **5.5.1.2** — 5.5.1.2. Vapour Barrier Properties and Installation  _(p.572)_
+        - **5.6** — Section 5.6. Precipitation  _(p.573)_
+          - **5.6.1** — 5.6.1. Protection from Precipitation  _(p.573)_
+            - **5.6.1.1** — 5.6.1.1. Required Protection from Precipitation  _(p.573)_
+            - **5.6.1.2** — 5.6.1.2. Installation of Protective Materials  _(p.573)_
+          - **5.6.2** — 5.6.2. Sealing, Drainage, Accumulation and Disposal  _(p.573)_
+            - **5.6.2.1** — 5.6.2.1. Sealing and Drainage  _(p.573)_
+            - **5.6.2.2** — 5.6.2.2. Accumulation and Disposal  _(p.573)_
+        - **5.7** — Section 5.7. Surface and Ground Water  _(p.574)_
+          - **5.7.1** — 5.7.1. Site Factors  _(p.574)_
+            - **5.7.1.1** — 5.7.1.1. Application  _(p.574)_
+            - **5.7.1.2** — 5.7.1.2. Required Protection  _(p.574)_
+          - **5.7.2** — 5.7.2. Protection against Hydrostatic Pressure  _(p.574)_
+            - **5.7.2.1** — 5.7.2.1. Application  _(p.574)_
+            - **5.7.2.2** — 5.7.2.2. Design of Building Elements Under Hydrostatic Loads  _(p.574)_
+            - **5.7.2.3** — 5.7.2.3. Required Protection  _(p.574)_
+          - **5.7.3** — 5.7.3. Protection against Ground Water  _(p.574)_
+            - **5.7.3.1** — 5.7.3.1. Application  _(p.574)_
+            - **5.7.3.2** — 5.7.3.2. Required Protection  _(p.574)_
+            - **5.7.3.3** — 5.7.3.3. Waterproofing  _(p.575)_
+            - **5.7.3.4** — 5.7.3.4. Where Dampproofing is Permitted  _(p.575)_
+        - **5.8** — Section 5.8. Sound Transmission  _(p.575)_
+          - **5.8.1** — 5.8.1. Protection from Airborne Noise  _(p.575)_
+            - **5.8.1.1** — 5.8.1.1. Required Protection  _(p.575)_
+            - **5.8.1.2** — 5.8.1.2. Determination of Sound Transmission Ratings  _(p.575)_
+            - **5.8.1.3** — 5.8.1.3. Compliance with Required Ratings  _(p.576)_
+            - **5.8.1.4** — 5.8.1.4. Detailed Method for Calculating ASTC  _(p.576)_
+            - **5.8.1.5** — 5.8.1.5. Simplified Method for Calculating ASTC  _(p.577)_
+        - **5.9** — Section 5.9. Standards  _(p.578)_
+          - **5.9.1** — 5.9.1. Applicable Standards  _(p.578)_
+            - **5.9.1.1** — 5.9.1.1. Compliance with Applicable Standards  _(p.578)_
+          - **5.9.2** — 5.9.2. Windows, Doors and Skylights  _(p.581)_
+            - **5.9.2.1** — 5.9.2.1. General  _(p.581)_
+            - **5.9.2.2** — 5.9.2.2. Applicable Standards  _(p.581)_
+            - **5.9.2.3** — 5.9.2.3. Structural and Environmental Loads, Air Leakage and Water Penetration  _(p.581)_
+            - **5.9.2.4** — 5.9.2.4. Heat Transfer  _(p.582)_
+          - **5.9.3** — 5.9.3. Other Fenestration Assemblies  _(p.582)_
+            - **5.9.3.1** — 5.9.3.1. General  _(p.582)_
+            - **5.9.3.2** — 5.9.3.2. Structural and Environmental Loads  _(p.582)_
+            - **5.9.3.3** — 5.9.3.3. Heat Transfer  _(p.582)_
+            - **5.9.3.4** — 5.9.3.4. Air Leakage  _(p.582)_
+            - **5.9.3.5** — 5.9.3.5. Water Penetration  _(p.583)_
+          - **5.9.4** — 5.9.4. Exterior Insulation Finish Systems  _(p.583)_
+            - **5.9.4.1** — 5.9.4.1. Structural Loads, Heat Transfer, Air Leakage, Vapour Diffusion and Water Penetration  _(p.583)_
+        - **5.10** — Section 5.10. Objectives and Functional Statements  _(p.583)_
+          - **5.10.1** — 5.10.1. Objectives and Functional Statements  _(p.583)_
+            - **5.10.1.1** — 5.10.1.1. Attributions to Acceptable Solutions  _(p.583)_
+        - Notes to Part 5 Environmental Separation  _(p.588)_
+          - A-5 Environmental Separation  _(p.588)_
+          - **A-5.1.1.1.(1)** — A-5.1.1.1.(1) Scope  _(p.588)_
+          - **A-5.1.2.1.(1)** — A-5.1.2.1.(1) Application  _(p.588)_
+          - **A-5.1.4.1** — A-5.1.4.1. Application of Structural Design to Other Building Elements  _(p.589)_
+          - **A-5.1.4.1.(2)** — A-5.1.4.1.(2) Materials, Components and Assemblies with Multiple Functions  _(p.589)_
+          - **A-5.1.4.1.(5)** — A-5.1.4.1.(5) Past Performance as Basis for Compliance with Respect to Structural Loads  _(p.589)_
+          - **A-5.1.4.1.(6)** — A-5.1.4.1.(6)(b) and (c) Accommodating Movement  _(p.590)_
+          - **A-5.1.4.2** — A-5.1.4.2. Deterioration  _(p.590)_
+          - **A-5.2.1.1.(3)** — A-5.2.1.1.(3) Soil Temperatures  _(p.591)_
+          - **A-5.2.1.2.(1)** — A-5.2.1.2.(1) Interior Environmental Loads  _(p.591)_
+          - **A-5.2.2.1.(2)** — A-5.2.2.1.(2)(c) Determination of Structural Loads and Effects  _(p.591)_
+          - **A-5.2.2.2** — A-5.2.2.2. Resistance to Wind and Other Air Pressure Loads  _(p.592)_
+          - **A-5.2.2.2.(4)** — A-5.2.2.2.(4) Membrane Roofing Systems  _(p.592)_
+          - **A-5.3** — A-5.3. Heat Transfer  _(p.592)_
+          - **A-5.3.1.1** — A-5.3.1.1. Required Resistance to Heat Transfer  _(p.592)_
+          - **A-5.3.1.2** — A-5.3.1.2. Material and Component Properties and Condensation  _(p.592)_
+          - **A-5.3.1.2.(1)** — A-5.3.1.2.(1) Use of Thermal Insulation or Mechanical Systems for Environmental Control  _(p.593)_
+          - **A-5.3.1.3.(2)** — A-5.3.1.3.(2) Position of Materials Providing Thermal Resistance  _(p.593)_
+          - **A-5.4.1** — A-5.4.1. Air Barrier Systems  _(p.593)_
+          - **A-5.4.1.1** — A-5.4.1.1. Locations Where an Air Barrier System Is Required  _(p.594)_
+          - **A-5.4.1.1.(3)** — A-5.4.1.1.(3) Air Leakage Performance Classes for Air Barrier Assemblies  _(p.594)_
+          - **A-5.4.1.1.(4)** — A-5.4.1.1.(4) Continuity of Air Barrier Systems  _(p.595)_
+          - **A-5.4.1.1.(7)** — A-5.4.1.1.(7) Locations Where an Air Barrier System Is Not Required  _(p.595)_
+          - **A-5.4.1.2.(1)** — A-5.4.1.2.(1) Low-Sloped Membrane Roof Assemblies  _(p.595)_
+          - **A-5.4.1.2.(2)** — A-5.4.1.2.(2) Air Barrier Assemblies Not Evaluated in Accordance with CAN/ULC-S742  _(p.595)_
+          - **A-5.4.1.2.(4)** — A-5.4.1.2.(4) Testing of Below-Grade Air Barrier Assemblies  _(p.596)_
+          - **A-5.5.1.1** — A-5.5.1.1. Required Resistance to Vapour Diffusion  _(p.596)_
+          - **A-5.5.1.2.(1)** — A-5.5.1.2.(1) Vapour Barrier Materials and Installation  _(p.596)_
+          - **A-5.6.1.1** — A-5.6.1.1. Required Protection from Precipitation  _(p.597)_
+          - **A-5.6.1.2.(1)** — A-5.6.1.2.(1) Ice Damming  _(p.597)_
+          - **A-5.6.1.2.(2)** — A-5.6.1.2.(2) Vegetated Roofing Systems  _(p.597)_
+          - **A-5.6.2.1** — A-5.6.2.1. Sealing and Drainage  _(p.597)_
+          - **A-5.7** — A-5.7. Protection from Interior Sources of Water  _(p.598)_
+          - **A-5.7.1.2.(2)** — A-5.7.1.2.(2) Drainage  _(p.598)_
+          - **A-5.7.3.3.(1)** — A-5.7.3.3.(1)(a) Imperfections  _(p.599)_
+          - **A-5.7.3.4.(1)** — A-5.7.3.4.(1) Dampproofing  _(p.599)_
+          - **A-5.8** — A-5.8. Required Protection from Noise  _(p.599)_
+          - **A-5.8.1.2** — A-5.8.1.2. Using ASTC in lieu of STC  _(p.599)_
+          - **A-5.8.1.4** — A-5.8.1.4. Methods of Calculating ASTC  _(p.599)_
+          - **A-5.8.1.4.(4)** — A-5.8.1.4.(4)(b) Assemblies that Behave Like Homogeneous Panels  _(p.599)_
+          - **A-5.9.1.1.(1)** — A-5.9.1.1.(1) Selection of Materials and Components and Compliance with Referenced Standards  _(p.599)_
+          - A-Table 5.9.1.1. Selection and Installation of Sealants  _(p.599)_
+          - **A-5.9.2.1.(3)** — A-5.9.2.1.(3) Airtightness and Watertightness of Wired Glass Windows  _(p.600)_
+          - **A-5.9.2.2** — A-5.9.2.2. Manufactured Windows, Doors and Skylights  _(p.600)_
+            - Design Values  _(p.600)_
+            - Storm Doors and Windows  _(p.600)_
+            - Forced Entry Test  _(p.600)_
+          - **A-5.9.2.3.(1)** — A-5.9.2.3.(1) Installation and Field Testing of Windows, Doors and Skylights  _(p.600)_
+            - Installation  _(p.600)_
+            - Field Testing  _(p.600)_
+          - **A-5.9.2.4.(3)** — A-5.9.2.4.(3) Heat Transfer through Fire-Rated Glazed Assemblies  _(p.601)_
+          - **A-5.9.3** — A-5.9.3. Testing Standards for Other Fenestration Assemblies  _(p.601)_
+          - **A-5.9.3.1.(1)** — A-5.9.3.1.(1) Terminology for Other Fenestration Assemblies  _(p.601)_
+            - Curtain Wall  _(p.601)_
+            - Window Wall  _(p.601)_
+            - Storefront  _(p.601)_
+            - Glazed Architectural Structures  _(p.601)_
+          - **A-5.9.3.2.(1)** — A-5.9.3.2.(1) Structural and Environmental Loads  _(p.602)_
+          - **A-5.9.3.3.(1)** — A-5.9.3.3.(1) Resistance to Condensation  _(p.602)_
+          - **A-5.9.3.4.(2)** — A-5.9.3.4.(2) Air Leakage  _(p.602)_
+            - Air Leakage Rate and Test Pressure  _(p.602)_
+            - Standard Test Methods  _(p.602)_
+          - **A-5.9.3.4.(3)** — A-5.9.3.4.(3) Systems Excluded from Air Leakage Requirements  _(p.602)_
+          - **A-5.9.3.5.(2)** — A-5.9.3.5.(2) Standard Test Methods  _(p.602)_
+          - **A-5.9.3.5.(3)** — A-5.9.3.5.(3) Water Penetration  _(p.603)_
+          - **A-5.9.3.5.(4)** — A-5.9.3.5.(4) Systems Excluded from Water Penetration Requirements  _(p.603)_
+          - **A-5.9.4.1.(1)** — A-5.9.4.1.(1) Exterior Insulation Finish Systems (EIFS)  _(p.603)_
+            - EIFS Selection  _(p.603)_
+            - Design and Construction of EIFS Drainage Cavity  _(p.603)_
+      - **Part 6** — Part 6 Heating, Ventilating and Air-conditioning  _(p.604)_
+        - **6.1** — Section 6.1. General  _(p.606)_
+          - **6.1.1** — 6.1.1. Application  _(p.606)_
+            - **6.1.1.1** — 6.1.1.1. Scope  _(p.606)_
+            - **6.1.1.2** — 6.1.1.2. Application  _(p.606)_
+          - **6.1.2** — 6.1.2. Definitions  _(p.606)_
+            - **6.1.2.1** — 6.1.2.1. Defined Terms  _(p.606)_
+          - **6.1.3** — 6.1.3. Plans and Specifications  _(p.606)_
+            - **6.1.3.1** — 6.1.3.1. Required Plans and Specifications  _(p.606)_
+        - **6.2** — Section 6.2. Planning  _(p.606)_
+          - **6.2.1** — 6.2.1. General  _(p.606)_
+            - **6.2.1.1** — 6.2.1.1. Good Engineering Practice  _(p.606)_
+            - **6.2.1.2** — 6.2.1.2. Outdoor Design Conditions  _(p.607)_
+            - **6.2.1.3** — 6.2.1.3. Expansion, Contraction and System Pressure  _(p.607)_
+            - **6.2.1.4** — 6.2.1.4. Structural Movement  _(p.607)_
+            - **6.2.1.5** — 6.2.1.5. Installation Standards  _(p.607)_
+            - **6.2.1.6** — 6.2.1.6. Installation – General  _(p.607)_
+            - **6.2.1.7** — 6.2.1.7. Asbestos  _(p.608)_
+          - **6.2.2** — 6.2.2. Incinerators  _(p.608)_
+            - **6.2.2.1** — 6.2.2.1. Applicable Standard  _(p.608)_
+          - **6.2.3** — 6.2.3. Solid Fuel Storage  _(p.608)_
+            - **6.2.3.1** — 6.2.3.1. Solid Fuel Storage Bins  _(p.608)_
+        - **6.3** — Section 6.3. Ventilation Systems  _(p.608)_
+          - **6.3.1** — 6.3.1. Ventilation  _(p.608)_
+            - **6.3.1.1** — 6.3.1.1. Required Ventilation  _(p.608)_
+            - **6.3.1.2** — 6.3.1.2. Crawl Spaces and Attic or Roof Spaces  _(p.608)_
+            - **6.3.1.3** — 6.3.1.3. Ventilation of Storage Garages  _(p.608)_
+            - **6.3.1.4** — 6.3.1.4. Heat Recovery Ventilators  _(p.609)_
+            - **6.3.1.5** — 6.3.1.5. Indoor Air Contaminants  _(p.609)_
+            - **6.3.1.6** — 6.3.1.6. Commercial Cooking Equipment  _(p.609)_
+          - **6.3.2** — 6.3.2. Air Duct Systems  _(p.609)_
+            - **6.3.2.1** — 6.3.2.1. Application  _(p.609)_
+            - **6.3.2.2** — 6.3.2.2. Drain Pans  _(p.610)_
+            - **6.3.2.3** — 6.3.2.3. Materials in Air Duct Systems  _(p.610)_
+            - **6.3.2.4** — 6.3.2.4. Connections in Air Duct Systems  _(p.610)_
+            - **6.3.2.5** — 6.3.2.5. Duct Coverings and Linings  _(p.610)_
+            - **6.3.2.6** — 6.3.2.6. Clearance of Ducts and Plenums  _(p.610)_
+            - **6.3.2.7** — 6.3.2.7. Interconnection of Systems  _(p.610)_
+            - **6.3.2.8** — 6.3.2.8. Makeup Air  _(p.611)_
+            - **6.3.2.9** — 6.3.2.9. Supply, Return, Intake and Exhaust Air Openings  _(p.611)_
+            - **6.3.2.10** — 6.3.2.10. Exhaust Ducts and Outlets  _(p.611)_
+            - **6.3.2.11** — 6.3.2.11. Return-Air System  _(p.612)_
+            - **6.3.2.12** — 6.3.2.12. Underground Ducts  _(p.613)_
+            - **6.3.2.13** — 6.3.2.13. Filters  _(p.613)_
+            - **6.3.2.14** — 6.3.2.14. Cleaning Devices  _(p.613)_
+            - **6.3.2.15** — 6.3.2.15. Evaporative Heat Rejection Systems  _(p.613)_
+            - **6.3.2.16** — 6.3.2.16. Evaporative Air Coolers, Misters, Atomizers, Air Washers and Humidifiers  _(p.614)_
+            - **6.3.2.17** — 6.3.2.17. Fans and Associated Air-Handling Equipment  _(p.615)_
+            - **6.3.2.18** — 6.3.2.18. Vibration Isolation Connectors  _(p.615)_
+            - **6.3.2.19** — 6.3.2.19. Tape  _(p.615)_
+          - **6.3.3** — 6.3.3. Chimneys and Venting Equipment  _(p.615)_
+            - **6.3.3.1** — 6.3.3.1. Requirement for Venting  _(p.615)_
+            - **6.3.3.2** — 6.3.3.2. Masonry or Concrete Chimneys  _(p.615)_
+            - **6.3.3.3** — 6.3.3.3. Metal Smoke Stacks  _(p.615)_
+            - **6.3.3.4** — 6.3.3.4. Access Ladders  _(p.615)_
+          - **6.3.4** — 6.3.4. Ventilation for Laboratories  _(p.616)_
+            - **6.3.4.1** — 6.3.4.1. Application  _(p.616)_
+            - **6.3.4.2** — 6.3.4.2. General Ventilation  _(p.616)_
+            - **6.3.4.3** — 6.3.4.3. Enclosure Exhaust Ventilation  _(p.616)_
+            - **6.3.4.4** — 6.3.4.4. Enclosure Construction  _(p.616)_
+        - **6.4** — Section 6.4. Heating Systems  _(p.617)_
+          - **6.4.1** — 6.4.1. Heating Appliances, General  _(p.617)_
+            - **6.4.1.1** — 6.4.1.1. Location of Appliances  _(p.617)_
+            - **6.4.1.2** — 6.4.1.2. Appliances Installed Outside the Building  _(p.617)_
+          - **6.4.2** — 6.4.2. Unit Heaters  _(p.617)_
+            - **6.4.2.1** — 6.4.2.1. Clearances  _(p.617)_
+          - **6.4.3** — 6.4.3. Radiators and Convectors  _(p.617)_
+            - **6.4.3.1** — 6.4.3.1. Lining or Backing  _(p.617)_
+        - **6.5** — Section 6.5. Thermal Insulation Systems  _(p.617)_
+          - **6.5.1** — 6.5.1. Insulation  _(p.617)_
+            - **6.5.1.1** — 6.5.1.1. Insulation and Coverings  _(p.617)_
+        - **6.6** — Section 6.6. Refrigeration and Cooling Systems  _(p.617)_
+          - **6.6.1** — 6.6.1. Refrigerating Systems and Equipment for Air-conditioning  _(p.617)_
+            - **6.6.1.1** — 6.6.1.1. Cooling Units  _(p.617)_
+        - **6.7** — Section 6.7. Piping Systems  _(p.618)_
+          - **6.7.1** — 6.7.1. Piping for Heating and Cooling Systems  _(p.618)_
+            - **6.7.1.1** — 6.7.1.1. Piping Materials and Installation  _(p.618)_
+            - **6.7.1.2** — 6.7.1.2. Clearances  _(p.618)_
+            - **6.7.1.3** — 6.7.1.3. Surface Temperature  _(p.618)_
+            - **6.7.1.4** — 6.7.1.4. Protection  _(p.618)_
+            - **6.7.1.5** — 6.7.1.5. Piping in Shafts  _(p.618)_
+          - **6.7.2** — 6.7.2. Storage Bins  _(p.618)_
+            - **6.7.2.1** — 6.7.2.1. Storage Bins  _(p.618)_
+        - **6.8** — Section 6.8. Equipment Access  _(p.619)_
+          - **6.8.1** — 6.8.1. Openings  _(p.619)_
+            - **6.8.1.1** — 6.8.1.1. Access Openings  _(p.619)_
+            - **6.8.1.2** — 6.8.1.2. Openings in Air Duct Systems  _(p.619)_
+            - **6.8.1.3** — 6.8.1.3. Odour Removal Equipment  _(p.619)_
+        - **6.9** — Section 6.9. Fire Safety Systems  _(p.619)_
+          - **6.9.1** — 6.9.1. General  _(p.619)_
+            - **6.9.1.1** — 6.9.1.1. Fire Safety Requirements  _(p.619)_
+            - **6.9.1.2** — 6.9.1.2. Hazardous Gases, Dusts or Liquids  _(p.619)_
+            - **6.9.1.3** — 6.9.1.3. Commercial Cooking Equipment  _(p.620)_
+          - **6.9.2** — 6.9.2. Dampers and Ductwork  _(p.620)_
+            - **6.9.2.1** — 6.9.2.1. Fire Dampers  _(p.620)_
+            - **6.9.2.2** — 6.9.2.2. Smoke Detectors  _(p.620)_
+            - **6.9.2.3** — 6.9.2.3. Exhaust Ducts and Outlets  _(p.620)_
+            - **6.9.2.4** — 6.9.2.4. Ducts in Exits  _(p.620)_
+          - **6.9.3** — 6.9.3. Carbon Monoxide Alarms  _(p.620)_
+            - **6.9.3.1** — 6.9.3.1. Carbon Monoxide Alarms  _(p.620)_
+          - **6.9.4** — 6.9.4. Ash Storage  _(p.621)_
+            - **6.9.4.1** — 6.9.4.1. Ash Storage Bins  _(p.621)_
+            - **6.9.4.2** — 6.9.4.2. Fireplaces  _(p.621)_
+        - **6.10** — Section 6.10. Objectives and Functional Statements  _(p.621)_
+          - **6.10.1** — 6.10.1. Objectives and Functional Statements  _(p.621)_
+            - **6.10.1.1** — 6.10.1.1. Attributions to Acceptable Solutions  _(p.621)_
+        - Notes to Part 6 Heating, Ventilating and Air-conditioning  _(p.626)_
+          - **A-6.2.1.1** — A-6.2.1.1. Good Engineering Practice  _(p.626)_
+            - Building Pressurization  _(p.626)_
+            - Legionella Control  _(p.626)_
+            - Radon Control  _(p.626)_
+          - **A-6.2.1.2.(2)** — A-6.2.1.2.(2) Outdoor Design Conditions  _(p.627)_
+          - **A-6.2.1.2.(3)** — A-6.2.1.2.(3) Outdoor Design Conditions  _(p.627)_
+          - **A-6.2.1.4** — A-6.2.1.4. Structural Movement  _(p.627)_
+          - **A-6.2.1.6.(1)** — A-6.2.1.6.(1) Installation – General  _(p.628)_
+          - **A-6.3.1.2.(1)** — A-6.3.1.2.(1) Ventilation and Venting of Crawl Spaces and Attic or Roof Spaces  _(p.628)_
+          - **A-6.3.1.3.(1)** — A-6.3.1.3.(1) Storage Garages  _(p.628)_
+          - **A-6.3.1.3.(2)** — A-6.3.1.3.(2) Ventilation of Storage Garages  _(p.628)_
+          - **A-6.3.1.5** — A-6.3.1.5. Indoor Air Contaminants  _(p.628)_
+            - Contaminants of Concern  _(p.628)_
+            - Minimizing the Growth and Spread of Bio-contaminants  _(p.629)_
+          - **A-6.3.2.2** — A-6.3.2.2. Stagnant Water in Drain Pans  _(p.629)_
+          - **A-6.3.2.5** — A-6.3.2.5. Duct Coverings and Linings  _(p.629)_
+          - **A-6.3.2.10.(5)** — A-6.3.2.10.(5) and (6) Exhausting to Garages  _(p.629)_
+          - **A-6.3.2.10.(6)** — A-6.3.2.10.(6)(b) Air Contaminants  _(p.629)_
+          - **A-6.3.2.10.(7)** — A-6.3.2.10.(7) and (8) Exhaust Ducts Connected to Laundry-Drying Equipment  _(p.629)_
+          - **A-6.3.2.10.(12)** — A-6.3.2.10.(12)(b) Operation Diversity Factor  _(p.630)_
+          - **A-6.3.2.15.(5)** — A-6.3.2.15.(5) and (6) Minimum Distances  _(p.630)_
+          - **A-6.3.2.15.(8)** — A-6.3.2.15.(8) and (9) Assessment of System and Make-Up Water  _(p.630)_
+          - **A-6.3.2.16.(2)** — A-6.3.2.16.(2) Prevention of Water Stagnation  _(p.630)_
+          - **A-6.3.2.16.(6)** — A-6.3.2.16.(6) Assessment of Make-Up Water  _(p.630)_
+          - **A-6.3.3.1.(2)** — A-6.3.3.1.(2) Requirement for Venting  _(p.630)_
+          - **A-6.5.1.1.(3)** — A-6.5.1.1.(3) Temperature of Exposed Piping  _(p.631)_
+          - **A-6.9.1.2.(1)** — A-6.9.1.2.(1) NFPA Publications Pertaining to the Heating, Ventilating and Air-Conditioning of Spaces Containing Hazardous Gases, Dusts or Liquids  _(p.631)_
+          - **A-6.9.3.1.(2)** — A-6.9.3.1.(2)(c) Carbon Monoxide Alarms  _(p.631)_
+      - **Part 7** — Part 7 Plumbing Services  _(p.632)_
+        - **7.1** — Section 7.1. General  _(p.634)_
+          - **7.1.1** — 7.1.1. Scope  _(p.634)_
+            - **7.1.1.1** — 7.1.1.1. Scope  _(p.634)_
+            - **7.1.1.2** — 7.1.1.2. Application  _(p.634)_
+          - **7.1.2** — 7.1.2. Design and Installation  _(p.634)_
+            - **7.1.2.1** — 7.1.2.1. Conformance with Regulations or National Plumbing Code  _(p.634)_
+          - **7.1.3** — 7.1.3. Required Facilities  _(p.634)_
+            - **7.1.3.1** — 7.1.3.1. All Buildings Except Dwelling Units  _(p.634)_
+            - **7.1.3.2** — 7.1.3.2. Dwelling Units  _(p.634)_
+          - **7.1.4** — 7.1.4. Definitions  _(p.634)_
+            - **7.1.4.1** — 7.1.4.1. Defined Terms  _(p.634)_
+        - **7.2** — Section 7.2. Objectives and Functional Statements  _(p.634)_
+          - **7.2.1** — 7.2.1. Objectives and Functional Statements  _(p.634)_
+            - **7.2.1.1** — 7.2.1.1. Attributions to Acceptable Solutions  _(p.634)_
+      - **Part 8** — Part 8 Safety Measures at Construction and Demolition Sites  _(p.636)_
+        - **8.1** — Section 8.1. General  _(p.638)_
+          - **8.1.1** — 8.1.1. Scope  _(p.638)_
+            - **8.1.1.1** — 8.1.1.1. Scope  _(p.638)_
+            - **8.1.1.2** — 8.1.1.2. Definitions  _(p.638)_
+            - **8.1.1.3** — 8.1.1.3. Demolition Procedures  _(p.638)_
+          - **8.1.2** — 8.1.2. Application  _(p.638)_
+            - **8.1.2.1** — 8.1.2.1. Application  _(p.638)_
+            - **8.1.2.2** — 8.1.2.2. Protection from Risk  _(p.638)_
+        - **8.2** — Section 8.2. Protection of the Public  _(p.638)_
+          - **8.2.1** — 8.2.1. Fencing and Barricades  _(p.638)_
+            - **8.2.1.1** — 8.2.1.1. Covered Way Exceptions  _(p.638)_
+            - **8.2.1.2** — 8.2.1.2. Covered Way Construction  _(p.639)_
+            - **8.2.1.3** — 8.2.1.3. Fencing, Boarding or Barricades  _(p.639)_
+            - **8.2.1.4** — 8.2.1.4. Special Hazards  _(p.639)_
+            - **8.2.1.5** — 8.2.1.5. Work Shutdown  _(p.639)_
+          - **8.2.2** — 8.2.2. Excavation  _(p.639)_
+            - **8.2.2.1** — 8.2.2.1. Water Removal  _(p.639)_
+            - **8.2.2.2** — 8.2.2.2. Protection of Adjoining Property  _(p.639)_
+          - **8.2.3** — 8.2.3. Use of Streets or Public Property  _(p.640)_
+            - **8.2.3.1** — 8.2.3.1. Safe Passage Past Site  _(p.640)_
+            - **8.2.3.2** — 8.2.3.2. Overhead Activities  _(p.640)_
+            - **8.2.3.3** — 8.2.3.3. Barricades  _(p.640)_
+            - **8.2.3.4** — 8.2.3.4. Restoration and Repair  _(p.640)_
+            - **8.2.3.5** — 8.2.3.5. Warning Lights  _(p.640)_
+          - **8.2.4** — 8.2.4. Direction of Vehicular Traffic  _(p.640)_
+            - **8.2.4.1** — 8.2.4.1. Hazards to Vehicular Traffic  _(p.640)_
+            - **8.2.4.2** — 8.2.4.2. Flags Used for Directing Traffic  _(p.640)_
+            - **8.2.4.3** — 8.2.4.3. Signs Used for Directing Traffic  _(p.641)_
+            - **8.2.4.4** — 8.2.4.4. Worker Directing Traffic  _(p.641)_
+            - **8.2.4.5** — 8.2.4.5. Clothing While Directing Traffic  _(p.641)_
+          - **8.2.5** — 8.2.5. Waste Material  _(p.641)_
+            - **8.2.5.1** — 8.2.5.1. Control of Waste Material  _(p.641)_
+            - **8.2.5.2** — 8.2.5.2. Removal of Waste Material  _(p.641)_
+            - **8.2.5.3** — 8.2.5.3. Enclosures for Waste Material  _(p.641)_
+            - **8.2.5.4** — 8.2.5.4. Chutes for Waste Material  _(p.641)_
+        - **8.3** — Section 8.3. Objectives and Functional Statements  _(p.642)_
+          - **8.3.1** — 8.3.1. Objectives and Functional Statements  _(p.642)_
+            - **8.3.1.1** — 8.3.1.1. Attributions to Acceptable Solutions  _(p.642)_
+        - Notes to Part 8 Safety Measures at Construction and Demolition Sites  _(p.644)_
+          - **A-8.1.2.1.(1)** — A-8.1.2.1.(1) Application  _(p.644)_
+      - Appendix C Climatic and Seismic Information for Building Design in Canada  _(p.646)_
+        - Introduction  _(p.646)_
+        - General  _(p.646)_
+        - Changing and Variable Climates  _(p.647)_
+        - January Design Temperatures  _(p.647)_
+        - July Design Temperatures  _(p.648)_
+        - Heating Degree-Days  _(p.648)_
+        - Climatic Data for Energy Consumption Calculations  _(p.648)_
+        - Snow Loads  _(p.649)_
+        - Annual Total Precipitation  _(p.650)_
+        - Annual Rainfall  _(p.650)_
+        - Rainfall Intensity  _(p.650)_
+        - One-Day Rainfall  _(p.651)_
+        - Moisture Index (MI)  _(p.651)_
+        - Wetting Index (WI)  _(p.651)_
+        - Drying Index (DI)  _(p.651)_
+        - Determination of Moisture Index (MI)  _(p.652)_
+        - Driving Rain Wind Pressure (DRWP)  _(p.652)_
+        - Wind Effects  _(p.653)_
+        - Table C-1 Wind Speeds  _(p.655)_
+        - Table C-2 Climatic Design Data for Selected Locations in Canada  _(p.656)_
+        - Seismic Hazard for Part 4  _(p.683)_
+        - Seismic Hazard for Part 9  _(p.683)_
+        - Table C-3 Seismic Design Data for Selected Locations in Canada for Part 9 Design  _(p.683)_
+        - References  _(p.692)_
+      - Appendix D Fire-Performance Ratings  _(p.694)_
+        - Section D-1 General  _(p.694)_
+          - D-1.1. Introduction  _(p.694)_
+            - D-1.1.1. Scope  _(p.694)_
+            - D-1.1.2. Referenced Documents  _(p.694)_
+            - D-1.1.3. Applicability of Ratings  _(p.696)_
+            - D-1.1.4. Higher Ratings  _(p.696)_
+            - D-1.1.5. Additional Information on Fire Rated Assemblies  _(p.696)_
+          - D-1.2. Interpretation of Test Results  _(p.696)_
+            - D-1.2.1. Limitations  _(p.696)_
+          - D-1.3. Concrete  _(p.697)_
+            - D-1.3.1. Aggregates in Concrete  _(p.697)_
+          - D-1.4. Types of Concrete  _(p.697)_
+            - D-1.4.1. Description  _(p.697)_
+            - D-1.4.2. Determination of Ratings  _(p.697)_
+            - D-1.4.3. Description of Aggregates  _(p.697)_
+          - D-1.5. Gypsum Board  _(p.698)_
+            - D-1.5.1. Types of Gypsum Board  _(p.698)_
+          - D-1.6. Equivalent Thickness  _(p.698)_
+            - D-1.6.1. Method of Calculating  _(p.698)_
+          - D-1.7. Contribution of Plaster or Gypsum Board Finish to Fire Resistance of Masonry or Concrete  _(p.699)_
+            - D-1.7.1. Determination of Contribution  _(p.699)_
+            - D-1.7.2. Plaster  _(p.699)_
+            - D-1.7.3. Attachment of Gypsum Board and Lath  _(p.700)_
+            - D-1.7.4. Sample Calculations  _(p.700)_
+            - Example (1)  _(p.700)_
+            - Example (2)  _(p.700)_
+            - Example (3)  _(p.700)_
+          - D-1.8. Tests on Floors and Roofs  _(p.701)_
+            - D-1.8.1. Exposure to Fire  _(p.701)_
+          - D-1.9. Moisture Content  _(p.701)_
+            - D-1.9.1. Effect of Moisture  _(p.701)_
+          - D-1.10. Permanence and Durability  _(p.701)_
+            - D-1.10.1. Test Conditions  _(p.701)_
+          - D-1.11. Steel Structural Members  _(p.701)_
+            - D-1.11.1. Thermal Protection  _(p.701)_
+          - D-1.12. Restraint Effects  _(p.701)_
+            - D-1.12.1. Effect on Fire-Resistance Ratings  _(p.701)_
+        - Section D-2 Fire-Resistance Ratings  _(p.702)_
+          - D-2.1. Masonry and Concrete Walls  _(p.702)_
+            - D-2.1.1. Minimum Equivalent Thickness for Fire-Resistance Rating  _(p.702)_
+            - D-2.1.2. Applicability of Ratings  _(p.702)_
+            - D-2.1.3. Framed Beams and Joists  _(p.703)_
+            - D-2.1.4. Credit for Plaster Thickness  _(p.703)_
+            - D-2.1.5. Walls Exposed to Fire on Both Sides  _(p.703)_
+          - D-2.2. Reinforced and Prestressed Concrete Floor and Roof Slabs  _(p.703)_
+            - D-2.2.1. Assignment of Rating  _(p.703)_
+            - D-2.2.2. Floors with Hollow Units  _(p.704)_
+            - D-2.2.3. Composite Slabs  _(p.704)_
+            - D-2.2.4. Contribution of Plaster Finish  _(p.705)_
+            - D-2.2.5. Concrete Cover  _(p.705)_
+            - D-2.2.6. Minimum Dimensions for Cover  _(p.705)_
+          - D-2.3. Wood and Steel Framed Walls, Floors and Roofs  _(p.705)_
+            - D-2.3.1. Maximum Fire-Resistance Rating  _(p.705)_
+            - D-2.3.2. Loadbearing Conditions  _(p.705)_
+            - D-2.3.3. Limitations of Component Additive Method  _(p.706)_
+            - D-2.3.4. Method of Calculation  _(p.706)_
+            - D-2.3.5. Considerations for Various Types of Assemblies  _(p.709)_
+            - D-2.3.6. Framing Members  _(p.710)_
+            - D-2.3.7. Plaster Finish  _(p.711)_
+            - D-2.3.8. Edge Support for Gypsum Board in Wall Assembly  _(p.711)_
+            - D-2.3.9. Membrane Fastening  _(p.711)_
+            - D-2.3.10. Ceiling Membrane Openings – Combustible Construction  _(p.712)_
+            - D-2.3.11. Ceiling Membrane Openings – Noncombustible Construction  _(p.713)_
+            - D-2.3.12. Ceiling Membrane Rating  _(p.713)_
+            - D-2.3.13. Membrane Penetrations in Combustible and Noncombustible Construction  _(p.714)_
+            - D-2.3.14. Beams  _(p.714)_
+            - D-2.3.15. Wired Glass Assembly Support  _(p.714)_
+          - D-2.4. Solid Wood Walls, Floors and Roofs  _(p.714)_
+            - D-2.4.1. Minimum Thickness  _(p.714)_
+            - D-2.4.2. Increased Fire-Resistance Rating  _(p.715)_
+            - D-2.4.3. Supplementary Ratings  _(p.715)_
+          - D-2.5. Solid Plaster Partitions  _(p.715)_
+            - D-2.5.1. Minimum Thickness  _(p.715)_
+          - D-2.6. Protected Steel Columns  _(p.716)_
+            - D-2.6.1. Minimum Thickness of Protective Covering  _(p.716)_
+            - D-2.6.2. Hollow Unit Masonry Columns  _(p.720)_
+            - D-2.6.3. Effect of Plaster  _(p.720)_
+            - D-2.6.4. Determination of M/D Ratio  _(p.720)_
+            - D-2.6.5. Attachment of Gypsum Board  _(p.720)_
+            - D-2.6.6. Concrete Filled Hollow Steel Columns  _(p.721)_
+          - D-2.7. Individually Protected Steel Beams  _(p.722)_
+            - D-2.7.1. Minimum Thickness of Protective Covering  _(p.722)_
+            - D-2.7.2. Types of Concrete  _(p.723)_
+            - D-2.7.3. Effect of Plaster  _(p.723)_
+            - D-2.7.4. Exceptions  _(p.723)_
+            - D-2.7.5. Beam Protected by a Membrane  _(p.723)_
+          - D-2.8. Reinforced Concrete Columns  _(p.723)_
+            - D-2.8.1. Minimum Dimensions  _(p.723)_
+            - D-2.8.2. Method  _(p.724)_
+            - D-2.8.3. Minimum Thickness of Concrete Cover  _(p.724)_
+            - D-2.8.4. Minimum Requirements  _(p.724)_
+            - D-2.8.5. Addition of Plaster  _(p.725)_
+            - D-2.8.6. Built-in Columns  _(p.725)_
+          - D-2.9. Reinforced Concrete Beams  _(p.725)_
+            - D-2.9.1. Minimum Cover Thickness  _(p.725)_
+            - D-2.9.2. Maximum Rating  _(p.725)_
+            - D-2.9.3. Beam Integrated in Floor or Roof Slab  _(p.725)_
+            - D-2.9.4. Minimum Thickness  _(p.725)_
+            - D-2.9.5. Effect of Plaster  _(p.725)_
+          - D-2.10. Prestressed Concrete Beams  _(p.725)_
+            - D-2.10.1. Minimum Cross-Sectional Area and Thickness of Cover  _(p.725)_
+            - D-2.10.2. Minimum Cover Thickness  _(p.726)_
+            - D-2.10.3. Applicability of Ratings  _(p.726)_
+            - D-2.10.4. Effect of Plaster  _(p.726)_
+            - D-2.10.5. Minimum Cover  _(p.726)_
+          - D-2.11. Mass Timber Elements  _(p.726)_
+            - D-2.11.1. Determination of Ratings  _(p.726)_
+            - D-2.11.2. Applicability of Calculation Methods  _(p.727)_
+            - D-2.11.3. Method A for Glued-Laminated Timber Beams and Columns  _(p.727)_
+            - D-2.11.4. Method B for Mass Timber Elements  _(p.728)_
+        - Section D-3 Flame-Spread Ratings and Smoke Developed Classifications  _(p.729)_
+          - D-3.1. Interior Finish Materials  _(p.729)_
+            - D-3.1.1. Scope of Information  _(p.729)_
+            - D-3.1.2. Ratings  _(p.731)_
+            - D-3.1.3. Table Entries  _(p.731)_
+            - D-3.1.4. Effect of Surface Coatings  _(p.731)_
+            - D-3.1.5. Proprietary Materials  _(p.731)_
+            - D-3.1.6. Limitations and Conditions  _(p.731)_
+            - D-3.1.7. Referenced Standards  _(p.731)_
+        - Section D-4 Noncombustibility  _(p.732)_
+          - D-4.1. Test Method  _(p.732)_
+            - D-4.1.1. Determination of Noncombustibility  _(p.732)_
+          - D-4.2. Materials Classified as Combustible  _(p.732)_
+            - D-4.2.1. Combustible Materials  _(p.732)_
+            - D-4.2.2. Composite Materials  _(p.732)_
+            - D-4.2.3. Effect of Chemical Additives  _(p.732)_
+          - D-4.3. Materials Classified as Noncombustible  _(p.732)_
+            - D-4.3.1. Typical Examples  _(p.732)_
+        - Section D-5 Protection of Openings in Fire-Rated Assemblies  _(p.732)_
+          - D-5.1. Scope  _(p.732)_
+            - D-5.1.1. Installation Information  _(p.732)_
+          - D-5.2. Installation of Fire Doors and Fire Dampers  _(p.733)_
+            - D-5.2.1. References  _(p.733)_
+        - Section D-6 Fire Performance of Exterior Wall Assemblies  _(p.733)_
+          - D-6.1. Scope  _(p.733)_
+            - D-6.1.1. Exterior Wall Assemblies  _(p.733)_
+        - Section D-7 Background Information  _(p.734)_
+          - D-7.1. Fire Test Reports  _(p.734)_
+          - D-7.2. Obsolete Materials and Assemblies  _(p.735)_
+          - D-7.3. Assessment of Archaic Assemblies  _(p.735)_
+          - D-7.4. Development of the Component Additive Method  _(p.736)_
+    - Division C Administrative Provisions  _(p.738)_
+      - **Part 1** — Part 1 General  _(p.740)_
+        - **1.1** — Section 1.1. Application  _(p.742)_
+          - **1.1.1** — 1.1.1. Application  _(p.742)_
+            - **1.1.1.1** — 1.1.1.1. Application  _(p.742)_
+        - **1.2** — Section 1.2. Terms and Abbreviations  _(p.742)_
+          - **1.2.1** — 1.2.1. Definitions of Words and Phrases  _(p.742)_
+            - **1.2.1.1** — 1.2.1.1. Non-defined Terms  _(p.742)_
+            - **1.2.1.2** — 1.2.1.2. Defined Terms  _(p.742)_
+          - **1.2.2** — 1.2.2. Symbols and Other Abbreviations  _(p.742)_
+            - **1.2.2.1** — 1.2.2.1. Symbols and Other Abbreviations  _(p.742)_
+      - **Part 2** — Part 2 Administrative Provisions  _(p.744)_
+        - **2.1** — Section 2.1. Application  _(p.746)_
+          - **2.1.1** — 2.1.1. Application  _(p.746)_
+            - **2.1.1.1** — 2.1.1.1. Application  _(p.746)_
+        - **2.2** — Section 2.2. Administration  _(p.746)_
+          - **2.2.1** — 2.2.1. Administration  _(p.746)_
+            - **2.2.1.1** — 2.2.1.1. Conformance with Administrative Requirements  _(p.746)_
+            - **2.2.1.2** — 2.2.1.2. Structural Design  _(p.746)_
+          - **2.2.2** — 2.2.2. Information Required for Proposed Work  _(p.746)_
+            - **2.2.2.1** — 2.2.2.1. General Information Required  _(p.746)_
+            - **2.2.2.2** — 2.2.2.2. Site Plans  _(p.746)_
+          - **2.2.3** — 2.2.3. Fire Protection Components  _(p.747)_
+            - **2.2.3.1** — 2.2.3.1. Information Required for Fire Protection Components  _(p.747)_
+            - **2.2.3.2** — 2.2.3.2. Plans of Sprinkler Systems  _(p.747)_
+          - **2.2.4** — 2.2.4. Structural and Foundation Drawings and Calculations  _(p.747)_
+            - **2.2.4.1** — 2.2.4.1. Application  _(p.747)_
+            - **2.2.4.2** — 2.2.4.2. Professional Seal and Signature of Designer  _(p.747)_
+            - **2.2.4.3** — 2.2.4.3. Information Required on Structural Drawings  _(p.747)_
+            - **2.2.4.4** — 2.2.4.4. Drawings of Parts or Components  _(p.747)_
+            - **2.2.4.5** — 2.2.4.5. Design Calculations and Analysis  _(p.748)_
+            - **2.2.4.6** — 2.2.4.6. Information Required on Foundation Drawings  _(p.748)_
+            - **2.2.4.7** — 2.2.4.7. Altered Conditions  _(p.748)_
+          - **2.2.5** — 2.2.5. Drawings and Specifications for Environmental Separators and Other Assemblies Exposed to the Exterior  _(p.748)_
+            - **2.2.5.1** — 2.2.5.1. Application  _(p.748)_
+            - **2.2.5.2** — 2.2.5.2. Information Required on Drawings and Specifications  _(p.748)_
+          - **2.2.6** — 2.2.6. Heating, Ventilating and Air-conditioning Drawings and Specifications  _(p.748)_
+            - **2.2.6.1** — 2.2.6.1. Application  _(p.748)_
+            - **2.2.6.2** — 2.2.6.2. Information Required on Drawings  _(p.748)_
+          - **2.2.7** — 2.2.7. Review of Work  _(p.748)_
+            - **2.2.7.1** — 2.2.7.1. Application  _(p.748)_
+            - **2.2.7.2** — 2.2.7.2. Review of Construction  _(p.749)_
+            - **2.2.7.3** — 2.2.7.3. Review of Shop Drawings  _(p.749)_
+            - **2.2.7.4** — 2.2.7.4. Review of Workmanship and Materials  _(p.749)_
+            - **2.2.7.5** — 2.2.7.5. Off-Site Review  _(p.749)_
+            - **2.2.7.6** — 2.2.7.6. Review of Construction Dimensions  _(p.749)_
+          - **2.2.8** — 2.2.8. Drawings, Specifications and Calculations for Energy Performance Compliance  _(p.749)_
+            - **2.2.8.1** — 2.2.8.1. Application  _(p.749)_
+            - **2.2.8.2** — 2.2.8.2. Information Required on Drawings and Specifications  _(p.749)_
+            - **2.2.8.3** — 2.2.8.3. House Performance Compliance Calculation Report  _(p.750)_
+        - **2.3** — Section 2.3. Alternative Solutions  _(p.750)_
+          - **2.3.1** — 2.3.1. Documentation of Alternative Solutions  _(p.750)_
+            - **2.3.1.1** — 2.3.1.1. Documentation  _(p.750)_
+        - Notes to Part 2 Administrative Provisions  _(p.752)_
+          - **A-2.2.1.2.(1)** — A-2.2.1.2.(1) Structural Design  _(p.752)_
+          - **A-2.2.6.2.(1)** — A-2.2.6.2.(1) Information Required on Drawings and Specifications  _(p.752)_
+          - **A-2.2.7.6** — A-2.2.7.6. Conversions and Tolerances  _(p.752)_
+            - Historical Background  _(p.752)_
+            - Review of Construction Dimensions  _(p.753)_
+          - **A-2.2.8.1.(1)** — A-2.2.8.1.(1) Use of Terms “Building” and “House”  _(p.753)_
+          - **A-2.2.8.3.(2)** — A-2.2.8.3.(2)(c)(i) Annual Energy Consumption  _(p.753)_
+          - **A-2.3.1** — A-2.3.1. Documentation of Alternative Solutions  _(p.753)_
+    - Index  _(p.756)_
+    - Conversion Factors  _(p.807)_
+  - Volume 2  _(p.808)_
+    - Table of Contents  _(p.811)_
+    - Division B Acceptable Solutions  _(p.813)_
+      - **Part 9** — Part 9 Housing and Small Buildings  _(p.815)_
+        - **9.1** — Section 9.1. General  _(p.823)_
+          - **9.1.1** — 9.1.1. Application  _(p.823)_
+            - **9.1.1.1** — 9.1.1.1. Application  _(p.823)_
+          - **9.1.2** — 9.1.2. Limits on Floor Area  _(p.823)_
+            - **9.1.2.1** — 9.1.2.1. Floor Area Limits for Secondary Suites  _(p.823)_
+        - **9.2** — Section 9.2. Definitions  _(p.823)_
+          - **9.2.1** — 9.2.1. General  _(p.823)_
+            - **9.2.1.1** — 9.2.1.1. Defined Words  _(p.823)_
+        - **9.3** — Section 9.3. Materials, Systems and Equipment  _(p.823)_
+          - **9.3.1** — 9.3.1. Concrete  _(p.823)_
+            - **9.3.1.1** — 9.3.1.1. General  _(p.823)_
+            - **9.3.1.2** — 9.3.1.2. Cement  _(p.824)_
+            - **9.3.1.3** — 9.3.1.3. Concrete in Contact with Sulphate Soil  _(p.824)_
+            - **9.3.1.4** — 9.3.1.4. Aggregates  _(p.824)_
+            - **9.3.1.5** — 9.3.1.5. Water  _(p.824)_
+            - **9.3.1.6** — 9.3.1.6. Compressive Strength  _(p.824)_
+            - **9.3.1.7** — 9.3.1.7. Concrete Mixes  _(p.824)_
+            - **9.3.1.8** — 9.3.1.8. Admixtures  _(p.825)_
+            - **9.3.1.9** — 9.3.1.9. Cold Weather Requirements  _(p.825)_
+          - **9.3.2** — 9.3.2. Lumber and Wood Products  _(p.825)_
+            - **9.3.2.1** — 9.3.2.1. Grade Marking  _(p.825)_
+            - **9.3.2.2** — 9.3.2.2. Lumber Grades  _(p.826)_
+            - **9.3.2.3** — 9.3.2.3. Machine Stress Rated Lumber  _(p.826)_
+            - **9.3.2.4** — 9.3.2.4. OSB, Waferboard and Plywood Marking  _(p.826)_
+            - **9.3.2.5** — 9.3.2.5. Moisture Content  _(p.826)_
+            - **9.3.2.6** — 9.3.2.6. Lumber Dimensions  _(p.826)_
+            - **9.3.2.7** — 9.3.2.7. Panel Thickness Tolerances  _(p.826)_
+            - **9.3.2.8** — 9.3.2.8. Undersized Lumber  _(p.827)_
+            - **9.3.2.9** — 9.3.2.9. Termite and Decay Protection  _(p.827)_
+          - **9.3.3** — 9.3.3. Metal  _(p.828)_
+            - **9.3.3.1** — 9.3.3.1. Sheet Metal Thickness  _(p.828)_
+            - **9.3.3.2** — 9.3.3.2. Galvanized Sheet Steel  _(p.828)_
+        - **9.4** — Section 9.4. Structural Requirements  _(p.828)_
+          - **9.4.1** — 9.4.1. Structural Design Requirements and Application Limitations  _(p.828)_
+            - **9.4.1.1** — 9.4.1.1. General  _(p.828)_
+          - **9.4.2** — 9.4.2. Specified Loads  _(p.829)_
+            - **9.4.2.1** — 9.4.2.1. Application  _(p.829)_
+            - **9.4.2.2** — 9.4.2.2. Specified Snow Loads  _(p.829)_
+            - **9.4.2.3** — 9.4.2.3. Platforms Subject to Snow and Occupancy Loads  _(p.830)_
+            - **9.4.2.4** — 9.4.2.4. Attics and Roof Spaces  _(p.830)_
+          - **9.4.3** — 9.4.3. Deflections  _(p.830)_
+            - **9.4.3.1** — 9.4.3.1. Deflections  _(p.830)_
+          - **9.4.4** — 9.4.4. Foundation Conditions  _(p.831)_
+            - **9.4.4.1** — 9.4.4.1. Allowable Bearing Pressures  _(p.831)_
+            - **9.4.4.2** — 9.4.4.2. Foundation Capacity in Weaker Soil and Rock  _(p.831)_
+            - **9.4.4.3** — 9.4.4.3. High Water Table  _(p.831)_
+            - **9.4.4.4** — 9.4.4.4. Soil Movement  _(p.831)_
+            - **9.4.4.5** — 9.4.4.5. Retaining Walls  _(p.832)_
+            - **9.4.4.6** — 9.4.4.6. Walls Supporting Drained Earth  _(p.832)_
+        - **9.5** — Section 9.5. Design of Areas and Spaces  _(p.832)_
+          - **9.5.1** — 9.5.1. General  _(p.832)_
+            - **9.5.1.1** — 9.5.1.1. Method of Measurement  _(p.832)_
+            - **9.5.1.2** — 9.5.1.2. Combination Rooms  _(p.832)_
+          - **9.5.2** — 9.5.2. Barrier-Free Design  _(p.832)_
+            - **9.5.2.1** — 9.5.2.1. General  _(p.832)_
+            - **9.5.2.2** — 9.5.2.2. Protection on Floor Areas with a Barrier-Free Path of Travel  _(p.832)_
+            - **9.5.2.3** — 9.5.2.3. Exception for Apartment Buildings  _(p.832)_
+          - **9.5.3** — 9.5.3. Ceiling Heights  _(p.833)_
+            - **9.5.3.1** — 9.5.3.1. Ceiling Heights of Rooms or Spaces  _(p.833)_
+            - **9.5.3.2** — 9.5.3.2. Mezzanines  _(p.833)_
+            - **9.5.3.3** — 9.5.3.3. Storage Garages  _(p.833)_
+          - **9.5.4** — 9.5.4. Hallways  _(p.833)_
+            - **9.5.4.1** — 9.5.4.1. Hallway Width  _(p.833)_
+          - **9.5.5** — 9.5.5. Doorway Sizes  _(p.834)_
+            - **9.5.5.1** — 9.5.5.1. Doorway Opening Sizes  _(p.834)_
+            - **9.5.5.2** — 9.5.5.2. Doorways to Public Water-Closet Rooms  _(p.834)_
+            - **9.5.5.3** — 9.5.5.3. Doorways to Rooms with a Bathtub, Shower or Water Closet  _(p.834)_
+        - **9.6** — Section 9.6. Glass  _(p.834)_
+          - **9.6.1** — 9.6.1. General  _(p.834)_
+            - **9.6.1.1** — 9.6.1.1. Application  _(p.834)_
+            - **9.6.1.2** — 9.6.1.2. Material Standards for Glass  _(p.835)_
+            - **9.6.1.3** — 9.6.1.3. Structural Sufficiency of Glass  _(p.835)_
+            - **9.6.1.4** — 9.6.1.4. Types of Glazing and Protection of Glazing  _(p.838)_
+        - **9.7** — Section 9.7. Windows, Doors and Skylights  _(p.838)_
+          - **9.7.1** — 9.7.1. General  _(p.838)_
+            - **9.7.1.1** — 9.7.1.1. Application  _(p.838)_
+          - **9.7.2** — 9.7.2. Required Windows, Doors and Skylights  _(p.838)_
+            - **9.7.2.1** — 9.7.2.1. Entrance Doors  _(p.838)_
+            - **9.7.2.2** — 9.7.2.2. Other Requirements for Windows, Doors and Skylights  _(p.838)_
+          - **9.7.3** — 9.7.3. Performance of Windows, Doors and Skylights  _(p.839)_
+            - **9.7.3.1** — 9.7.3.1. General Performance Expectations  _(p.839)_
+            - **9.7.3.2** — 9.7.3.2. Heat Transfer Performance  _(p.840)_
+            - **9.7.3.3** — 9.7.3.3. Thermal Characteristics of Windows, Doors and Skylights  _(p.840)_
+          - **9.7.4** — 9.7.4. Manufactured Windows, Doors and Skylights  _(p.840)_
+            - **9.7.4.1** — 9.7.4.1. Application  _(p.840)_
+            - **9.7.4.2** — 9.7.4.2. General  _(p.841)_
+            - **9.7.4.3** — 9.7.4.3. Performance Requirements  _(p.841)_
+          - **9.7.5** — 9.7.5. Site-built Windows, Doors and Skylights  _(p.841)_
+            - **9.7.5.1** — 9.7.5.1. Application and Compliance  _(p.841)_
+            - **9.7.5.2** — 9.7.5.2. Resistance to Forced Entry for Doors  _(p.841)_
+            - **9.7.5.3** — 9.7.5.3. Resistance to Forced Entry for Windows  _(p.842)_
+          - **9.7.6** — 9.7.6. Installation  _(p.842)_
+            - **9.7.6.1** — 9.7.6.1. Installation of Windows, Doors and Skylights  _(p.842)_
+            - **9.7.6.2** — 9.7.6.2. Sealants, Trim and Flashing  _(p.843)_
+        - **9.8** — Section 9.8. Stairs, Ramps, Handrails and Guards  _(p.843)_
+          - **9.8.1** — 9.8.1. Application  _(p.843)_
+            - **9.8.1.1** — 9.8.1.1. General  _(p.843)_
+            - **9.8.1.2** — 9.8.1.2. Stairs, Ramps, Landings, Handrails and Guards in Garages  _(p.843)_
+            - **9.8.1.3** — 9.8.1.3. Exit Stairs, Ramps and Landings  _(p.843)_
+            - **9.8.1.4** — 9.8.1.4. Escalators and Moving Walkways  _(p.843)_
+          - **9.8.2** — 9.8.2. Stair Dimensions  _(p.843)_
+            - **9.8.2.1** — 9.8.2.1. Stair Width  _(p.843)_
+            - **9.8.2.2** — 9.8.2.2. Height over Stairs  _(p.844)_
+          - **9.8.3** — 9.8.3. Stair Configurations  _(p.844)_
+            - **9.8.3.1** — 9.8.3.1. Permitted Configurations  _(p.844)_
+            - **9.8.3.2** — 9.8.3.2. Minimum Number of Risers  _(p.844)_
+            - **9.8.3.3** — 9.8.3.3. Maximum Height of Stairs  _(p.844)_
+          - **9.8.4** — 9.8.4. Step Dimensions  _(p.844)_
+            - **9.8.4.1** — 9.8.4.1. Dimensions for Risers  _(p.844)_
+            - **9.8.4.2** — 9.8.4.2. Dimensions for Rectangular Treads  _(p.845)_
+            - **9.8.4.3** — 9.8.4.3. Dimensions of Tapered Treads  _(p.845)_
+            - **9.8.4.4** — 9.8.4.4. Uniformity and Tolerances for Risers, Runs and Treads  _(p.846)_
+            - **9.8.4.5** — 9.8.4.5. Uniformity of Runs in Flights with Mixed Treads within Dwelling Units  _(p.846)_
+            - **9.8.4.6** — 9.8.4.6. Winders  _(p.846)_
+            - **9.8.4.7** — 9.8.4.7. Spiral Stairs  _(p.846)_
+            - **9.8.4.8** — 9.8.4.8. Tread Nosings  _(p.847)_
+            - **9.8.4.9** — 9.8.4.9. Open Risers  _(p.847)_
+          - **9.8.5** — 9.8.5. Ramps  _(p.847)_
+            - **9.8.5.1** — 9.8.5.1. Application  _(p.847)_
+            - **9.8.5.2** — 9.8.5.2. Ramp Width  _(p.847)_
+            - **9.8.5.3** — 9.8.5.3. Height over Ramps  _(p.847)_
+            - **9.8.5.4** — 9.8.5.4. Ramp Slope  _(p.847)_
+            - **9.8.5.5** — 9.8.5.5. Maximum Rise  _(p.847)_
+          - **9.8.6** — 9.8.6. Landings  _(p.848)_
+            - **9.8.6.1** — 9.8.6.1. Application  _(p.848)_
+            - **9.8.6.2** — 9.8.6.2. Required Landings  _(p.848)_
+            - **9.8.6.3** — 9.8.6.3. Dimensions of Landings  _(p.848)_
+            - **9.8.6.4** — 9.8.6.4. Height over Landings  _(p.849)_
+          - **9.8.7** — 9.8.7. Handrails  _(p.849)_
+            - **9.8.7.1** — 9.8.7.1. Required Handrails  _(p.849)_
+            - **9.8.7.2** — 9.8.7.2. Continuity of Handrails  _(p.849)_
+            - **9.8.7.3** — 9.8.7.3. Termination of Handrails  _(p.850)_
+            - **9.8.7.4** — 9.8.7.4. Height of Handrails  _(p.850)_
+            - **9.8.7.5** — 9.8.7.5. Ergonomic Design  _(p.850)_
+            - **9.8.7.6** — 9.8.7.6. Projections into Stairs and Ramps  _(p.850)_
+            - **9.8.7.7** — 9.8.7.7. Design and Attachment of Handrails  _(p.850)_
+          - **9.8.8** — 9.8.8. Guards  _(p.851)_
+            - **9.8.8.1** — 9.8.8.1. Required Guards  _(p.851)_
+            - **9.8.8.2** — 9.8.8.2. Loads on Guards  _(p.851)_
+            - **9.8.8.3** — 9.8.8.3. Height of Guards  _(p.852)_
+            - **9.8.8.4** — 9.8.8.4. Guards for Floors and Ramps in Garages  _(p.853)_
+            - **9.8.8.5** — 9.8.8.5. Openings in Guards  _(p.853)_
+            - **9.8.8.6** — 9.8.8.6. Design of Guards to Not Facilitate Climbing  _(p.853)_
+            - **9.8.8.7** — 9.8.8.7. Glass in Guards  _(p.853)_
+          - **9.8.9** — 9.8.9. Construction  _(p.853)_
+            - **9.8.9.1** — 9.8.9.1. Loads on Stairs and Ramps  _(p.853)_
+            - **9.8.9.2** — 9.8.9.2. Exterior Concrete Stairs  _(p.854)_
+            - **9.8.9.3** — 9.8.9.3. Exterior Wood Steps  _(p.854)_
+            - **9.8.9.4** — 9.8.9.4. Wooden Stair Stringers  _(p.854)_
+            - **9.8.9.5** — 9.8.9.5. Treads  _(p.854)_
+            - **9.8.9.6** — 9.8.9.6. Finish for Treads and Landings  _(p.854)_
+          - **9.8.10** — 9.8.10. Cantilevered Precast Concrete Steps  _(p.854)_
+            - **9.8.10.1** — 9.8.10.1. Design  _(p.854)_
+            - **9.8.10.2** — 9.8.10.2. Anchorage  _(p.855)_
+            - **9.8.10.3** — 9.8.10.3. Prevention of Damage Due to Frost  _(p.855)_
+        - **9.9** — Section 9.9. Means of Egress  _(p.855)_
+          - **9.9.1** — 9.9.1. General  _(p.855)_
+            - **9.9.1.1** — 9.9.1.1. Application  _(p.855)_
+            - **9.9.1.2** — 9.9.1.2. Fire Protection  _(p.855)_
+            - **9.9.1.3** — 9.9.1.3. Occupant Load  _(p.855)_
+          - **9.9.2** — 9.9.2. Types and Purpose of Exits  _(p.855)_
+            - **9.9.2.1** — 9.9.2.1. Types of Exits  _(p.855)_
+            - **9.9.2.2** — 9.9.2.2. Purpose of Exits  _(p.855)_
+            - **9.9.2.3** — 9.9.2.3. Elevators, Slide Escapes and Windows as Means of Egress  _(p.856)_
+            - **9.9.2.4** — 9.9.2.4. Principal Entrances  _(p.856)_
+          - **9.9.3** — 9.9.3. Dimensions of Means of Egress  _(p.856)_
+            - **9.9.3.1** — 9.9.3.1. Application  _(p.856)_
+            - **9.9.3.2** — 9.9.3.2. Exit Width  _(p.856)_
+            - **9.9.3.3** — 9.9.3.3. Width of Corridors  _(p.856)_
+            - **9.9.3.4** — 9.9.3.4. Clear Height  _(p.856)_
+          - **9.9.4** — 9.9.4. Fire Protection of Exits  _(p.856)_
+            - **9.9.4.1** — 9.9.4.1. Application  _(p.856)_
+            - **9.9.4.2** — 9.9.4.2. Fire Separations for Exits  _(p.856)_
+            - **9.9.4.3** — 9.9.4.3. Wired Glass or Glass Block  _(p.857)_
+            - **9.9.4.4** — 9.9.4.4. Openings Near Unenclosed Exterior Exit Stairs and Ramps  _(p.857)_
+            - **9.9.4.5** — 9.9.4.5. Openings in Exterior Walls of Exits  _(p.857)_
+            - **9.9.4.6** — 9.9.4.6. Openings Near Exit Doors  _(p.858)_
+            - **9.9.4.7** — 9.9.4.7. Stairways in 2 Storey, Group D or E Buildings  _(p.858)_
+          - **9.9.5** — 9.9.5. Obstructions and Hazards in Means of Egress  _(p.858)_
+            - **9.9.5.1** — 9.9.5.1. Application  _(p.858)_
+            - **9.9.5.2** — 9.9.5.2. Occupancies in Corridors  _(p.858)_
+            - **9.9.5.3** — 9.9.5.3. Obstructions in Public Corridors  _(p.858)_
+            - **9.9.5.4** — 9.9.5.4. Obstructions in Exits  _(p.858)_
+            - **9.9.5.5** — 9.9.5.5. Obstructions in Means of Egress  _(p.858)_
+            - **9.9.5.6** — 9.9.5.6. Mirrors or Draperies  _(p.859)_
+            - **9.9.5.7** — 9.9.5.7. Fuel-Fired Appliances  _(p.859)_
+            - **9.9.5.8** — 9.9.5.8. Service Rooms  _(p.859)_
+            - **9.9.5.9** — 9.9.5.9. Ancillary Rooms  _(p.859)_
+          - **9.9.6** — 9.9.6. Doors in a Means of Egress  _(p.859)_
+            - **9.9.6.1** — 9.9.6.1. Obstructions by Doors  _(p.859)_
+            - **9.9.6.2** — 9.9.6.2. Clear Opening Height at Doorways  _(p.859)_
+            - **9.9.6.3** — 9.9.6.3. Clear Opening Width at Doorways  _(p.860)_
+            - **9.9.6.4** — 9.9.6.4. Door Action  _(p.860)_
+            - **9.9.6.5** — 9.9.6.5. Direction of Door Swing  _(p.860)_
+            - **9.9.6.6** — 9.9.6.6. Nearness of Doors to Stairs  _(p.861)_
+            - **9.9.6.7** — 9.9.6.7. Door Latching, Locking and Opening Mechanisms  _(p.861)_
+            - **9.9.6.8** — 9.9.6.8. Effort Required to Open  _(p.861)_
+          - **9.9.7** — 9.9.7. Access to Exits  _(p.861)_
+            - **9.9.7.1** — 9.9.7.1. Egress from Roof Area, Podiums, Terraces, Platforms and Contained Open Spaces  _(p.861)_
+            - **9.9.7.2** — 9.9.7.2. Means of Egress from Suites  _(p.861)_
+            - **9.9.7.3** — 9.9.7.3. Dead-End Corridors  _(p.862)_
+            - **9.9.7.4** — 9.9.7.4. Number and Spacing of Egress Doors  _(p.862)_
+            - **9.9.7.5** — 9.9.7.5. Independent Access to Exit  _(p.862)_
+            - **9.9.7.6** — 9.9.7.6. Travel Distance within Rooms and Suites  _(p.862)_
+          - **9.9.8** — 9.9.8. Exits from Floor Areas  _(p.862)_
+            - **9.9.8.1** — 9.9.8.1. Measurement of Travel Distance  _(p.862)_
+            - **9.9.8.2** — 9.9.8.2. Number of Required Exits  _(p.863)_
+            - **9.9.8.3** — 9.9.8.3. Contribution of Each Exit  _(p.863)_
+            - **9.9.8.4** — 9.9.8.4. Location of Exits  _(p.863)_
+            - **9.9.8.5** — 9.9.8.5. Exiting through a Lobby  _(p.863)_
+            - **9.9.8.6** — 9.9.8.6. Mezzanine Means of Egress  _(p.863)_
+          - **9.9.9** — 9.9.9. Egress from Dwelling Units  _(p.864)_
+            - **9.9.9.1** — 9.9.9.1. Travel Limit to Exits or Egress Doors  _(p.864)_
+            - **9.9.9.2** — 9.9.9.2. Two Separate Exits  _(p.864)_
+            - **9.9.9.3** — 9.9.9.3. Shared Egress Facilities  _(p.864)_
+          - **9.9.10** — 9.9.10. Egress from Bedrooms  _(p.865)_
+            - **9.9.10.1** — 9.9.10.1. Egress Windows or Doors for Bedrooms  _(p.865)_
+          - **9.9.11** — 9.9.11. Signs  _(p.865)_
+            - **9.9.11.1** — 9.9.11.1. Application  _(p.865)_
+            - **9.9.11.2** — 9.9.11.2. Visibility of Exits  _(p.865)_
+            - **9.9.11.3** — 9.9.11.3. Exit Signs  _(p.865)_
+            - **9.9.11.4** — 9.9.11.4. Signs for Stairs and Ramps at Exit Level  _(p.866)_
+            - **9.9.11.5** — 9.9.11.5. Floor Numbering  _(p.866)_
+          - **9.9.12** — 9.9.12. Lighting  _(p.866)_
+            - **9.9.12.1** — 9.9.12.1. Application  _(p.866)_
+            - **9.9.12.2** — 9.9.12.2. Required Lighting in Egress Facilities  _(p.866)_
+            - **9.9.12.3** — 9.9.12.3. Emergency Lighting  _(p.867)_
+        - **9.10** — Section 9.10. Fire Protection  _(p.867)_
+          - **9.10.1** — 9.10.1. Definitions and Application  _(p.867)_
+            - **9.10.1.1** — 9.10.1.1. Sloped Roofs  _(p.867)_
+            - **9.10.1.2** — 9.10.1.2. Testing of Integrated Fire Protection and Life Safety Systems  _(p.867)_
+            - **9.10.1.3** — 9.10.1.3. Items under Part 3 Jurisdiction  _(p.867)_
+            - **9.10.1.4** — 9.10.1.4. Items under Part 6 Jurisdiction  _(p.868)_
+          - **9.10.2** — 9.10.2. Occupancy Classification  _(p.868)_
+            - **9.10.2.1** — 9.10.2.1. Occupancy Classification  _(p.868)_
+            - **9.10.2.2** — 9.10.2.2. Home-Type Care Occupancies  _(p.868)_
+            - **9.10.2.3** — 9.10.2.3. Major Occupancies above Other Major Occupancies  _(p.870)_
+            - **9.10.2.4** — 9.10.2.4. Buildings Containing More Than One Major Occupancy  _(p.870)_
+          - **9.10.3** — 9.10.3. Ratings  _(p.870)_
+            - **9.10.3.1** — 9.10.3.1. Fire-Resistance and Fire-Protection Ratings  _(p.870)_
+            - **9.10.3.2** — 9.10.3.2. Flame-Spread Ratings  _(p.870)_
+            - **9.10.3.3** — 9.10.3.3. Fire Exposure  _(p.870)_
+            - **9.10.3.4** — 9.10.3.4. Suspended Membrane Ceilings  _(p.871)_
+          - **9.10.4** — 9.10.4. Building Size Determination  _(p.871)_
+            - **9.10.4.1** — 9.10.4.1. Mezzanines not Considered as Storeys  _(p.871)_
+            - **9.10.4.2** — 9.10.4.2. More Than One Level of Mezzanine  _(p.871)_
+            - **9.10.4.3** — 9.10.4.3. Basement Storage Garages  _(p.871)_
+            - **9.10.4.4** — 9.10.4.4. Rooftop Enclosures  _(p.872)_
+          - **9.10.5** — 9.10.5. Permitted Openings in Wall and Ceiling Membranes  _(p.872)_
+            - **9.10.5.1** — 9.10.5.1. Permitted Openings in Wall and Ceiling Membranes  _(p.872)_
+          - **9.10.6** — 9.10.6. Construction Types  _(p.872)_
+            - **9.10.6.1** — 9.10.6.1. Combustible Elements in Noncombustible Construction  _(p.872)_
+            - **9.10.6.2** — 9.10.6.2. Heavy Timber Construction  _(p.872)_
+          - **9.10.7** — 9.10.7. Steel Members  _(p.872)_
+            - **9.10.7.1** — 9.10.7.1. Protection of Steel Members  _(p.872)_
+          - **9.10.8** — 9.10.8. Fire Resistance and Combustibility in Relation to Occupancy, Height and Supported Elements  _(p.872)_
+            - **9.10.8.1** — 9.10.8.1. Fire-Resistance Ratings for Floors and Roofs  _(p.872)_
+            - **9.10.8.2** — 9.10.8.2. Fire-Resistance Ratings in Sprinklered Buildings  _(p.873)_
+            - **9.10.8.3** — 9.10.8.3. Fire-Resistance Ratings for Walls, Columns and Arches  _(p.873)_
+            - **9.10.8.4** — 9.10.8.4. Support of Noncombustible Construction  _(p.873)_
+            - **9.10.8.5** — 9.10.8.5. Service Rooms  _(p.873)_
+            - **9.10.8.6** — 9.10.8.6. Mezzanines  _(p.873)_
+            - **9.10.8.7** — 9.10.8.7. Roofs Supporting an Occupancy  _(p.873)_
+            - **9.10.8.8** — 9.10.8.8. Floors of Exterior Passageways  _(p.873)_
+            - **9.10.8.9** — 9.10.8.9. Crawl Spaces  _(p.874)_
+            - **9.10.8.10** — 9.10.8.10. Application to Houses  _(p.874)_
+            - **9.10.8.11** — 9.10.8.11. Part 3 as an Alternative  _(p.874)_
+          - **9.10.9** — 9.10.9. Fire Separations and Smoke-tight Barriers between Rooms and Spaces within Buildings  _(p.874)_
+            - **9.10.9.1** — 9.10.9.1. Application  _(p.874)_
+            - **9.10.9.2** — 9.10.9.2. Continuous Barrier  _(p.874)_
+            - **9.10.9.3** — 9.10.9.3. Openings to be Protected with Closures  _(p.875)_
+            - **9.10.9.4** — 9.10.9.4. Floor Assemblies  _(p.875)_
+            - **9.10.9.5** — 9.10.9.5. Interconnected Floor Spaces  _(p.875)_
+            - **9.10.9.6** — 9.10.9.6. General Requirements for Penetrations of Fire Separations  _(p.875)_
+            - **9.10.9.7** — 9.10.9.7. Piping Penetrations  _(p.875)_
+            - **9.10.9.8** — 9.10.9.8. Penetrations by Outlet Boxes or Service Equipment in Concealed Spaces  _(p.876)_
+            - **9.10.9.9** — 9.10.9.9. Penetrations by Raceways, Sprinklers and Fire Dampers  _(p.877)_
+            - **9.10.9.10** — 9.10.9.10. Collapse of Combustible Construction  _(p.877)_
+            - **9.10.9.11** — 9.10.9.11. Reduction in Thickness of Fire Separation by Beams and Joists  _(p.877)_
+            - **9.10.9.12** — 9.10.9.12. Concealed Spaces above Fire Separations  _(p.878)_
+            - **9.10.9.13** — 9.10.9.13. Separation of Residential Occupancies  _(p.878)_
+            - **9.10.9.14** — 9.10.9.14. Residential Suites in Industrial Buildings  _(p.878)_
+            - **9.10.9.15** — 9.10.9.15. Separation of Suites  _(p.878)_
+            - **9.10.9.16** — 9.10.9.16. Separation of Residential Suites  _(p.878)_
+            - **9.10.9.17** — 9.10.9.17. Separation of Public Corridors  _(p.879)_
+            - **9.10.9.18** — 9.10.9.18. Separation of Storage Garages  _(p.879)_
+            - **9.10.9.19** — 9.10.9.19. Separation of Repair Garages  _(p.880)_
+            - **9.10.9.20** — 9.10.9.20. Exhaust Ducts Serving More Than One Fire Compartment  _(p.880)_
+            - **9.10.9.21** — 9.10.9.21. Central Vacuum Systems  _(p.880)_
+          - **9.10.10** — 9.10.10. Service Rooms  _(p.880)_
+            - **9.10.10.1** — 9.10.10.1. Application  _(p.880)_
+            - **9.10.10.2** — 9.10.10.2. Service Room Floors  _(p.880)_
+            - **9.10.10.3** — 9.10.10.3. Separation of Service Rooms  _(p.880)_
+            - **9.10.10.4** — 9.10.10.4. Location of Fuel-Fired Appliances  _(p.880)_
+            - **9.10.10.5** — 9.10.10.5. Incinerators  _(p.881)_
+            - **9.10.10.6** — 9.10.10.6. Storage Rooms  _(p.881)_
+          - **9.10.11** — 9.10.11. Firewalls  _(p.881)_
+            - **9.10.11.1** — 9.10.11.1. Required Firewalls  _(p.881)_
+            - **9.10.11.2** — 9.10.11.2. Firewalls Not Required  _(p.881)_
+            - **9.10.11.3** — 9.10.11.3. Construction of Firewalls  _(p.882)_
+          - **9.10.12** — 9.10.12. Prevention of Fire Spread at Exterior Walls and between Storeys  _(p.882)_
+            - **9.10.12.1** — 9.10.12.1. Termination of Floors or Mezzanines  _(p.882)_
+            - **9.10.12.2** — 9.10.12.2. Location of Skylights  _(p.882)_
+            - **9.10.12.3** — 9.10.12.3. Exterior Walls Meeting at an Angle  _(p.882)_
+            - **9.10.12.4** — 9.10.12.4. Protection of Soffits  _(p.882)_
+          - **9.10.13** — 9.10.13. Doors, Dampers and Other Closures in Fire Separations  _(p.883)_
+            - **9.10.13.1** — 9.10.13.1. Closures  _(p.883)_
+            - **9.10.13.2** — 9.10.13.2. Solid Core Wood Door as a Closure  _(p.883)_
+            - **9.10.13.3** — 9.10.13.3. Unrated Wood Door Frames  _(p.884)_
+            - **9.10.13.4** — 9.10.13.4. Doors as a Means of Egress  _(p.884)_
+            - **9.10.13.5** — 9.10.13.5. Wired Glass as a Closure  _(p.884)_
+            - **9.10.13.6** — 9.10.13.6. Steel Door Frames  _(p.884)_
+            - **9.10.13.7** — 9.10.13.7. Glass Block as a Closure  _(p.884)_
+            - **9.10.13.8** — 9.10.13.8. Maximum Size of Opening  _(p.884)_
+            - **9.10.13.9** — 9.10.13.9. Door Latch  _(p.884)_
+            - **9.10.13.10** — 9.10.13.10. Self-closing Device  _(p.884)_
+            - **9.10.13.11** — 9.10.13.11. Hold-Open Devices  _(p.885)_
+            - **9.10.13.12** — 9.10.13.12. Service Room Doors  _(p.885)_
+            - **9.10.13.13** — 9.10.13.13. Fire Dampers  _(p.885)_
+            - **9.10.13.14** — 9.10.13.14. Fire Stop Flaps  _(p.885)_
+            - **9.10.13.15** — 9.10.13.15. Doors between Garages and Dwelling Units  _(p.885)_
+            - **9.10.13.16** — 9.10.13.16. Door Stops  _(p.885)_
+          - **9.10.14** — 9.10.14. Spatial Separation Between Buildings  _(p.886)_
+            - **9.10.14.1** — 9.10.14.1. Application  _(p.886)_
+            - **9.10.14.2** — 9.10.14.2. Area and Location of Exposing Building Face  _(p.886)_
+            - **9.10.14.3** — 9.10.14.3. Limiting Distance and Fire Department Response  _(p.886)_
+            - **9.10.14.4** — 9.10.14.4. Openings in Exposing Building Face  _(p.886)_
+            - **9.10.14.5** — 9.10.14.5. Construction of Exposing Building Face and Walls above Exposing Building Face  _(p.888)_
+          - **9.10.15** — 9.10.15. Spatial Separation Between Houses  _(p.891)_
+            - **9.10.15.1** — 9.10.15.1. Application  _(p.891)_
+            - **9.10.15.2** — 9.10.15.2. Area and Location of Exposing Building Face  _(p.891)_
+            - **9.10.15.3** — 9.10.15.3. Limiting Distance and Fire Department Response  _(p.892)_
+            - **9.10.15.4** — 9.10.15.4. Glazed Openings in Exposing Building Face  _(p.892)_
+            - **9.10.15.5** — 9.10.15.5. Construction of Exposing Building Face of Houses  _(p.893)_
+          - **9.10.16** — 9.10.16. Fire Blocks  _(p.896)_
+            - **9.10.16.1** — 9.10.16.1. Required Fire Blocks in Concealed Spaces  _(p.896)_
+            - **9.10.16.2** — 9.10.16.2. Required Fire Blocks in Wall Assemblies  _(p.896)_
+            - **9.10.16.3** — 9.10.16.3. Fire Block Materials  _(p.896)_
+            - **9.10.16.4** — 9.10.16.4. Penetration of Fire Blocks  _(p.897)_
+          - **9.10.17** — 9.10.17. Flame-Spread Limits  _(p.897)_
+            - **9.10.17.1** — 9.10.17.1. Flame-Spread Rating of Interior Surfaces  _(p.897)_
+            - **9.10.17.2** — 9.10.17.2. Ceilings in Exits or Public Corridors  _(p.897)_
+            - **9.10.17.3** — 9.10.17.3. Walls in Exits  _(p.897)_
+            - **9.10.17.4** — 9.10.17.4. Exterior Exit Passageways  _(p.897)_
+            - **9.10.17.5** — 9.10.17.5. Walls in Public Corridors  _(p.898)_
+            - **9.10.17.6** — 9.10.17.6. Calculation of Wall and Ceiling Areas  _(p.898)_
+            - **9.10.17.7** — 9.10.17.7. Corridors Containing an Occupancy  _(p.898)_
+            - **9.10.17.8** — 9.10.17.8. Light Diffusers and Lenses  _(p.898)_
+            - **9.10.17.9** — 9.10.17.9. Combustible Skylights  _(p.898)_
+            - **9.10.17.10** — 9.10.17.10. Protection of Foamed Plastics  _(p.898)_
+            - **9.10.17.11** — 9.10.17.11. Walls and Ceilings in Bathrooms  _(p.899)_
+            - **9.10.17.12** — 9.10.17.12. Coverings or Linings of Ducts  _(p.899)_
+          - **9.10.18** — 9.10.18. Alarm and Detection Systems  _(p.899)_
+            - **9.10.18.1** — 9.10.18.1. Access Provided through a Firewall  _(p.899)_
+            - **9.10.18.2** — 9.10.18.2. Fire Alarm System Required  _(p.899)_
+            - **9.10.18.3** — 9.10.18.3. Design and Installation Requirements  _(p.899)_
+            - **9.10.18.4** — 9.10.18.4. Rooms and Spaces Requiring Heat Detectors or Smoke Detectors  _(p.899)_
+            - **9.10.18.5** — 9.10.18.5. Smoke Detectors in Recirculating Air-Handling Systems  _(p.900)_
+            - **9.10.18.6** — 9.10.18.6. Portions of Buildings Considered as Separate Buildings  _(p.900)_
+            - **9.10.18.7** — 9.10.18.7. Central Vacuum Systems  _(p.900)_
+            - **9.10.18.8** — 9.10.18.8. Open-Air Storage Garages  _(p.900)_
+          - **9.10.19** — 9.10.19. Smoke Alarms  _(p.900)_
+            - **9.10.19.1** — 9.10.19.1. Required Smoke Alarms  _(p.900)_
+            - **9.10.19.2** — 9.10.19.2. Sound Patterns of Smoke Alarms  _(p.900)_
+            - **9.10.19.3** — 9.10.19.3. Location of Smoke Alarms  _(p.901)_
+            - **9.10.19.4** — 9.10.19.4. Power Supply  _(p.901)_
+            - **9.10.19.5** — 9.10.19.5. Interconnection of Smoke Alarms  _(p.901)_
+            - **9.10.19.6** — 9.10.19.6. Silencing of Smoke Alarms  _(p.901)_
+            - **9.10.19.7** — 9.10.19.7. Instructions for Maintenance and Care  _(p.902)_
+            - **9.10.19.8** — 9.10.19.8. Residential Fire Warning Systems  _(p.902)_
+          - **9.10.20** — 9.10.20. Firefighting  _(p.902)_
+            - **9.10.20.1** — 9.10.20.1. Windows or Access Panels Required  _(p.902)_
+            - **9.10.20.2** — 9.10.20.2. Access to Basements  _(p.902)_
+            - **9.10.20.3** — 9.10.20.3. Fire Department Access to Buildings  _(p.902)_
+            - **9.10.20.4** — 9.10.20.4. Portable Extinguishers  _(p.903)_
+            - **9.10.20.5** — 9.10.20.5. Freeze Protection of Fire Protection Systems  _(p.903)_
+          - **9.10.21** — 9.10.21. Fire Protection for Construction Camps  _(p.903)_
+            - **9.10.21.1** — 9.10.21.1. Requirements for Construction Camps  _(p.903)_
+            - **9.10.21.2** — 9.10.21.2. Separation of Sleeping Rooms  _(p.903)_
+            - **9.10.21.3** — 9.10.21.3. Floor Assemblies between the First and Second Storey  _(p.903)_
+            - **9.10.21.4** — 9.10.21.4. Walkways Connecting Buildings  _(p.903)_
+            - **9.10.21.5** — 9.10.21.5. Spatial Separations  _(p.903)_
+            - **9.10.21.6** — 9.10.21.6. Flame-Spread Ratings  _(p.903)_
+            - **9.10.21.7** — 9.10.21.7. Smoke Detectors  _(p.903)_
+            - **9.10.21.8** — 9.10.21.8. Portable Fire Extinguishers  _(p.903)_
+            - **9.10.21.9** — 9.10.21.9. Hose Stations  _(p.904)_
+          - **9.10.22** — 9.10.22. Fire Protection for Gas, Propane and Electric Cooktops and Ovens  _(p.904)_
+            - **9.10.22.1** — 9.10.22.1. Installation of Cooktops and Ovens  _(p.904)_
+            - **9.10.22.2** — 9.10.22.2. Vertical Clearances above Cooktops  _(p.904)_
+            - **9.10.22.3** — 9.10.22.3. Protection around Cooktops  _(p.904)_
+        - **9.11** — Section 9.11. Sound Transmission  _(p.905)_
+          - **9.11.1** — 9.11.1. Protection from Airborne Noise  _(p.905)_
+            - **9.11.1.1** — 9.11.1.1. Required Protection  _(p.905)_
+            - **9.11.1.2** — 9.11.1.2. Determination of Sound Transmission Ratings  _(p.905)_
+            - **9.11.1.3** — 9.11.1.3. Compliance with Required Ratings  _(p.905)_
+            - **9.11.1.4** — 9.11.1.4. Adjoining Constructions  _(p.906)_
+        - **9.12** — Section 9.12. Excavation  _(p.907)_
+          - **9.12.1** — 9.12.1. General  _(p.907)_
+            - **9.12.1.1** — 9.12.1.1. Removal of Topsoil and Organic Matter  _(p.907)_
+            - **9.12.1.2** — 9.12.1.2. Standing Water  _(p.907)_
+            - **9.12.1.3** — 9.12.1.3. Protection from Freezing  _(p.907)_
+          - **9.12.2** — 9.12.2. Depth  _(p.907)_
+            - **9.12.2.1** — 9.12.2.1. Excavation to Undisturbed Soil  _(p.907)_
+            - **9.12.2.2** — 9.12.2.2. Minimum Depth of Foundations  _(p.907)_
+          - **9.12.3** — 9.12.3. Backfill  _(p.908)_
+            - **9.12.3.1** — 9.12.3.1. Placement of Backfill  _(p.908)_
+            - **9.12.3.2** — 9.12.3.2. Grading of Backfill  _(p.908)_
+            - **9.12.3.3** — 9.12.3.3. Deleterious Debris and Boulders  _(p.908)_
+          - **9.12.4** — 9.12.4. Trenches beneath Footings  _(p.909)_
+            - **9.12.4.1** — 9.12.4.1. Support of Footings  _(p.909)_
+        - **9.13** — Section 9.13. Dampproofing, Waterproofing and Soil Gas Control  _(p.909)_
+          - **9.13.1** — 9.13.1. General  _(p.909)_
+            - **9.13.1.1** — 9.13.1.1. Scope and Application  _(p.909)_
+          - **9.13.2** — 9.13.2. Dampproofing  _(p.909)_
+            - **9.13.2.1** — 9.13.2.1. Required Dampproofing  _(p.909)_
+            - **9.13.2.2** — 9.13.2.2. Dampproofing Materials  _(p.909)_
+            - **9.13.2.3** — 9.13.2.3. Preparation of Surface  _(p.910)_
+            - **9.13.2.4** — 9.13.2.4. Application of Dampproofing Material  _(p.910)_
+            - **9.13.2.5** — 9.13.2.5. Moisture Protection for Interior Finishes  _(p.911)_
+            - **9.13.2.6** — 9.13.2.6. Dampproofing of Floors-on-Ground  _(p.911)_
+          - **9.13.3** — 9.13.3. Waterproofing  _(p.911)_
+            - **9.13.3.1** — 9.13.3.1. Required Waterproofing  _(p.911)_
+            - **9.13.3.2** — 9.13.3.2. Waterproofing Materials  _(p.911)_
+            - **9.13.3.3** — 9.13.3.3. Preparation of Surface  _(p.912)_
+            - **9.13.3.4** — 9.13.3.4. Application of Waterproofing Membranes  _(p.912)_
+            - **9.13.3.5** — 9.13.3.5. Floor Waterproofing System  _(p.913)_
+          - **9.13.4** — 9.13.4. Soil Gas Control  _(p.913)_
+            - **9.13.4.1** — 9.13.4.1. Application and Scope  _(p.913)_
+            - **9.13.4.2** — 9.13.4.2. Protection from Soil Gas Ingress  _(p.913)_
+            - **9.13.4.3** — 9.13.4.3. Providing for the Rough-in for a Subfloor Depressurization System  _(p.913)_
+        - **9.14** — Section 9.14. Drainage  _(p.914)_
+          - **9.14.1** — 9.14.1. Scope  _(p.914)_
+            - **9.14.1.1** — 9.14.1.1. Application  _(p.914)_
+            - **9.14.1.2** — 9.14.1.2. Crawl Spaces  _(p.914)_
+            - **9.14.1.3** — 9.14.1.3. Floors-on-Ground  _(p.914)_
+          - **9.14.2** — 9.14.2. Foundation Drainage  _(p.914)_
+            - **9.14.2.1** — 9.14.2.1. Foundation Wall Drainage  _(p.914)_
+          - **9.14.3** — 9.14.3. Drainage Tile and Pipe  _(p.914)_
+            - **9.14.3.1** — 9.14.3.1. Material Standards  _(p.914)_
+            - **9.14.3.2** — 9.14.3.2. Minimum Size  _(p.915)_
+            - **9.14.3.3** — 9.14.3.3. Installation  _(p.915)_
+          - **9.14.4** — 9.14.4. Granular Drainage Layer  _(p.915)_
+            - **9.14.4.1** — 9.14.4.1. Type of Granular Material  _(p.915)_
+            - **9.14.4.2** — 9.14.4.2. Installation  _(p.915)_
+            - **9.14.4.3** — 9.14.4.3. Grading  _(p.915)_
+            - **9.14.4.4** — 9.14.4.4. Wet Site Conditions  _(p.915)_
+          - **9.14.5** — 9.14.5. Drainage Disposal  _(p.915)_
+            - **9.14.5.1** — 9.14.5.1. Drainage Disposal  _(p.915)_
+            - **9.14.5.2** — 9.14.5.2. Sump Pits  _(p.915)_
+            - **9.14.5.3** — 9.14.5.3. Dry Wells  _(p.916)_
+          - **9.14.6** — 9.14.6. Surface Drainage  _(p.916)_
+            - **9.14.6.1** — 9.14.6.1. Surface Drainage  _(p.916)_
+            - **9.14.6.2** — 9.14.6.2. Drainage away from Wells or Septic Disposal Beds  _(p.916)_
+            - **9.14.6.3** — 9.14.6.3. Window Wells  _(p.916)_
+            - **9.14.6.4** — 9.14.6.4. Catch Basin  _(p.916)_
+            - **9.14.6.5** — 9.14.6.5. Downspouts  _(p.916)_
+        - **9.15** — Section 9.15. Footings and Foundations  _(p.916)_
+          - **9.15.1** — 9.15.1. Application  _(p.916)_
+            - **9.15.1.1** — 9.15.1.1. General  _(p.916)_
+            - **9.15.1.2** — 9.15.1.2. Permafrost  _(p.917)_
+            - **9.15.1.3** — 9.15.1.3. Foundations for Deformation-Resistant Buildings  _(p.917)_
+          - **9.15.2** — 9.15.2. General  _(p.917)_
+            - **9.15.2.1** — 9.15.2.1. Concrete  _(p.917)_
+            - **9.15.2.2** — 9.15.2.2. Unit Masonry Construction  _(p.917)_
+            - **9.15.2.3** — 9.15.2.3. Pier-Type Foundations  _(p.917)_
+            - **9.15.2.4** — 9.15.2.4. Wood-Frame Foundations  _(p.918)_
+          - **9.15.3** — 9.15.3. Footings  _(p.918)_
+            - **9.15.3.1** — 9.15.3.1. Footings Required  _(p.918)_
+            - **9.15.3.2** — 9.15.3.2. Support of Footings  _(p.918)_
+            - **9.15.3.3** — 9.15.3.3. Application of Footing Width and Area Requirements  _(p.918)_
+            - **9.15.3.4** — 9.15.3.4. Basic Footing Widths and Areas  _(p.918)_
+            - **9.15.3.5** — 9.15.3.5. Adjustments to Footing Widths for Exterior Walls  _(p.919)_
+            - **9.15.3.6** — 9.15.3.6. Adjustments to Footing Widths for Interior Walls  _(p.919)_
+            - **9.15.3.7** — 9.15.3.7. Adjustments to Footing Area for Columns  _(p.919)_
+            - **9.15.3.8** — 9.15.3.8. Footing Thickness  _(p.919)_
+            - **9.15.3.9** — 9.15.3.9. Step Footings  _(p.920)_
+          - **9.15.4** — 9.15.4. Foundation Walls  _(p.920)_
+            - **9.15.4.1** — 9.15.4.1. Flat Wall Insulating Concrete Form Units  _(p.920)_
+            - **9.15.4.2** — 9.15.4.2. Foundation Wall Thickness and Required Lateral Support  _(p.920)_
+            - **9.15.4.3** — 9.15.4.3. Foundation Walls Considered to be Laterally Supported at the Top  _(p.922)_
+            - **9.15.4.4** — 9.15.4.4. Foundation Walls Considered to be Laterally Supported at the Bottom  _(p.922)_
+            - **9.15.4.5** — 9.15.4.5. Reinforcement for Flat Insulating Concrete Form Foundation Walls  _(p.922)_
+            - **9.15.4.6** — 9.15.4.6. Extension above Ground Level  _(p.924)_
+            - **9.15.4.7** — 9.15.4.7. Reduction in Thickness  _(p.924)_
+            - **9.15.4.8** — 9.15.4.8. Corbelling  _(p.924)_
+            - **9.15.4.9** — 9.15.4.9. Crack Control Joints  _(p.924)_
+            - **9.15.4.10** — 9.15.4.10. Interior Masonry Walls  _(p.924)_
+          - **9.15.5** — 9.15.5. Support of Joists and Beams on Masonry Foundation Walls  _(p.924)_
+            - **9.15.5.1** — 9.15.5.1. Support of Floor Joists  _(p.924)_
+            - **9.15.5.2** — 9.15.5.2. Support of Beams  _(p.924)_
+            - **9.15.5.3** — 9.15.5.3. Pilasters  _(p.925)_
+          - **9.15.6** — 9.15.6. Parging and Finishing of Masonry Foundation Walls  _(p.925)_
+            - **9.15.6.1** — 9.15.6.1. Foundation Walls below Ground  _(p.925)_
+            - **9.15.6.2** — 9.15.6.2. Foundation Walls above Ground  _(p.925)_
+            - **9.15.6.3** — 9.15.6.3. Form Ties  _(p.925)_
+        - **9.16** — Section 9.16. Floors-on-Ground  _(p.925)_
+          - **9.16.1** — 9.16.1. Scope  _(p.925)_
+            - **9.16.1.1** — 9.16.1.1. Application  _(p.925)_
+            - **9.16.1.2** — 9.16.1.2. Structural Floors  _(p.925)_
+            - **9.16.1.3** — 9.16.1.3. Required Floors-on-Ground  _(p.925)_
+            - **9.16.1.4** — 9.16.1.4. Dampproofing and Waterproofing  _(p.925)_
+          - **9.16.2** — 9.16.2. Material beneath Floors  _(p.925)_
+            - **9.16.2.1** — 9.16.2.1. Required Installation of Granular Material  _(p.925)_
+            - **9.16.2.2** — 9.16.2.2. Support of Floors  _(p.926)_
+          - **9.16.3** — 9.16.3. Drainage  _(p.926)_
+            - **9.16.3.1** — 9.16.3.1. Control of Water Ingress  _(p.926)_
+            - **9.16.3.2** — 9.16.3.2. Hydrostatic Pressure  _(p.926)_
+            - **9.16.3.3** — 9.16.3.3. Floor Drains  _(p.926)_
+          - **9.16.4** — 9.16.4. Concrete  _(p.926)_
+            - **9.16.4.1** — 9.16.4.1. Surface Finish  _(p.926)_
+            - **9.16.4.2** — 9.16.4.2. Topping Course  _(p.926)_
+            - **9.16.4.3** — 9.16.4.3. Thickness  _(p.926)_
+            - **9.16.4.4** — 9.16.4.4. Bond Break  _(p.926)_
+          - **9.16.5** — 9.16.5. Wood  _(p.927)_
+            - **9.16.5.1** — 9.16.5.1. Wood-Frame Floors  _(p.927)_
+        - **9.17** — Section 9.17. Columns  _(p.927)_
+          - **9.17.1** — 9.17.1. Scope  _(p.927)_
+            - **9.17.1.1** — 9.17.1.1. Application  _(p.927)_
+          - **9.17.2** — 9.17.2. General  _(p.927)_
+            - **9.17.2.1** — 9.17.2.1. Location  _(p.927)_
+            - **9.17.2.2** — 9.17.2.2. Lateral Support  _(p.927)_
+          - **9.17.3** — 9.17.3. Steel Columns  _(p.928)_
+            - **9.17.3.1** — 9.17.3.1. Size and Thickness  _(p.928)_
+            - **9.17.3.2** — 9.17.3.2. End Bearing Plates  _(p.928)_
+            - **9.17.3.3** — 9.17.3.3. Paint  _(p.928)_
+            - **9.17.3.4** — 9.17.3.4. Design of Steel Columns  _(p.928)_
+          - **9.17.4** — 9.17.4. Wood Columns  _(p.928)_
+            - **9.17.4.1** — 9.17.4.1. Column Sizes  _(p.928)_
+            - **9.17.4.2** — 9.17.4.2. Materials  _(p.928)_
+            - **9.17.4.3** — 9.17.4.3. Columns in Contact with Concrete  _(p.928)_
+          - **9.17.5** — 9.17.5. Unit Masonry Columns  _(p.929)_
+            - **9.17.5.1** — 9.17.5.1. Materials  _(p.929)_
+            - **9.17.5.2** — 9.17.5.2. Sizes  _(p.929)_
+          - **9.17.6** — 9.17.6. Solid Concrete Columns  _(p.929)_
+            - **9.17.6.1** — 9.17.6.1. Materials  _(p.929)_
+            - **9.17.6.2** — 9.17.6.2. Sizes  _(p.929)_
+        - **9.18** — Section 9.18. Crawl Spaces  _(p.929)_
+          - **9.18.1** — 9.18.1. General  _(p.929)_
+            - **9.18.1.1** — 9.18.1.1. Application  _(p.929)_
+            - **9.18.1.2** — 9.18.1.2. Foundations  _(p.929)_
+            - **9.18.1.3** — 9.18.1.3. Heated and Unheated Crawl Spaces  _(p.929)_
+          - **9.18.2** — 9.18.2. Access  _(p.929)_
+            - **9.18.2.1** — 9.18.2.1. Access Openings  _(p.929)_
+          - **9.18.3** — 9.18.3. Ventilation  _(p.930)_
+            - **9.18.3.1** — 9.18.3.1. Ventilation of Unheated Crawl Spaces  _(p.930)_
+            - **9.18.3.2** — 9.18.3.2. Ventilation of Heated Crawl Spaces  _(p.930)_
+          - **9.18.4** — 9.18.4. Clearance  _(p.930)_
+            - **9.18.4.1** — 9.18.4.1. Access Way to Services  _(p.930)_
+          - **9.18.5** — 9.18.5. Drainage  _(p.930)_
+            - **9.18.5.1** — 9.18.5.1. Drainage  _(p.930)_
+          - **9.18.6** — 9.18.6. Ground Cover  _(p.930)_
+            - **9.18.6.1** — 9.18.6.1. Ground Cover in Unheated Crawl Spaces  _(p.930)_
+            - **9.18.6.2** — 9.18.6.2. Ground Cover in Heated Crawl Spaces  _(p.930)_
+          - **9.18.7** — 9.18.7. Fire Protection  _(p.931)_
+            - **9.18.7.1** — 9.18.7.1. Crawl Spaces as Warm Air Plenums  _(p.931)_
+        - **9.19** — Section 9.19. Roof Spaces  _(p.931)_
+          - **9.19.1** — 9.19.1. Venting  _(p.931)_
+            - **9.19.1.1** — 9.19.1.1. Required Venting  _(p.931)_
+            - **9.19.1.2** — 9.19.1.2. Vent Requirements  _(p.931)_
+            - **9.19.1.3** — 9.19.1.3. Clearances  _(p.931)_
+            - **9.19.1.4** — 9.19.1.4. Mansard or Gambrel Roof  _(p.932)_
+          - **9.19.2** — 9.19.2. Access  _(p.932)_
+            - **9.19.2.1** — 9.19.2.1. Access  _(p.932)_
+        - **9.20** — Section 9.20. Masonry and Insulating Concrete Form Walls Not In Contact with the Ground  _(p.932)_
+          - **9.20.1** — 9.20.1. Application  _(p.932)_
+            - **9.20.1.1** — 9.20.1.1. General  _(p.932)_
+            - **9.20.1.2** — 9.20.1.2. Earthquake Reinforcement  _(p.933)_
+          - **9.20.2** — 9.20.2. Masonry Units  _(p.933)_
+            - **9.20.2.1** — 9.20.2.1. Masonry Unit Standards  _(p.933)_
+            - **9.20.2.2** — 9.20.2.2. Used Brick  _(p.933)_
+            - **9.20.2.3** — 9.20.2.3. Glass Blocks  _(p.933)_
+            - **9.20.2.4** — 9.20.2.4. Cellular Concrete  _(p.933)_
+            - **9.20.2.5** — 9.20.2.5. Stone  _(p.933)_
+            - **9.20.2.6** — 9.20.2.6. Concrete Blocks Exposed to the Weather  _(p.933)_
+            - **9.20.2.7** — 9.20.2.7. Compressive Strength  _(p.933)_
+          - **9.20.3** — 9.20.3. Mortar  _(p.934)_
+            - **9.20.3.1** — 9.20.3.1. Mortar Materials  _(p.934)_
+            - **9.20.3.2** — 9.20.3.2. Mortar and Grout Mixes  _(p.934)_
+          - **9.20.4** — 9.20.4. Mortar Joints  _(p.935)_
+            - **9.20.4.1** — 9.20.4.1. Thickness  _(p.935)_
+            - **9.20.4.2** — 9.20.4.2. Masonry Units  _(p.935)_
+          - **9.20.5** — 9.20.5. Masonry Support  _(p.936)_
+            - **9.20.5.1** — 9.20.5.1. Masonry Support  _(p.936)_
+            - **9.20.5.2** — 9.20.5.2. Lintels or Arches  _(p.936)_
+          - **9.20.6** — 9.20.6. Thickness and Height  _(p.936)_
+            - **9.20.6.1** — 9.20.6.1. Thickness of Exterior Walls  _(p.936)_
+            - **9.20.6.2** — 9.20.6.2. Cavity Walls  _(p.936)_
+            - **9.20.6.3** — 9.20.6.3. Thickness of Interior Walls  _(p.937)_
+            - **9.20.6.4** — 9.20.6.4. Masonry Veneer  _(p.937)_
+            - **9.20.6.5** — 9.20.6.5. Parapet Walls  _(p.937)_
+            - **9.20.6.6** — 9.20.6.6. Stone or Concrete Facings  _(p.937)_
+          - **9.20.7** — 9.20.7. Chases and Recesses  _(p.937)_
+            - **9.20.7.1** — 9.20.7.1. Maximum Dimensions  _(p.937)_
+            - **9.20.7.2** — 9.20.7.2. Minimum Wall Thickness  _(p.937)_
+            - **9.20.7.3** — 9.20.7.3. Separation of Chases or Recesses  _(p.937)_
+            - **9.20.7.4** — 9.20.7.4. Non-Conforming Chases or Recesses  _(p.938)_
+            - **9.20.7.5** — 9.20.7.5. Chases or Recesses Cut into Walls  _(p.938)_
+          - **9.20.8** — 9.20.8. Support of Loads  _(p.938)_
+            - **9.20.8.1** — 9.20.8.1. Capping of Hollow Masonry Walls  _(p.938)_
+            - **9.20.8.2** — 9.20.8.2. Cavity Walls Supporting Framing Members  _(p.938)_
+            - **9.20.8.3** — 9.20.8.3. Bearing of Beams and Joists  _(p.938)_
+            - **9.20.8.4** — 9.20.8.4. Support of Beams and Columns  _(p.938)_
+            - **9.20.8.5** — 9.20.8.5. Projection of Masonry Veneer Beyond Supporting Members  _(p.938)_
+          - **9.20.9** — 9.20.9. Bonding and Tying  _(p.939)_
+            - **9.20.9.1** — 9.20.9.1. Joints to be Offset or Reinforced  _(p.939)_
+            - **9.20.9.2** — 9.20.9.2. Bonding or Tying of Other than Masonry Veneer  _(p.939)_
+            - **9.20.9.3** — 9.20.9.3. Bonding  _(p.939)_
+            - **9.20.9.4** — 9.20.9.4. Tying  _(p.939)_
+            - **9.20.9.5** — 9.20.9.5. Ties for Masonry Veneer  _(p.940)_
+            - **9.20.9.6** — 9.20.9.6. Reinforcing for Glass Block  _(p.940)_
+          - **9.20.10** — 9.20.10. Lateral Support  _(p.940)_
+            - **9.20.10.1** — 9.20.10.1. Lateral Support Required  _(p.940)_
+          - **9.20.11** — 9.20.11. Anchorage of Roofs, Floors and Intersecting Walls  _(p.941)_
+            - **9.20.11.1** — 9.20.11.1. Anchorage to Floor or Roof Assemblies where Masonry Walls Require Lateral Support  _(p.941)_
+            - **9.20.11.2** — 9.20.11.2. Bonding and Tying Intersecting Masonry Walls where Walls Require Lateral Support  _(p.941)_
+            - **9.20.11.3** — 9.20.11.3. Anchoring Intersecting Wood-Frame Walls to Masonry Walls  _(p.941)_
+            - **9.20.11.4** — 9.20.11.4. Anchoring Wood-Frame Roof Systems to Masonry Walls  _(p.941)_
+            - **9.20.11.5** — 9.20.11.5. Anchoring Masonry Cornices, Sills and Trim to Masonry Walls  _(p.942)_
+            - **9.20.11.6** — 9.20.11.6. Anchoring to Masonry Piers  _(p.942)_
+          - **9.20.12** — 9.20.12. Corbelling  _(p.942)_
+            - **9.20.12.1** — 9.20.12.1. Corbelling  _(p.942)_
+            - **9.20.12.2** — 9.20.12.2. Corbelling for Cavity Walls  _(p.942)_
+            - **9.20.12.3** — 9.20.12.3. Corbelling for Masonry Veneer  _(p.942)_
+          - **9.20.13** — 9.20.13. Control of Rainwater Penetration  _(p.942)_
+            - **9.20.13.1** — 9.20.13.1. Materials for Flashing  _(p.942)_
+            - **9.20.13.2** — 9.20.13.2. Fastening of Flashing  _(p.943)_
+            - **9.20.13.3** — 9.20.13.3. Location of Flashing  _(p.943)_
+            - **9.20.13.4** — 9.20.13.4. Extension of Flashing  _(p.943)_
+            - **9.20.13.5** — 9.20.13.5. Flashing for Weep Holes in Masonry/Masonry Walls  _(p.943)_
+            - **9.20.13.6** — 9.20.13.6. Flashing for Weep Holes in Masonry Veneer  _(p.943)_
+            - **9.20.13.7** — 9.20.13.7. Flashing Joints  _(p.944)_
+            - **9.20.13.8** — 9.20.13.8. Required Weep Holes  _(p.944)_
+            - **9.20.13.9** — 9.20.13.9. Protection of Interior Finish  _(p.944)_
+            - **9.20.13.10** — 9.20.13.10. Mortar Droppings  _(p.944)_
+            - **9.20.13.11** — 9.20.13.11. Caulking at Door and Window Frames  _(p.944)_
+            - **9.20.13.12** — 9.20.13.12. Drips beneath Window Sills  _(p.944)_
+          - **9.20.14** — 9.20.14. Protection during Work  _(p.944)_
+            - **9.20.14.1** — 9.20.14.1. Laying Temperature of Mortar and Masonry  _(p.944)_
+            - **9.20.14.2** — 9.20.14.2. Protection from Weather  _(p.944)_
+          - **9.20.15** — 9.20.15. Reinforcement for Earthquake Resistance  _(p.945)_
+            - **9.20.15.1** — 9.20.15.1. Amount of Reinforcement  _(p.945)_
+            - **9.20.15.2** — 9.20.15.2. Installation Standard  _(p.945)_
+          - **9.20.16** — 9.20.16. Corrosion Resistance  _(p.945)_
+            - **9.20.16.1** — 9.20.16.1. Corrosion Resistance of Connectors  _(p.945)_
+          - **9.20.17** — 9.20.17. Above-Ground Flat Insulating Concrete Form Walls  _(p.945)_
+            - **9.20.17.1** — 9.20.17.1. Thickness of Flat Insulating Concrete Form Walls  _(p.945)_
+            - **9.20.17.2** — 9.20.17.2. Reinforcement for Flat Insulating Concrete Form Walls  _(p.945)_
+            - **9.20.17.3** — 9.20.17.3. Openings in Non-Loadbearing Flat Insulating Concrete Form Walls  _(p.946)_
+            - **9.20.17.4** — 9.20.17.4. Openings in Loadbearing Flat Insulating Concrete Form Walls  _(p.946)_
+            - **9.20.17.5** — 9.20.17.5. Framing Supported on Flat Insulating Concrete Form Walls  _(p.946)_
+            - **9.20.17.6** — 9.20.17.6. Anchoring of Roof Framing to the Top of Flat Insulating Concrete Form Walls  _(p.947)_
+            - **9.20.17.7** — 9.20.17.7. Protection from Precipitation and Damage  _(p.947)_
+        - **9.21** — Section 9.21. Masonry and Concrete Chimneys and Flues  _(p.947)_
+          - **9.21.1** — 9.21.1. General  _(p.947)_
+            - **9.21.1.1** — 9.21.1.1. Application  _(p.947)_
+            - **9.21.1.2** — 9.21.1.2. Chimney or Flue Pipe Walls  _(p.947)_
+          - **9.21.2** — 9.21.2. Chimney Flues  _(p.947)_
+            - **9.21.2.1** — 9.21.2.1. Chimney Flue Limitations  _(p.947)_
+            - **9.21.2.2** — 9.21.2.2. Connections of More Than One Appliance  _(p.947)_
+            - **9.21.2.3** — 9.21.2.3. Inclined Chimney Flues  _(p.948)_
+            - **9.21.2.4** — 9.21.2.4. Size of Chimney Flues  _(p.948)_
+            - **9.21.2.5** — 9.21.2.5. Fireplace Chimneys  _(p.948)_
+            - **9.21.2.6** — 9.21.2.6. Oval Chimney Flues  _(p.949)_
+          - **9.21.3** — 9.21.3. Chimney Lining  _(p.949)_
+            - **9.21.3.1** — 9.21.3.1. Lining Materials  _(p.949)_
+            - **9.21.3.2** — 9.21.3.2. Joints in Chimney Liners  _(p.949)_
+            - **9.21.3.3** — 9.21.3.3. Clay Liners  _(p.949)_
+            - **9.21.3.4** — 9.21.3.4. Firebrick Liners  _(p.949)_
+            - **9.21.3.5** — 9.21.3.5. Concrete Liners  _(p.949)_
+            - **9.21.3.6** — 9.21.3.6. Metal Liners  _(p.949)_
+            - **9.21.3.7** — 9.21.3.7. Installation of Chimney Liners  _(p.950)_
+            - **9.21.3.8** — 9.21.3.8. Spaces between Liners and Surrounding Masonry  _(p.950)_
+            - **9.21.3.9** — 9.21.3.9. Mortar for Chimney Liners  _(p.950)_
+            - **9.21.3.10** — 9.21.3.10. Extension of Chimney Liners  _(p.950)_
+          - **9.21.4** — 9.21.4. Masonry and Concrete Chimney Construction  _(p.950)_
+            - **9.21.4.1** — 9.21.4.1. Unit Masonry  _(p.950)_
+            - **9.21.4.2** — 9.21.4.2. Concrete  _(p.950)_
+            - **9.21.4.3** — 9.21.4.3. Footings  _(p.950)_
+            - **9.21.4.4** — 9.21.4.4. Height of Chimney Flues  _(p.950)_
+            - **9.21.4.5** — 9.21.4.5. Lateral Stability  _(p.950)_
+            - **9.21.4.6** — 9.21.4.6. Chimney Caps  _(p.951)_
+            - **9.21.4.7** — 9.21.4.7. Cleanout  _(p.951)_
+            - **9.21.4.8** — 9.21.4.8. Wall Thickness  _(p.951)_
+            - **9.21.4.9** — 9.21.4.9. Separation of Flue Liners  _(p.951)_
+            - **9.21.4.10** — 9.21.4.10. Flashing  _(p.951)_
+          - **9.21.5** — 9.21.5. Clearance from Combustible Construction  _(p.951)_
+            - **9.21.5.1** — 9.21.5.1. Clearance from Combustible Materials  _(p.951)_
+            - **9.21.5.2** — 9.21.5.2. Sealing of Spaces  _(p.951)_
+            - **9.21.5.3** — 9.21.5.3. Support of Joists or Beams  _(p.951)_
+        - **9.22** — Section 9.22. Fireplaces  _(p.952)_
+          - **9.22.1** — 9.22.1. General  _(p.952)_
+            - **9.22.1.1** — 9.22.1.1. Application  _(p.952)_
+            - **9.22.1.2** — 9.22.1.2. Masonry and Concrete  _(p.952)_
+            - **9.22.1.3** — 9.22.1.3. Footings  _(p.952)_
+            - **9.22.1.4** — 9.22.1.4. Combustion Air  _(p.952)_
+          - **9.22.2** — 9.22.2. Fireplace Liners  _(p.952)_
+            - **9.22.2.1** — 9.22.2.1. Brick or Steel Liners  _(p.952)_
+            - **9.22.2.2** — 9.22.2.2. Firebrick Liners  _(p.952)_
+            - **9.22.2.3** — 9.22.2.3. Steel Liners  _(p.952)_
+          - **9.22.3** — 9.22.3. Fireplace Walls  _(p.952)_
+            - **9.22.3.1** — 9.22.3.1. Thickness of Walls  _(p.952)_
+          - **9.22.4** — 9.22.4. Fire Chamber  _(p.953)_
+            - **9.22.4.1** — 9.22.4.1. Fire Chamber Dimensions  _(p.953)_
+          - **9.22.5** — 9.22.5. Hearth  _(p.953)_
+            - **9.22.5.1** — 9.22.5.1. Hearth Extension  _(p.953)_
+            - **9.22.5.2** — 9.22.5.2. Support of Hearth  _(p.953)_
+          - **9.22.6** — 9.22.6. Damper  _(p.953)_
+            - **9.22.6.1** — 9.22.6.1. Required Damper and Size  _(p.953)_
+          - **9.22.7** — 9.22.7. Smoke Chamber  _(p.953)_
+            - **9.22.7.1** — 9.22.7.1. Slope of Smoke Chamber  _(p.953)_
+            - **9.22.7.2** — 9.22.7.2. Wall Thickness  _(p.953)_
+          - **9.22.8** — 9.22.8. Factory-Built Fireplaces  _(p.953)_
+            - **9.22.8.1** — 9.22.8.1. Conformance to Standard  _(p.953)_
+          - **9.22.9** — 9.22.9. Clearance of Combustible Material  _(p.953)_
+            - **9.22.9.1** — 9.22.9.1. Clearance to the Fireplace Opening  _(p.953)_
+            - **9.22.9.2** — 9.22.9.2. Metal Exposed to the Interior  _(p.954)_
+            - **9.22.9.3** — 9.22.9.3. Clearance to Combustible Framing  _(p.954)_
+            - **9.22.9.4** — 9.22.9.4. Heat-Circulating Duct Outlets  _(p.954)_
+          - **9.22.10** — 9.22.10. Fireplace Inserts and Hearth-Mounted Stoves  _(p.954)_
+            - **9.22.10.1** — 9.22.10.1. Appliance Standard  _(p.954)_
+            - **9.22.10.2** — 9.22.10.2. Installation  _(p.954)_
+        - **9.23** — Section 9.23. Wood-Frame Construction  _(p.954)_
+          - **9.23.1** — 9.23.1. Application  _(p.954)_
+            - **9.23.1.1** — 9.23.1.1. Limitations  _(p.954)_
+          - **9.23.2** — 9.23.2. General  _(p.955)_
+            - **9.23.2.1** — 9.23.2.1. Strength and Rigidity  _(p.955)_
+            - **9.23.2.2** — 9.23.2.2. Protection from Decay  _(p.955)_
+            - **9.23.2.3** — 9.23.2.3. Protection from Dampness  _(p.955)_
+            - **9.23.2.4** — 9.23.2.4. Connections to Preservative-Treated Wood  _(p.955)_
+            - **9.23.2.5** — 9.23.2.5. Lumber  _(p.955)_
+          - **9.23.3** — 9.23.3. Fasteners and Connectors  _(p.955)_
+            - **9.23.3.1** — 9.23.3.1. Standards for Nails and Screws  _(p.955)_
+            - **9.23.3.2** — 9.23.3.2. Length of Nails  _(p.956)_
+            - **9.23.3.3** — 9.23.3.3. Prevention of Splitting  _(p.956)_
+            - **9.23.3.4** — 9.23.3.4. Nailing of Framing  _(p.956)_
+            - **9.23.3.5** — 9.23.3.5. Fasteners for Sheathing or Subflooring  _(p.958)_
+          - **9.23.4** — 9.23.4. Maximum Spans  _(p.959)_
+            - **9.23.4.1** — 9.23.4.1. Application  _(p.959)_
+            - **9.23.4.2** — 9.23.4.2. Spans for Joists, Rafters and Beams  _(p.960)_
+            - **9.23.4.3** — 9.23.4.3. Steel Beams  _(p.960)_
+            - **9.23.4.4** — 9.23.4.4. Concrete Topping  _(p.961)_
+            - **9.23.4.5** — 9.23.4.5. Heavy Roofing Materials  _(p.961)_
+          - **9.23.5** — 9.23.5. Notching and Drilling  _(p.961)_
+            - **9.23.5.1** — 9.23.5.1. Holes Drilled in Framing Members  _(p.961)_
+            - **9.23.5.2** — 9.23.5.2. Notching of Framing Members  _(p.961)_
+            - **9.23.5.3** — 9.23.5.3. Wall Studs  _(p.961)_
+            - **9.23.5.4** — 9.23.5.4. Top Plates  _(p.961)_
+            - **9.23.5.5** — 9.23.5.5. Roof Trusses  _(p.961)_
+          - **9.23.6** — 9.23.6. Anchorage  _(p.962)_
+            - **9.23.6.1** — 9.23.6.1. Anchorage of Building Frames  _(p.962)_
+            - **9.23.6.2** — 9.23.6.2. Anchorage of Columns and Posts  _(p.963)_
+            - **9.23.6.3** — 9.23.6.3. Anchorage of Smaller Buildings  _(p.963)_
+          - **9.23.7** — 9.23.7. Sill Plates  _(p.963)_
+            - **9.23.7.1** — 9.23.7.1. Size of Sill Plates  _(p.963)_
+            - **9.23.7.2** — 9.23.7.2. Levelling and Sealing of Sill Plates  _(p.963)_
+          - **9.23.8** — 9.23.8. Beams to Support Floors  _(p.964)_
+            - **9.23.8.1** — 9.23.8.1. Bearing for Beams  _(p.964)_
+            - **9.23.8.2** — 9.23.8.2. Priming of Steel Beams  _(p.964)_
+            - **9.23.8.3** — 9.23.8.3. Built-up Wood Beams  _(p.964)_
+          - **9.23.9** — 9.23.9. Floor Joists  _(p.964)_
+            - **9.23.9.1** — 9.23.9.1. End Bearing for Joists  _(p.964)_
+            - **9.23.9.2** — 9.23.9.2. Joists Supported by Beams  _(p.964)_
+            - **9.23.9.3** — 9.23.9.3. Restraint of Joist Bottoms  _(p.965)_
+            - **9.23.9.4** — 9.23.9.4. Strapping, Bridging, Furring and Ceilings in Span Tables 9.23.4.2.-A and -B  _(p.965)_
+            - **9.23.9.5** — 9.23.9.5. Header Joists  _(p.965)_
+            - **9.23.9.6** — 9.23.9.6. Trimmer Joists  _(p.966)_
+            - **9.23.9.7** — 9.23.9.7. Support of Tail and Header Joists  _(p.966)_
+            - **9.23.9.8** — 9.23.9.8. Support of Walls  _(p.966)_
+            - **9.23.9.9** — 9.23.9.9. Cantilevered Floor Joists  _(p.966)_
+          - **9.23.10** — 9.23.10. Wall Studs  _(p.966)_
+            - **9.23.10.1** — 9.23.10.1. Stud Size and Spacing  _(p.966)_
+            - **9.23.10.2** — 9.23.10.2. Bracing and Lateral Support  _(p.967)_
+            - **9.23.10.3** — 9.23.10.3. Orientation of Studs  _(p.967)_
+            - **9.23.10.4** — 9.23.10.4. Continuity of Studs  _(p.968)_
+            - **9.23.10.5** — 9.23.10.5. Support for Cladding, Sheathing and Finishing Materials  _(p.968)_
+            - **9.23.10.6** — 9.23.10.6. Studs at Sides of Openings  _(p.968)_
+          - **9.23.11** — 9.23.11. Wall Plates  _(p.968)_
+            - **9.23.11.1** — 9.23.11.1. Size of Wall Plates  _(p.968)_
+            - **9.23.11.2** — 9.23.11.2. Bottom Wall Plates  _(p.968)_
+            - **9.23.11.3** — 9.23.11.3. Top Plates  _(p.968)_
+            - **9.23.11.4** — 9.23.11.4. Joints in Top Plates  _(p.969)_
+          - **9.23.12** — 9.23.12. Framing over Openings  _(p.969)_
+            - **9.23.12.1** — 9.23.12.1. Openings in Non-Loadbearing Walls  _(p.969)_
+            - **9.23.12.2** — 9.23.12.2. Openings in Loadbearing Walls  _(p.970)_
+            - **9.23.12.3** — 9.23.12.3. Lintel Spans and Sizes  _(p.970)_
+          - **9.23.13** — 9.23.13. Bracing to Resist Lateral Loads Due to Wind and Earthquake  _(p.970)_
+            - **9.23.13.1** — 9.23.13.1. Requirements for Low to Moderate Wind and Seismic Forces  _(p.970)_
+            - **9.23.13.2** — 9.23.13.2. Requirements for High Wind and Seismic Forces  _(p.971)_
+            - **9.23.13.3** — 9.23.13.3. Requirements for Extreme Wind and Seismic Forces  _(p.971)_
+            - **9.23.13.4** — 9.23.13.4. Braced Wall Bands  _(p.971)_
+            - **9.23.13.5** — 9.23.13.5. Braced Wall Panels in Braced Wall Bands  _(p.971)_
+            - **9.23.13.6** — 9.23.13.6. Materials in Braced Wall Panels  _(p.973)_
+            - **9.23.13.7** — 9.23.13.7. Additional System Considerations  _(p.974)_
+          - **9.23.14** — 9.23.14. Roof and Ceiling Framing  _(p.975)_
+            - **9.23.14.1** — 9.23.14.1. Continuity of Rafters and Joists  _(p.975)_
+            - **9.23.14.2** — 9.23.14.2. Framing around Openings  _(p.975)_
+            - **9.23.14.3** — 9.23.14.3. End Bearing Length  _(p.975)_
+            - **9.23.14.4** — 9.23.14.4. Location and Attachment of Rafters  _(p.975)_
+            - **9.23.14.5** — 9.23.14.5. Shaping of Rafters  _(p.975)_
+            - **9.23.14.6** — 9.23.14.6. Hip and Valley Rafters  _(p.975)_
+            - **9.23.14.7** — 9.23.14.7. Intermediate Support for Rafters and Joists  _(p.975)_
+            - **9.23.14.8** — 9.23.14.8. Ridge Support  _(p.976)_
+            - **9.23.14.9** — 9.23.14.9. Restraint of Joist Bottoms  _(p.978)_
+            - **9.23.14.10** — 9.23.14.10. Ceiling Joists Supporting Roof Load  _(p.978)_
+            - **9.23.14.11** — 9.23.14.11. Roof Trusses  _(p.978)_
+          - **9.23.15** — 9.23.15. Subflooring  _(p.978)_
+            - **9.23.15.1** — 9.23.15.1. Subflooring Required  _(p.978)_
+            - **9.23.15.2** — 9.23.15.2. Material Standards  _(p.978)_
+            - **9.23.15.3** — 9.23.15.3. Edge Support  _(p.978)_
+            - **9.23.15.4** — 9.23.15.4. Direction of Installation  _(p.978)_
+            - **9.23.15.5** — 9.23.15.5. Subfloor Thickness or Rating  _(p.979)_
+            - **9.23.15.6** — 9.23.15.6. Annular Grooved Nails  _(p.979)_
+            - **9.23.15.7** — 9.23.15.7. Lumber Subflooring  _(p.979)_
+          - **9.23.16** — 9.23.16. Roof Sheathing  _(p.980)_
+            - **9.23.16.1** — 9.23.16.1. Required Roof Sheathing  _(p.980)_
+            - **9.23.16.2** — 9.23.16.2. Material Standards  _(p.980)_
+            - **9.23.16.3** — 9.23.16.3. Direction of Installation  _(p.980)_
+            - **9.23.16.4** — 9.23.16.4. Joints in Panel-Type Sheathing  _(p.980)_
+            - **9.23.16.5** — 9.23.16.5. Lumber Roof Sheathing  _(p.980)_
+            - **9.23.16.6** — 9.23.16.6. Edge Support  _(p.980)_
+            - **9.23.16.7** — 9.23.16.7. Thickness or Rating  _(p.981)_
+          - **9.23.17** — 9.23.17. Wall Sheathing  _(p.981)_
+            - **9.23.17.1** — 9.23.17.1. Required Sheathing  _(p.981)_
+            - **9.23.17.2** — 9.23.17.2. Thickness, Rating and Material Standards  _(p.981)_
+            - **9.23.17.3** — 9.23.17.3. Attachment of Cladding to Sheathing  _(p.982)_
+            - **9.23.17.4** — 9.23.17.4. Lumber Sheathing  _(p.982)_
+            - **9.23.17.5** — 9.23.17.5. Joints in Panel-Type Sheathing  _(p.982)_
+            - **9.23.17.6** — 9.23.17.6. Mansard Style Roofs  _(p.982)_
+        - **9.24** — Section 9.24. Sheet Steel Stud Wall Framing  _(p.983)_
+          - **9.24.1** — 9.24.1. General  _(p.983)_
+            - **9.24.1.1** — 9.24.1.1. Application  _(p.983)_
+            - **9.24.1.2** — 9.24.1.2. Material Standards  _(p.983)_
+            - **9.24.1.3** — 9.24.1.3. Metal Thickness  _(p.983)_
+            - **9.24.1.4** — 9.24.1.4. Screws  _(p.983)_
+            - **9.24.1.5** — 9.24.1.5. Cladding, Sheathing and Interior Finish Required  _(p.983)_
+          - **9.24.2** — 9.24.2. Size of Framing  _(p.983)_
+            - **9.24.2.1** — 9.24.2.1. Size and Spacing of Studs in Interior Walls  _(p.983)_
+            - **9.24.2.2** — 9.24.2.2. Thickness of Studs  _(p.984)_
+            - **9.24.2.3** — 9.24.2.3. Runners  _(p.984)_
+            - **9.24.2.4** — 9.24.2.4. Openings in Fire Separations  _(p.984)_
+            - **9.24.2.5** — 9.24.2.5. Size and Spacing of Studs in Exterior Walls  _(p.984)_
+          - **9.24.3** — 9.24.3. Installation  _(p.985)_
+            - **9.24.3.1** — 9.24.3.1. Installation of Runners  _(p.985)_
+            - **9.24.3.2** — 9.24.3.2. Fire-Rated Walls  _(p.985)_
+            - **9.24.3.3** — 9.24.3.3. Orientation of Studs  _(p.985)_
+            - **9.24.3.4** — 9.24.3.4. Support for Cladding Materials  _(p.985)_
+            - **9.24.3.5** — 9.24.3.5. Framing around Openings  _(p.985)_
+            - **9.24.3.6** — 9.24.3.6. Attachment of Studs to Runners  _(p.986)_
+            - **9.24.3.7** — 9.24.3.7. Openings for Fire Dampers  _(p.986)_
+        - **9.25** — Section 9.25. Heat Transfer, Air Leakage and Condensation Control  _(p.986)_
+          - **9.25.1** — 9.25.1. General  _(p.986)_
+            - **9.25.1.1** — 9.25.1.1. Scope and Application  _(p.986)_
+          - **9.25.2** — 9.25.2. Thermal Insulation  _(p.986)_
+            - **9.25.2.1** — 9.25.2.1. Required Insulation  _(p.986)_
+            - **9.25.2.2** — 9.25.2.2. Insulation Materials  _(p.986)_
+            - **9.25.2.3** — 9.25.2.3. Installation of Thermal Insulation  _(p.987)_
+            - **9.25.2.4** — 9.25.2.4. Installation of Loose-Fill Insulation  _(p.987)_
+            - **9.25.2.5** — 9.25.2.5. Installation of Spray-Applied Polyurethane  _(p.988)_
+          - **9.25.3** — 9.25.3. Air Barrier Systems  _(p.988)_
+            - **9.25.3.1** — 9.25.3.1. Required Barrier to Air Leakage  _(p.988)_
+            - **9.25.3.2** — 9.25.3.2. Air Barrier System Properties  _(p.988)_
+            - **9.25.3.3** — 9.25.3.3. Continuity of the Air Barrier System  _(p.988)_
+            - **9.25.3.4** — 9.25.3.4. Air Leakage Control in Masonry Walls  _(p.989)_
+            - **9.25.3.5** — 9.25.3.5. Air Leakage Control in Underground Roofs  _(p.989)_
+            - **9.25.3.6** — 9.25.3.6. Air Barrier Systems in Floors-on-ground  _(p.989)_
+          - **9.25.4** — 9.25.4. Vapour Barriers  _(p.990)_
+            - **9.25.4.1** — 9.25.4.1. Required Barrier to Vapour Diffusion  _(p.990)_
+            - **9.25.4.2** — 9.25.4.2. Vapour Barrier Materials  _(p.990)_
+            - **9.25.4.3** — 9.25.4.3. Installation of Vapour Barriers  _(p.990)_
+          - **9.25.5** — 9.25.5. Properties and Position of Materials in the Building Envelope  _(p.991)_
+            - **9.25.5.1** — 9.25.5.1. General  _(p.991)_
+            - **9.25.5.2** — 9.25.5.2. Position of Low Permeance Materials  _(p.991)_
+        - **9.26** — Section 9.26. Roofing  _(p.992)_
+          - **9.26.1** — 9.26.1. General  _(p.992)_
+            - **9.26.1.1** — 9.26.1.1. Definitions  _(p.992)_
+            - **9.26.1.2** — 9.26.1.2. Required Protection  _(p.992)_
+            - **9.26.1.3** — 9.26.1.3. Alternative Installation Methods  _(p.992)_
+          - **9.26.2** — 9.26.2. Roofing Materials  _(p.992)_
+            - **9.26.2.1** — 9.26.2.1. Material Standards  _(p.992)_
+            - **9.26.2.2** — 9.26.2.2. Installation of Materials  _(p.993)_
+            - **9.26.2.3** — 9.26.2.3. Nails  _(p.993)_
+            - **9.26.2.4** — 9.26.2.4. Staples  _(p.994)_
+          - **9.26.3** — 9.26.3. Slope of Roofed Surfaces  _(p.994)_
+            - **9.26.3.1** — 9.26.3.1. Slope  _(p.994)_
+          - **9.26.4** — 9.26.4. Flashing at Intersections  _(p.995)_
+            - **9.26.4.1** — 9.26.4.1. Required Flashing at Intersections  _(p.995)_
+            - **9.26.4.2** — 9.26.4.2. Materials  _(p.995)_
+            - **9.26.4.3** — 9.26.4.3. Valley Flashing  _(p.995)_
+            - **9.26.4.4** — 9.26.4.4. Intersection of Shingle Roofs and Masonry  _(p.996)_
+            - **9.26.4.5** — 9.26.4.5. Intersection of Shingle Roofs and Walls other than Masonry  _(p.996)_
+            - **9.26.4.6** — 9.26.4.6. Intersection of Built-Up Roofs and Masonry  _(p.996)_
+            - **9.26.4.7** — 9.26.4.7. Intersection of Built-Up Roofs and Walls other than Masonry  _(p.996)_
+            - **9.26.4.8** — 9.26.4.8. Chimney Saddles  _(p.997)_
+          - **9.26.5** — 9.26.5. Eave Protection for Shingles and Shakes  _(p.997)_
+            - **9.26.5.1** — 9.26.5.1. Required Eave Protection  _(p.997)_
+            - **9.26.5.2** — 9.26.5.2. Materials  _(p.997)_
+          - **9.26.6** — 9.26.6. Underlay beneath Shingles  _(p.997)_
+            - **9.26.6.1** — 9.26.6.1. Materials  _(p.997)_
+            - **9.26.6.2** — 9.26.6.2. Installation  _(p.997)_
+          - **9.26.7** — 9.26.7. Asphalt Shingles on Slopes of 1 in 3 or Greater  _(p.998)_
+            - **9.26.7.1** — 9.26.7.1. Coverage  _(p.998)_
+            - **9.26.7.2** — 9.26.7.2. Starter Strip  _(p.998)_
+            - **9.26.7.3** — 9.26.7.3. Head Lap  _(p.998)_
+            - **9.26.7.4** — 9.26.7.4. Fasteners  _(p.998)_
+            - **9.26.7.5** — 9.26.7.5. Securing of Tabs  _(p.998)_
+            - **9.26.7.6** — 9.26.7.6. Hips and Ridges  _(p.998)_
+            - **9.26.7.7** — 9.26.7.7. Eave Protection  _(p.998)_
+            - **9.26.7.8** — 9.26.7.8. Flashing  _(p.998)_
+          - **9.26.8** — 9.26.8. Asphalt Shingles on Slopes of less than 1 in 3  _(p.999)_
+            - **9.26.8.1** — 9.26.8.1. Coverage  _(p.999)_
+            - **9.26.8.2** — 9.26.8.2. Starter Strip  _(p.999)_
+            - **9.26.8.3** — 9.26.8.3. Securing of Tabs  _(p.999)_
+            - **9.26.8.4** — 9.26.8.4. Securing of Shingle Courses  _(p.999)_
+            - **9.26.8.5** — 9.26.8.5. Hips and Ridges  _(p.999)_
+            - **9.26.8.6** — 9.26.8.6. Flashing  _(p.999)_
+            - **9.26.8.7** — 9.26.8.7. Fastening  _(p.999)_
+          - **9.26.9** — 9.26.9. Wood Roof Shingles  _(p.999)_
+            - **9.26.9.1** — 9.26.9.1. Decking  _(p.999)_
+            - **9.26.9.2** — 9.26.9.2. Grade  _(p.999)_
+            - **9.26.9.3** — 9.26.9.3. Size  _(p.999)_
+            - **9.26.9.4** — 9.26.9.4. Spacing and Joints  _(p.1000)_
+            - **9.26.9.5** — 9.26.9.5. Fastening  _(p.1000)_
+            - **9.26.9.6** — 9.26.9.6. Exposure  _(p.1000)_
+            - **9.26.9.7** — 9.26.9.7. Flashing  _(p.1000)_
+            - **9.26.9.8** — 9.26.9.8. Eave Protection  _(p.1000)_
+          - **9.26.10** — 9.26.10. Cedar Roof Shakes  _(p.1000)_
+            - **9.26.10.1** — 9.26.10.1. Size and Thickness  _(p.1000)_
+            - **9.26.10.2** — 9.26.10.2. Underlay  _(p.1000)_
+            - **9.26.10.3** — 9.26.10.3. Spacing and Joints  _(p.1000)_
+            - **9.26.10.4** — 9.26.10.4. Fastening  _(p.1000)_
+            - **9.26.10.5** — 9.26.10.5. Exposure  _(p.1001)_
+            - **9.26.10.6** — 9.26.10.6. Flashing  _(p.1001)_
+            - **9.26.10.7** — 9.26.10.7. Eave Protection  _(p.1001)_
+            - **9.26.10.8** — 9.26.10.8. Grade  _(p.1001)_
+          - **9.26.11** — 9.26.11. Built-Up Roofs  _(p.1001)_
+            - **9.26.11.1** — 9.26.11.1. Quantity of Materials  _(p.1001)_
+            - **9.26.11.2** — 9.26.11.2. Coal-Tar and Asphalt Products  _(p.1001)_
+            - **9.26.11.3** — 9.26.11.3. Roof Felts  _(p.1001)_
+            - **9.26.11.4** — 9.26.11.4. Aggregate Surfacing  _(p.1001)_
+            - **9.26.11.5** — 9.26.11.5. Flashing  _(p.1001)_
+            - **9.26.11.6** — 9.26.11.6. Number of Layers  _(p.1001)_
+            - **9.26.11.7** — 9.26.11.7. Installation of Layers  _(p.1002)_
+            - **9.26.11.8** — 9.26.11.8. Roofing over Wood-Based Sheathing  _(p.1002)_
+            - **9.26.11.9** — 9.26.11.9. Attachment to Decking  _(p.1002)_
+            - **9.26.11.10** — 9.26.11.10. Cant Strips  _(p.1002)_
+          - **9.26.12** — 9.26.12. Selvage Roofing  _(p.1002)_
+            - **9.26.12.1** — 9.26.12.1. Coverage  _(p.1002)_
+            - **9.26.12.2** — 9.26.12.2. Joints  _(p.1002)_
+          - **9.26.13** — 9.26.13. Sheet Metal Roofing  _(p.1002)_
+            - **9.26.13.1** — 9.26.13.1. Thickness  _(p.1002)_
+            - **9.26.13.2** — 9.26.13.2. Support  _(p.1003)_
+          - **9.26.14** — 9.26.14. Glass Reinforced Polyester Roofing  _(p.1003)_
+            - **9.26.14.1** — 9.26.14.1. Support  _(p.1003)_
+          - **9.26.15** — 9.26.15. Hot Applied Rubberized Asphalt Roofing  _(p.1003)_
+            - **9.26.15.1** — 9.26.15.1. Installation  _(p.1003)_
+          - **9.26.16** — 9.26.16. Polyvinyl Chloride Sheet Roofing  _(p.1003)_
+            - **9.26.16.1** — 9.26.16.1. Installation  _(p.1003)_
+          - **9.26.17** — 9.26.17. Concrete Roof Tiles  _(p.1003)_
+            - **9.26.17.1** — 9.26.17.1. Installation  _(p.1003)_
+          - **9.26.18** — 9.26.18. Roof Drains and Downspouts  _(p.1003)_
+            - **9.26.18.1** — 9.26.18.1. Roof Drains  _(p.1003)_
+            - **9.26.18.2** — 9.26.18.2. Downspouts  _(p.1003)_
+        - **9.27** — Section 9.27. Cladding  _(p.1003)_
+          - **9.27.1** — 9.27.1. Application  _(p.1003)_
+            - **9.27.1.1** — 9.27.1.1. General  _(p.1003)_
+          - **9.27.2** — 9.27.2. Required Protection from Precipitation  _(p.1004)_
+            - **9.27.2.1** — 9.27.2.1. Minimizing and Preventing Ingress and Damage  _(p.1004)_
+            - **9.27.2.2** — 9.27.2.2. Minimum Protection from Precipitation Ingress  _(p.1004)_
+            - **9.27.2.3** — 9.27.2.3. First and Second Planes of Protection  _(p.1005)_
+            - **9.27.2.4** — 9.27.2.4. Protection of Cladding from Moisture  _(p.1006)_
+          - **9.27.3** — 9.27.3. Second Plane of Protection  _(p.1006)_
+            - **9.27.3.1** — 9.27.3.1. Elements of the Second Plane of Protection  _(p.1006)_
+            - **9.27.3.2** — 9.27.3.2. Sheathing Membrane Material Standard  _(p.1006)_
+            - **9.27.3.3** — 9.27.3.3. Required Sheathing Membrane and Installation  _(p.1006)_
+            - **9.27.3.4** — 9.27.3.4. Insulating Sheathing in lieu of Sheathing Membrane  _(p.1006)_
+            - **9.27.3.5** — 9.27.3.5. Sheathing Membranes in lieu of Sheathing  _(p.1007)_
+            - **9.27.3.6** — 9.27.3.6. Face Sealed Cladding  _(p.1007)_
+            - **9.27.3.7** — 9.27.3.7. Flashing Materials  _(p.1007)_
+            - **9.27.3.8** — 9.27.3.8. Flashing Installation  _(p.1007)_
+          - **9.27.4** — 9.27.4. Sealants  _(p.1008)_
+            - **9.27.4.1** — 9.27.4.1. Required Sealants  _(p.1008)_
+            - **9.27.4.2** — 9.27.4.2. Materials  _(p.1008)_
+          - **9.27.5** — 9.27.5. Attachment of Cladding  _(p.1009)_
+            - **9.27.5.1** — 9.27.5.1. Attachment  _(p.1009)_
+            - **9.27.5.2** — 9.27.5.2. Blocking  _(p.1009)_
+            - **9.27.5.3** — 9.27.5.3. Furring  _(p.1009)_
+            - **9.27.5.4** — 9.27.5.4. Size and Spacing of Fasteners  _(p.1009)_
+            - **9.27.5.5** — 9.27.5.5. Fastener Materials  _(p.1011)_
+            - **9.27.5.6** — 9.27.5.6. Expansion and Contraction  _(p.1011)_
+            - **9.27.5.7** — 9.27.5.7. Penetration of Fasteners  _(p.1011)_
+          - **9.27.6** — 9.27.6. Lumber Siding  _(p.1011)_
+            - **9.27.6.1** — 9.27.6.1. Materials  _(p.1011)_
+            - **9.27.6.2** — 9.27.6.2. Thickness and Width  _(p.1011)_
+            - **9.27.6.3** — 9.27.6.3. Joints  _(p.1011)_
+          - **9.27.7** — 9.27.7. Wood Shingles and Shakes  _(p.1012)_
+            - **9.27.7.1** — 9.27.7.1. Materials  _(p.1012)_
+            - **9.27.7.2** — 9.27.7.2. Width  _(p.1012)_
+            - **9.27.7.3** — 9.27.7.3. Fasteners  _(p.1012)_
+            - **9.27.7.4** — 9.27.7.4. Offsetting of Joints  _(p.1012)_
+            - **9.27.7.5** — 9.27.7.5. Fastening to Lath  _(p.1012)_
+            - **9.27.7.6** — 9.27.7.6. Exposure and Thickness  _(p.1012)_
+          - **9.27.8** — 9.27.8. Plywood  _(p.1013)_
+            - **9.27.8.1** — 9.27.8.1. Material Standards  _(p.1013)_
+            - **9.27.8.2** — 9.27.8.2. Thickness  _(p.1013)_
+            - **9.27.8.3** — 9.27.8.3. Edge Treatment  _(p.1013)_
+            - **9.27.8.4** — 9.27.8.4. Panel Cladding  _(p.1013)_
+            - **9.27.8.5** — 9.27.8.5. Lapped Strip Siding  _(p.1013)_
+          - **9.27.9** — 9.27.9. Hardboard  _(p.1014)_
+            - **9.27.9.1** — 9.27.9.1. Material Standards  _(p.1014)_
+            - **9.27.9.2** — 9.27.9.2. Thickness  _(p.1014)_
+            - **9.27.9.3** — 9.27.9.3. Panel Cladding  _(p.1014)_
+            - **9.27.9.4** — 9.27.9.4. Lapped Strip Siding  _(p.1014)_
+            - **9.27.9.5** — 9.27.9.5. Clearance  _(p.1014)_
+          - **9.27.10** — 9.27.10. OSB and Waferboard  _(p.1014)_
+            - **9.27.10.1** — 9.27.10.1. Material Standard  _(p.1014)_
+            - **9.27.10.2** — 9.27.10.2. Thickness  _(p.1014)_
+            - **9.27.10.3** — 9.27.10.3. Panel Cladding  _(p.1015)_
+            - **9.27.10.4** — 9.27.10.4. Clearance  _(p.1015)_
+          - **9.27.11** — 9.27.11. Metal  _(p.1015)_
+            - **9.27.11.1** — 9.27.11.1. Material Standards  _(p.1015)_
+          - **9.27.12** — 9.27.12. Vinyl Siding, Insulated Vinyl Siding and Vinyl Soffits  _(p.1015)_
+            - **9.27.12.1** — 9.27.12.1. Material Standards  _(p.1015)_
+            - **9.27.12.2** — 9.27.12.2. Attachment  _(p.1015)_
+          - **9.27.13** — 9.27.13. Polypropylene Siding  _(p.1016)_
+            - **9.27.13.1** — 9.27.13.1. Material Standard  _(p.1016)_
+            - **9.27.13.2** — 9.27.13.2. Attachment  _(p.1016)_
+          - **9.27.14** — 9.27.14. Exterior Insulation Finish Systems  _(p.1016)_
+            - **9.27.14.1** — 9.27.14.1. Application  _(p.1016)_
+            - **9.27.14.2** — 9.27.14.2. Materials  _(p.1016)_
+            - **9.27.14.3** — 9.27.14.3. Design and Installation  _(p.1016)_
+        - **9.28** — Section 9.28. Stucco  _(p.1016)_
+          - **9.28.1** — 9.28.1. General  _(p.1016)_
+            - **9.28.1.1** — 9.28.1.1. Sheathing beneath Stucco  _(p.1016)_
+            - **9.28.1.2** — 9.28.1.2. Lath and Reinforcing  _(p.1017)_
+            - **9.28.1.3** — 9.28.1.3. Concrete Masonry Units  _(p.1017)_
+            - **9.28.1.4** — 9.28.1.4. Clearance over Ground Level  _(p.1017)_
+            - **9.28.1.5** — 9.28.1.5. Flashing and Caulking  _(p.1017)_
+          - **9.28.2** — 9.28.2. Stucco Materials  _(p.1017)_
+            - **9.28.2.1** — 9.28.2.1. Portland Cement  _(p.1017)_
+            - **9.28.2.2** — 9.28.2.2. Aggregate  _(p.1017)_
+            - **9.28.2.3** — 9.28.2.3. Water  _(p.1017)_
+          - **9.28.3** — 9.28.3. Fasteners  _(p.1018)_
+            - **9.28.3.1** — 9.28.3.1. Materials  _(p.1018)_
+            - **9.28.3.2** — 9.28.3.2. Nails and Staples  _(p.1018)_
+          - **9.28.4** — 9.28.4. Stucco Lath  _(p.1018)_
+            - **9.28.4.1** — 9.28.4.1. Materials  _(p.1018)_
+            - **9.28.4.2** — 9.28.4.2. No Sheathing Required  _(p.1018)_
+            - **9.28.4.3** — 9.28.4.3. Stucco Lath Specifications  _(p.1018)_
+            - **9.28.4.4** — 9.28.4.4. Self-Furring Devices  _(p.1018)_
+            - **9.28.4.5** — 9.28.4.5. Application of Stucco Lath  _(p.1019)_
+            - **9.28.4.6** — 9.28.4.6. Fastening  _(p.1019)_
+          - **9.28.5** — 9.28.5. Stucco Mixes  _(p.1019)_
+            - **9.28.5.1** — 9.28.5.1. Mixes  _(p.1019)_
+            - **9.28.5.2** — 9.28.5.2. Pigments  _(p.1019)_
+            - **9.28.5.3** — 9.28.5.3. Mixing  _(p.1019)_
+          - **9.28.6** — 9.28.6. Stucco Application  _(p.1019)_
+            - **9.28.6.1** — 9.28.6.1. Low Temperature Conditions  _(p.1019)_
+            - **9.28.6.2** — 9.28.6.2. Number of Coats and Total Thickness  _(p.1020)_
+            - **9.28.6.3** — 9.28.6.3. First Coat  _(p.1020)_
+            - **9.28.6.4** — 9.28.6.4. Second Coat  _(p.1020)_
+            - **9.28.6.5** — 9.28.6.5. Finish Coat  _(p.1020)_
+        - **9.29** — Section 9.29. Interior Wall and Ceiling Finishes  _(p.1020)_
+          - **9.29.1** — 9.29.1. General  _(p.1020)_
+            - **9.29.1.1** — 9.29.1.1. Fire Protection and Sound Control  _(p.1020)_
+          - **9.29.2** — 9.29.2. Waterproof Wall Finish  _(p.1020)_
+            - **9.29.2.1** — 9.29.2.1. Where Required  _(p.1020)_
+            - **9.29.2.2** — 9.29.2.2. Materials  _(p.1020)_
+          - **9.29.3** — 9.29.3. Wood Furring  _(p.1020)_
+            - **9.29.3.1** — 9.29.3.1. Size and Spacing of Furring  _(p.1020)_
+            - **9.29.3.2** — 9.29.3.2. Fastening  _(p.1021)_
+          - **9.29.4** — 9.29.4. Plastering  _(p.1021)_
+            - **9.29.4.1** — 9.29.4.1. Application  _(p.1021)_
+          - **9.29.5** — 9.29.5. Gypsum Board Finish (Taped Joints)  _(p.1021)_
+            - **9.29.5.1** — 9.29.5.1. Application  _(p.1021)_
+            - **9.29.5.2** — 9.29.5.2. Materials  _(p.1021)_
+            - **9.29.5.3** — 9.29.5.3. Maximum Spacing of Supports  _(p.1021)_
+            - **9.29.5.4** — 9.29.5.4. Support of Insulation  _(p.1022)_
+            - **9.29.5.5** — 9.29.5.5. Length of Fasteners  _(p.1022)_
+            - **9.29.5.6** — 9.29.5.6. Nails  _(p.1022)_
+            - **9.29.5.7** — 9.29.5.7. Screws  _(p.1022)_
+            - **9.29.5.8** — 9.29.5.8. Spacing of Nails  _(p.1023)_
+            - **9.29.5.9** — 9.29.5.9. Spacing of Screws  _(p.1023)_
+            - **9.29.5.10** — 9.29.5.10. Low Temperature Conditions  _(p.1023)_
+          - **9.29.6** — 9.29.6. Plywood Finish  _(p.1023)_
+            - **9.29.6.1** — 9.29.6.1. Thickness  _(p.1023)_
+            - **9.29.6.2** — 9.29.6.2. Grooved Plywood  _(p.1024)_
+            - **9.29.6.3** — 9.29.6.3. Nails and Staples  _(p.1024)_
+            - **9.29.6.4** — 9.29.6.4. Edge Support  _(p.1024)_
+          - **9.29.7** — 9.29.7. Hardboard Finish  _(p.1024)_
+            - **9.29.7.1** — 9.29.7.1. Material Standard  _(p.1024)_
+            - **9.29.7.2** — 9.29.7.2. Thickness  _(p.1024)_
+            - **9.29.7.3** — 9.29.7.3. Nails  _(p.1024)_
+            - **9.29.7.4** — 9.29.7.4. Edge Support  _(p.1025)_
+          - **9.29.8** — 9.29.8. Insulating Fibreboard Finish  _(p.1025)_
+            - **9.29.8.1** — 9.29.8.1. Material Standard  _(p.1025)_
+            - **9.29.8.2** — 9.29.8.2. Thickness  _(p.1025)_
+            - **9.29.8.3** — 9.29.8.3. Nails  _(p.1025)_
+            - **9.29.8.4** — 9.29.8.4. Edge Support  _(p.1025)_
+          - **9.29.9** — 9.29.9. Particleboard, OSB or Waferboard Finish  _(p.1025)_
+            - **9.29.9.1** — 9.29.9.1. Material Standard  _(p.1025)_
+            - **9.29.9.2** — 9.29.9.2. Minimum Thickness  _(p.1025)_
+            - **9.29.9.3** — 9.29.9.3. Nails  _(p.1026)_
+            - **9.29.9.4** — 9.29.9.4. Edge Support  _(p.1026)_
+          - **9.29.10** — 9.29.10. Wall Tile Finish  _(p.1026)_
+            - **9.29.10.1** — 9.29.10.1. Tile Application  _(p.1026)_
+            - **9.29.10.2** — 9.29.10.2. Mortar Base  _(p.1026)_
+            - **9.29.10.3** — 9.29.10.3. Adhesives  _(p.1026)_
+            - **9.29.10.4** — 9.29.10.4. Moisture-Resistant Backing  _(p.1026)_
+            - **9.29.10.5** — 9.29.10.5. Joints between Tiles and Bathtub  _(p.1026)_
+        - **9.30** — Section 9.30. Flooring  _(p.1026)_
+          - **9.30.1** — 9.30.1. General  _(p.1026)_
+            - **9.30.1.1** — 9.30.1.1. Required Finished Flooring  _(p.1026)_
+            - **9.30.1.2** — 9.30.1.2. Water Resistance  _(p.1026)_
+            - **9.30.1.3** — 9.30.1.3. Sleepers  _(p.1027)_
+            - **9.30.1.4** — 9.30.1.4. Finish Quality  _(p.1027)_
+          - **9.30.2** — 9.30.2. Panel-Type Underlay  _(p.1027)_
+            - **9.30.2.1** — 9.30.2.1. Required Underlay  _(p.1027)_
+            - **9.30.2.2** — 9.30.2.2. Materials and Thickness  _(p.1027)_
+            - **9.30.2.3** — 9.30.2.3. Fastening  _(p.1027)_
+            - **9.30.2.4** — 9.30.2.4. Joints Offset  _(p.1027)_
+            - **9.30.2.5** — 9.30.2.5. Surface Defects  _(p.1028)_
+          - **9.30.3** — 9.30.3. Wood Strip Flooring  _(p.1028)_
+            - **9.30.3.1** — 9.30.3.1. Thickness  _(p.1028)_
+            - **9.30.3.2** — 9.30.3.2. Strip Direction and End Joints  _(p.1028)_
+            - **9.30.3.3** — 9.30.3.3. Nailing  _(p.1028)_
+            - **9.30.3.4** — 9.30.3.4. Staples  _(p.1029)_
+          - **9.30.4** — 9.30.4. Parquet Flooring  _(p.1029)_
+            - **9.30.4.1** — 9.30.4.1. Adhesive  _(p.1029)_
+          - **9.30.5** — 9.30.5. Resilient Flooring  _(p.1029)_
+            - **9.30.5.1** — 9.30.5.1. Materials  _(p.1029)_
+          - **9.30.6** — 9.30.6. Ceramic Tile  _(p.1029)_
+            - **9.30.6.1** — 9.30.6.1. Substrate  _(p.1029)_
+        - **9.31** — Section 9.31. Plumbing Facilities  _(p.1029)_
+          - **9.31.1** — 9.31.1. Scope  _(p.1029)_
+            - **9.31.1.1** — 9.31.1.1. Application  _(p.1029)_
+          - **9.31.2** — 9.31.2. General  _(p.1029)_
+            - **9.31.2.1** — 9.31.2.1. General  _(p.1029)_
+            - **9.31.2.2** — 9.31.2.2. Corrosion Protection  _(p.1029)_
+            - **9.31.2.3** — 9.31.2.3. Grab Bars  _(p.1030)_
+          - **9.31.3** — 9.31.3. Water Supply and Distribution  _(p.1030)_
+            - **9.31.3.1** — 9.31.3.1. Required Water Supply  _(p.1030)_
+            - **9.31.3.2** — 9.31.3.2. Required Connections  _(p.1030)_
+          - **9.31.4** — 9.31.4. Required Facilities  _(p.1030)_
+            - **9.31.4.1** — 9.31.4.1. Required Fixtures  _(p.1030)_
+            - **9.31.4.2** — 9.31.4.2. Hot Water Supply  _(p.1030)_
+            - **9.31.4.3** — 9.31.4.3. Floor Drains  _(p.1030)_
+          - **9.31.5** — 9.31.5. Sewage Disposal  _(p.1030)_
+            - **9.31.5.1** — 9.31.5.1. Building Sewer  _(p.1030)_
+            - **9.31.5.2** — 9.31.5.2. Discharge of Sewage  _(p.1030)_
+          - **9.31.6** — 9.31.6. Service Water Heating Facilities  _(p.1030)_
+            - **9.31.6.1** — 9.31.6.1. Hot Water Supply  _(p.1030)_
+            - **9.31.6.2** — 9.31.6.2. Equipment and Installation  _(p.1030)_
+            - **9.31.6.3** — 9.31.6.3. Corrosion-Resistant Coating  _(p.1031)_
+            - **9.31.6.4** — 9.31.6.4. Fuel-Burning Heaters  _(p.1031)_
+            - **9.31.6.5** — 9.31.6.5. Heating Coils  _(p.1031)_
+        - **9.32** — Section 9.32. Ventilation  _(p.1031)_
+          - **9.32.1** — 9.32.1. General  _(p.1031)_
+            - **9.32.1.1** — 9.32.1.1. Application  _(p.1031)_
+            - **9.32.1.2** — 9.32.1.2. Required Ventilation  _(p.1031)_
+            - **9.32.1.3** — 9.32.1.3. Venting of Laundry-Drying Equipment  _(p.1032)_
+          - **9.32.2** — 9.32.2. Non-Heating-Season Ventilation  _(p.1032)_
+            - **9.32.2.1** — 9.32.2.1. Required Ventilation  _(p.1032)_
+            - **9.32.2.2** — 9.32.2.2. Non-Heating-Season Natural Ventilation  _(p.1032)_
+            - **9.32.2.3** — 9.32.2.3. Non-Heating-Season Mechanical Ventilation  _(p.1033)_
+          - **9.32.3** — 9.32.3. Heating-Season Mechanical Ventilation  _(p.1034)_
+            - **9.32.3.1** — 9.32.3.1. Required Ventilation  _(p.1034)_
+            - **9.32.3.2** — 9.32.3.2. Design and Installation  _(p.1034)_
+            - **9.32.3.3** — 9.32.3.3. Principal Ventilation System  _(p.1034)_
+            - **9.32.3.4** — 9.32.3.4. Ventilation Systems Used in Conjunction with Forced Air Heating Systems  _(p.1035)_
+            - **9.32.3.5** — 9.32.3.5. Ventilation Systems Not Used in Conjunction with Forced Air Heating Systems  _(p.1037)_
+            - **9.32.3.6** — 9.32.3.6. Exhaust-Only Ventilation Systems  _(p.1038)_
+            - **9.32.3.7** — 9.32.3.7. Supplemental Exhaust  _(p.1038)_
+            - **9.32.3.8** — 9.32.3.8. Protection Against Depressurization  _(p.1039)_
+            - **9.32.3.9** — 9.32.3.9. Carbon Monoxide Alarms  _(p.1040)_
+            - **9.32.3.10** — 9.32.3.10. Fans  _(p.1040)_
+            - **9.32.3.11** — 9.32.3.11. Ducts  _(p.1041)_
+            - **9.32.3.12** — 9.32.3.12. Heat Recovery Ventilators  _(p.1043)_
+            - **9.32.3.13** — 9.32.3.13. Outdoor Intake and Exhaust Openings  _(p.1044)_
+        - **9.33** — Section 9.33. Heating and Air-conditioning  _(p.1045)_
+          - **9.33.1** — 9.33.1. General  _(p.1045)_
+            - **9.33.1.1** — 9.33.1.1. Application  _(p.1045)_
+          - **9.33.2** — 9.33.2. Required Heating Systems  _(p.1045)_
+            - **9.33.2.1** — 9.33.2.1. Required Heating Systems  _(p.1045)_
+          - **9.33.3** — 9.33.3. Design Temperatures  _(p.1045)_
+            - **9.33.3.1** — 9.33.3.1. Indoor Design Temperatures  _(p.1045)_
+            - **9.33.3.2** — 9.33.3.2. Outdoor Design Temperatures  _(p.1046)_
+          - **9.33.4** — 9.33.4. General Requirements for Heating and Air-conditioning Systems  _(p.1046)_
+            - **9.33.4.1** — 9.33.4.1. Design of Heating and Air-conditioning Systems  _(p.1046)_
+            - **9.33.4.2** — 9.33.4.2. Installation of Hydronic Heating Systems  _(p.1046)_
+            - **9.33.4.3** — 9.33.4.3. Heating System Control  _(p.1046)_
+            - **9.33.4.4** — 9.33.4.4. Access  _(p.1046)_
+            - **9.33.4.5** — 9.33.4.5. Protection from Freezing  _(p.1046)_
+            - **9.33.4.6** — 9.33.4.6. Expansion, Contraction and System Pressure  _(p.1046)_
+            - **9.33.4.7** — 9.33.4.7. Structural Movement  _(p.1046)_
+            - **9.33.4.8** — 9.33.4.8. Asbestos  _(p.1047)_
+            - **9.33.4.9** — 9.33.4.9. Contaminant Transfer  _(p.1047)_
+          - **9.33.5** — 9.33.5. Heating and Air-conditioning Appliances and Equipment  _(p.1047)_
+            - **9.33.5.1** — 9.33.5.1. Capacity of Heating Appliances  _(p.1047)_
+            - **9.33.5.2** — 9.33.5.2. Installation Standards  _(p.1047)_
+            - **9.33.5.3** — 9.33.5.3. Design, Construction and Installation Standard for Solid-Fuel-Burning Appliances  _(p.1047)_
+            - **9.33.5.4** — 9.33.5.4. Fireplaces  _(p.1047)_
+          - **9.33.6** — 9.33.6. Air Duct Systems  _(p.1047)_
+            - **9.33.6.1** — 9.33.6.1. Application  _(p.1047)_
+            - **9.33.6.2** — 9.33.6.2. Materials in Air Duct Systems  _(p.1047)_
+            - **9.33.6.3** — 9.33.6.3. Tape  _(p.1048)_
+            - **9.33.6.4** — 9.33.6.4. Coverings, Linings, Adhesives and Insulation  _(p.1048)_
+            - **9.33.6.5** — 9.33.6.5. Galvanized Steel or Aluminum Supply Ducts  _(p.1049)_
+            - **9.33.6.6** — 9.33.6.6. Construction of Ducts and Plenums  _(p.1050)_
+            - **9.33.6.7** — 9.33.6.7. Installation of Ducts and Plenums  _(p.1050)_
+            - **9.33.6.8** — 9.33.6.8. Clearances of Ducts and Plenums  _(p.1050)_
+            - **9.33.6.9** — 9.33.6.9. Adjustable Dampers and Balance Stops  _(p.1051)_
+            - **9.33.6.10** — 9.33.6.10. Warm-Air Supply Outlets and Return Inlets — General  _(p.1051)_
+            - **9.33.6.11** — 9.33.6.11. Warm-Air Supply Outlets  _(p.1051)_
+            - **9.33.6.12** — 9.33.6.12. Return-Air Inlets  _(p.1051)_
+            - **9.33.6.13** — 9.33.6.13. Return-Air System  _(p.1052)_
+            - **9.33.6.14** — 9.33.6.14. Filters and Odour Removal Equipment  _(p.1052)_
+          - **9.33.7** — 9.33.7. Radiators and Convectors  _(p.1052)_
+            - **9.33.7.1** — 9.33.7.1. Recessed Radiators and Convectors  _(p.1052)_
+            - **9.33.7.2** — 9.33.7.2. Surface Temperature  _(p.1052)_
+          - **9.33.8** — 9.33.8. Piping for Heating and Cooling Systems  _(p.1053)_
+            - **9.33.8.1** — 9.33.8.1. Piping Materials and Installation  _(p.1053)_
+            - **9.33.8.2** — 9.33.8.2. Insulation and Coverings  _(p.1053)_
+            - **9.33.8.3** — 9.33.8.3. Clearances  _(p.1053)_
+            - **9.33.8.4** — 9.33.8.4. Protection  _(p.1054)_
+          - **9.33.9** — 9.33.9. Refrigerating Systems and Equipment for Air-conditioning  _(p.1054)_
+            - **9.33.9.1** — 9.33.9.1. Cooling Units  _(p.1054)_
+          - **9.33.10** — 9.33.10. Chimneys and Venting Equipment  _(p.1054)_
+            - **9.33.10.1** — 9.33.10.1. Requirement for Venting  _(p.1054)_
+            - **9.33.10.2** — 9.33.10.2. Factory-Built Chimneys  _(p.1054)_
+            - **9.33.10.3** — 9.33.10.3. Masonry or Concrete Chimneys  _(p.1054)_
+        - **9.34** — Section 9.34. Electrical Facilities  _(p.1054)_
+          - **9.34.1** — 9.34.1. General  _(p.1054)_
+            - **9.34.1.1** — 9.34.1.1. Standard for Electrical Installations  _(p.1054)_
+            - **9.34.1.2** — 9.34.1.2. Required Facilities  _(p.1054)_
+            - **9.34.1.3** — 9.34.1.3. Location of Equipment in Public Areas  _(p.1054)_
+            - **9.34.1.4** — 9.34.1.4. Recessed Lighting Fixtures  _(p.1055)_
+            - **9.34.1.5** — 9.34.1.5. Wiring and Cables  _(p.1055)_
+          - **9.34.2** — 9.34.2. Lighting Outlets  _(p.1055)_
+            - **9.34.2.1** — 9.34.2.1. Lighting of Entrances  _(p.1055)_
+            - **9.34.2.2** — 9.34.2.2. Outlets in Dwelling Units  _(p.1055)_
+            - **9.34.2.3** — 9.34.2.3. Stairways  _(p.1055)_
+            - **9.34.2.4** — 9.34.2.4. Basements  _(p.1055)_
+            - **9.34.2.5** — 9.34.2.5. Storage Rooms  _(p.1056)_
+            - **9.34.2.6** — 9.34.2.6. Garages and Carports  _(p.1056)_
+            - **9.34.2.7** — 9.34.2.7. Public and Service Areas  _(p.1056)_
+          - **9.34.3** — 9.34.3. Emergency Lighting  _(p.1056)_
+            - **9.34.3.1** — 9.34.3.1. Criteria for Emergency Lighting  _(p.1056)_
+        - **9.35** — Section 9.35. Garages and Carports  _(p.1056)_
+          - **9.35.1** — 9.35.1. Scope  _(p.1056)_
+            - **9.35.1.1** — 9.35.1.1. Application  _(p.1056)_
+            - **9.35.1.2** — 9.35.1.2. Construction Requirements  _(p.1057)_
+          - **9.35.2** — 9.35.2. General  _(p.1057)_
+            - **9.35.2.1** — 9.35.2.1. Carport Considered to be Garage  _(p.1057)_
+            - **9.35.2.2** — 9.35.2.2. Garage Floor  _(p.1057)_
+          - **9.35.3** — 9.35.3. Foundations  _(p.1057)_
+            - **9.35.3.1** — 9.35.3.1. Foundation Required  _(p.1057)_
+            - **9.35.3.2** — 9.35.3.2. Protection from Damage due to Soil Movement  _(p.1057)_
+            - **9.35.3.3** — 9.35.3.3. Drainage  _(p.1057)_
+            - **9.35.3.4** — 9.35.3.4. Column Piers  _(p.1057)_
+          - **9.35.4** — 9.35.4. Walls and Columns  _(p.1058)_
+            - **9.35.4.1** — 9.35.4.1. Interior Finish  _(p.1058)_
+            - **9.35.4.2** — 9.35.4.2. Columns  _(p.1058)_
+            - **9.35.4.3** — 9.35.4.3. Anchorage  _(p.1058)_
+        - **9.36** — Section 9.36. Energy Efficiency  _(p.1058)_
+          - **9.36.1** — 9.36.1. General  _(p.1058)_
+            - **9.36.1.1** — 9.36.1.1. Scope  _(p.1058)_
+            - **9.36.1.2** — 9.36.1.2. Definitions  _(p.1058)_
+            - **9.36.1.3** — 9.36.1.3. Compliance and Application  _(p.1059)_
+          - **9.36.2** — 9.36.2. Building Envelope  _(p.1059)_
+            - **9.36.2.1** — 9.36.2.1. Scope and Application  _(p.1059)_
+            - **9.36.2.2** — 9.36.2.2. Determination of Thermal Characteristics of Materials, Components and Assemblies  _(p.1060)_
+            - **9.36.2.3** — 9.36.2.3. Calculation of Ceiling, Wall, Fenestration and Door Areas  _(p.1060)_
+            - **9.36.2.4** — 9.36.2.4. Calculation of Effective Thermal Resistance of Assemblies  _(p.1061)_
+            - **9.36.2.5** — 9.36.2.5. Continuity of Insulation  _(p.1061)_
+            - **9.36.2.6** — 9.36.2.6. Thermal Characteristics of Above-ground Opaque Building Assemblies  _(p.1062)_
+            - **9.36.2.7** — 9.36.2.7. Thermal Characteristics of Fenestration, Doors and Skylights  _(p.1063)_
+            - **9.36.2.8** — 9.36.2.8. Thermal Characteristics of Building Assemblies Below-Grade or in Contact with the Ground  _(p.1065)_
+            - **9.36.2.9** — 9.36.2.9. Airtightness  _(p.1067)_
+            - **9.36.2.10** — 9.36.2.10. Construction of Air Barrier Details  _(p.1068)_
+            - **9.36.2.11** — 9.36.2.11. Trade-off Options for Above-ground Building Envelope Components and Assemblies  _(p.1070)_
+          - **9.36.3** — 9.36.3. HVAC Requirements  _(p.1071)_
+            - **9.36.3.1** — 9.36.3.1. Scope and Application  _(p.1071)_
+            - **9.36.3.2** — 9.36.3.2. Equipment and Ducts  _(p.1071)_
+            - **9.36.3.3** — 9.36.3.3. Air Intake and Outlet Dampers  _(p.1072)_
+            - **9.36.3.4** — 9.36.3.4. Piping for Heating and Cooling Systems  _(p.1072)_
+            - **9.36.3.5** — 9.36.3.5. Equipment for Heating and Air-conditioning Systems  _(p.1072)_
+            - **9.36.3.6** — 9.36.3.6. Temperature Controls  _(p.1072)_
+            - **9.36.3.7** — 9.36.3.7. Humidification  _(p.1073)_
+            - **9.36.3.8** — 9.36.3.8. Heat Recovery from Dehumidification in Spaces with an Indoor Pool or Hot Tub  _(p.1073)_
+            - **9.36.3.9** — 9.36.3.9. Heat Recovery from Ventilation Systems  _(p.1073)_
+            - **9.36.3.10** — 9.36.3.10. Equipment Efficiency  _(p.1074)_
+            - **9.36.3.11** — 9.36.3.11. Solar Thermal Systems  _(p.1077)_
+          - **9.36.4** — 9.36.4. Service Water Heating Systems  _(p.1077)_
+            - **9.36.4.1** — 9.36.4.1. Scope and Application  _(p.1077)_
+            - **9.36.4.2** — 9.36.4.2. Equipment Efficiency  _(p.1077)_
+            - **9.36.4.3** — 9.36.4.3. Solar Domestic Hot Water Systems  _(p.1079)_
+            - **9.36.4.4** — 9.36.4.4. Piping  _(p.1079)_
+            - **9.36.4.5** — 9.36.4.5. Controls  _(p.1079)_
+            - **9.36.4.6** — 9.36.4.6. Indoor Swimming Pool Equipment Controls  _(p.1080)_
+          - **9.36.5** — 9.36.5. Energy Performance Compliance  _(p.1080)_
+            - **9.36.5.1** — 9.36.5.1. Scope and Application  _(p.1080)_
+            - **9.36.5.2** — 9.36.5.2. Definitions  _(p.1080)_
+            - **9.36.5.3** — 9.36.5.3. Compliance  _(p.1080)_
+            - **9.36.5.4** — 9.36.5.4. Calculation Methods  _(p.1081)_
+            - **9.36.5.5** — 9.36.5.5. Climatic Data  _(p.1082)_
+            - **9.36.5.6** — 9.36.5.6. Building Envelope Calculations  _(p.1082)_
+            - **9.36.5.7** — 9.36.5.7. HVAC System Calculations  _(p.1083)_
+            - **9.36.5.8** — 9.36.5.8. Service Water Heating System Calculations  _(p.1084)_
+            - **9.36.5.9** — 9.36.5.9. General Requirements for Modeling the Proposed House  _(p.1085)_
+            - **9.36.5.10** — 9.36.5.10. Modeling Building Envelope of Proposed House  _(p.1085)_
+            - **9.36.5.11** — 9.36.5.11. Modeling HVAC System of Proposed House  _(p.1086)_
+            - **9.36.5.12** — 9.36.5.12. Modeling Service Water Heating System of Proposed House  _(p.1087)_
+            - **9.36.5.13** — 9.36.5.13. General Requirements for Modeling the Reference House  _(p.1088)_
+            - **9.36.5.14** — 9.36.5.14. Modeling Building Envelope of Reference House  _(p.1088)_
+            - **9.36.5.15** — 9.36.5.15. Modeling HVAC System of Reference House  _(p.1089)_
+            - **9.36.5.16** — 9.36.5.16. Modeling Service Water Heating System of Reference House  _(p.1092)_
+          - **9.36.6** — 9.36.6. Airtightness of Building Envelope  _(p.1092)_
+            - **9.36.6.1** — 9.36.6.1. Scope and Application  _(p.1092)_
+            - **9.36.6.2** — 9.36.6.2. Definitions  _(p.1093)_
+            - **9.36.6.3** — 9.36.6.3. Determination of Airtightness  _(p.1093)_
+            - **9.36.6.4** — 9.36.6.4. Determination of Airtightness Level  _(p.1093)_
+          - **9.36.7** — 9.36.7. Tiered Energy Performance Compliance: Performance Path  _(p.1094)_
+            - **9.36.7.1** — 9.36.7.1. Scope and Application  _(p.1094)_
+            - **9.36.7.2** — 9.36.7.2. Compliance  _(p.1094)_
+            - **9.36.7.3** — 9.36.7.3. Energy Performance Improvement Compliance Calculations  _(p.1095)_
+          - **9.36.8** — 9.36.8. Tiered Energy Performance Compliance: Prescriptive Path  _(p.1096)_
+            - **9.36.8.1** — 9.36.8.1. Scope  _(p.1096)_
+            - **9.36.8.2** — 9.36.8.2. Compliance  _(p.1096)_
+            - **9.36.8.3** — 9.36.8.3. Definitions  _(p.1096)_
+            - **9.36.8.4** — 9.36.8.4. Building Envelope – General  _(p.1096)_
+            - **9.36.8.5** — 9.36.8.5. Energy Conservation Measures for Above-Ground Opaque Building Assemblies  _(p.1097)_
+            - **9.36.8.6** — 9.36.8.6. Energy Conservation Measures for Fenestration and Doors  _(p.1098)_
+            - **9.36.8.7** — 9.36.8.7. Energy Conservation Measures for Opaque Building Assemblies Below-Grade or in Contact with the Ground  _(p.1099)_
+            - **9.36.8.8** — 9.36.8.8. Energy Conservation Measures Relating to Airtightness  _(p.1099)_
+            - **9.36.8.9** — 9.36.8.9. Energy Conservation Measures for HVAC Systems  _(p.1100)_
+            - **9.36.8.10** — 9.36.8.10. Energy Conservation Measures for Service Water Heating Equipment  _(p.1101)_
+            - **9.36.8.11** — 9.36.8.11. Energy Conservation Points for Building Volume  _(p.1101)_
+        - **9.37** — Section 9.37. Objectives and Functional Statements  _(p.1103)_
+          - **9.37.1** — 9.37.1. Objectives and Functional Statements  _(p.1103)_
+            - **9.37.1.1** — 9.37.1.1. Attributions to Acceptable Solutions  _(p.1103)_
+        - Fire and Sound Resistance Tables  _(p.1217)_
+          - Table 9.10.3.1.-A Fire and Sound Resistance of Walls  _(p.1218)_
+          - Table 9.10.3.1.-B Fire and Sound Resistance of Floors, Ceilings and Roofs  _(p.1240)_
+        - Span Tables  _(p.1299)_
+          - Table 9.20.17.4.-A Maximum Allowable Clear Spans for Lintels in Flat Loadbearing Insulating Concrete Form (ICF) Walls (1-10M Bottom Bar)  _(p.1300)_
+          - Table 9.20.17.4.-B Maximum Allowable Clear Spans for Lintels in Flat Loadbearing Insulating Concrete Form (ICF) Walls (1-15M Bottom Bar)  _(p.1301)_
+          - Table 9.20.17.4.-C Maximum Allowable Clear Spans for Lintels in Flat Loadbearing Insulating Concrete Form (ICF) Walls (2-15M Bottom Bar)  _(p.1302)_
+          - Table 9.23.4.2.-A Maximum Spans for Floor Joists – General Cases  _(p.1303)_
+          - Table 9.23.4.2.-B Maximum Spans for Floor Joists – Special Cases  _(p.1305)_
+          - Table 9.23.4.2.-C Maximum Spans for Ceiling Joists – Attic not Accessible by a Stairway  _(p.1307)_
+          - Table 9.23.4.2.-D Maximum Spans for Roof Joists – Specified Roof Snow Loads 1.0 to 2.0 kPa  _(p.1309)_
+          - Table 9.23.4.2.-E Maximum Spans for Roof Joists – Specified Roof Snow Loads 2.5 and 3.0 kPa  _(p.1311)_
+          - Table 9.23.4.2.-F Maximum Spans for Roof Rafters – Specified Roof Snow Loads 1.0 to 2.0 kPa  _(p.1313)_
+          - Table 9.23.4.2.-G Maximum Spans for Roof Rafters – Specified Roof Snow Loads 2.5 and 3.0 kPa  _(p.1315)_
+          - Table 9.23.4.2.-H Maximum Spans for Built-up Floor Beams Supporting not more than One Floor  _(p.1317)_
+          - Table 9.23.4.2.-I Maximum Spans for Built-up Floor Beams Supporting not more than Two Floors  _(p.1319)_
+          - Table 9.23.4.2.-J Maximum Spans for Built-up Floor Beams Supporting not more than Three Floors  _(p.1321)_
+          - Table 9.23.4.2.-K Maximum Spans for Glued-Laminated Floor Beams – 20f-E Grade  _(p.1323)_
+          - Table 9.23.4.2.-L Maximum Spans for Built-up Ridge Beams and Lintels Supporting the Roof and Ceiling Only, No. 1 or No. 2 Grade  _(p.1325)_
+          - Table 9.23.12.3.-A Maximum Spans for Douglas Fir – Larch Lintels – No. 1 or No. 2 Grade – Non-structural Sheathing  _(p.1326)_
+          - Table 9.23.12.3.-B Maximum Spans for Hem – Fir Lintels – No. 1 or No. 2 Grade – Non-structural Sheathing  _(p.1328)_
+          - Table 9.23.12.3.-C Maximum Spans for Spruce – Pine – Fir Lintels – No. 1 or No. 2 Grade – Non-structural Sheathing  _(p.1330)_
+          - Table 9.23.12.3.-D Maximum Spans for Glued-Laminated Timber Lintels – 20f-E Stress Grade – Exterior Walls – Roof and Ceiling Load Only  _(p.1332)_
+        - Notes to Part 9 Housing and Small Buildings  _(p.1333)_
+          - **A-9.1.1.1.(1)** — A-9.1.1.1.(1) Application of Part 9 to Seasonally and Intermittently Occupied Buildings  _(p.1333)_
+            - Thermal Insulation  _(p.1333)_
+            - Air Barrier Systems and Vapour Barriers  _(p.1333)_
+            - Interior Wall and Ceiling Finishes  _(p.1333)_
+            - Plumbing and Electrical Facilities  _(p.1333)_
+          - **A-9.3.1.7** — A-9.3.1.7. Ratio of Water to Cementing Material  _(p.1333)_
+          - **A-9.3.2.1.(1)** — A-9.3.2.1.(1) Grade Marking of Lumber  _(p.1334)_
+          - A-Table 9.3.2.1. Lumber Grading  _(p.1337)_
+          - **A-9.3.2.8.(1)** — A-9.3.2.8.(1) Non-Standard Lumber  _(p.1337)_
+          - **A-9.3.2.9.(1)** — A-9.3.2.9.(1) Protection from Termites  _(p.1337)_
+          - **A-9.3.2.9.(3)** — A-9.3.2.9.(3) Protection of Structural Wood Elements from Moisture and Decay  _(p.1338)_
+          - **A-9.3.2.9.(4)** — A-9.3.2.9.(4) Protection of Retaining Walls and Cribbing from Decay  _(p.1338)_
+          - **A-9.4.1.1** — A-9.4.1.1. Structural Design  _(p.1338)_
+          - **A-9.4.2.1** — A-9.4.2.1. and 9.4.2.2. Application of Simplified Part 9 Snow Loads  _(p.1339)_
+          - **A-9.4.2.3.(1)** — A-9.4.2.3.(1) Accessible Platforms Subject to Snow and Occupancy Loads  _(p.1339)_
+          - **A-9.4.2.4.(1)** — A-9.4.2.4.(1) Specified Loads for Attics or Roof Spaces with Limited Accessibility  _(p.1339)_
+          - A-Table 9.4.4.1. Classification of Soils  _(p.1340)_
+          - **A-9.4.4.4.(1)** — A-9.4.4.4.(1) Soil Movement  _(p.1340)_
+            - Expansion and Contraction due to Moisture  _(p.1340)_
+            - Frost Heave  _(p.1340)_
+            - Ice Lenses  _(p.1340)_
+            - Adfreezing  _(p.1340)_
+            - Pyrites  _(p.1340)_
+          - **A-9.4.4.6** — A-9.4.4.6. and 9.15.1.1. Loads on Foundations  _(p.1341)_
+          - **A-9.5.1.2** — A-9.5.1.2. Combination Rooms  _(p.1341)_
+          - **A-9.5.5.3** — A-9.5.5.3. Doorways to Rooms with a Bathtub, Shower or Water Closet  _(p.1341)_
+          - **A-9.6.1.2.(2)** — A-9.6.1.2.(2) Mirrored Glass Doors  _(p.1341)_
+          - **A-9.6.1.3.(2)** — A-9.6.1.3.(2) Maximum Glass Area  _(p.1341)_
+          - A-Table 9.6.1.3.-G Glass in Doors  _(p.1342)_
+          - **A-9.7.3.2.(1)** — A-9.7.3.2.(1)(a) Minimizing Condensation  _(p.1342)_
+          - **A-9.7.4.2.(1)** — A-9.7.4.2.(1) Standards Referenced for Windows, Doors and Skylights  _(p.1342)_
+            - Canadian Requirements in the Harmonized Standard  _(p.1342)_
+            - Standards Referenced for Excluded Products  _(p.1342)_
+            - Label Indicating Performance and Compliance with Standard  _(p.1342)_
+            - Water Penetration Resistance  _(p.1342)_
+            - Uniform Load Structural Test  _(p.1342)_
+            - Condensation Resistance  _(p.1343)_
+            - Basement Windows  _(p.1343)_
+            - Greenhouse Windows  _(p.1343)_
+            - Performance of Doors: Limited Water Ingress Control  _(p.1343)_
+          - **A-9.7.5.2.(1)** — A-9.7.5.2.(1) Forced Entry Via Glazing in Doors and Sidelights  _(p.1344)_
+          - **A-9.7.5.2.(2)** — A-9.7.5.2.(2) Resistance of Doors To Forced Entry  _(p.1344)_
+          - **A-9.7.5.2.(6)** — A-9.7.5.2.(6) Door Fasteners  _(p.1345)_
+          - **A-9.7.5.2.(8)** — A-9.7.5.2.(8) Hinged Doors  _(p.1345)_
+          - **A-9.7.5.3.(1)** — A-9.7.5.3.(1) Resistance of Windows to Forced Entry  _(p.1345)_
+          - **A-9.8.3.1** — A-9.8.3.1. Permitted Stair Configurations  _(p.1345)_
+          - **A-9.8.4** — A-9.8.4. Tread Configurations  _(p.1346)_
+          - **A-9.8.4.6** — A-9.8.4.6. Winders  _(p.1347)_
+          - **A-9.8.4.7** — A-9.8.4.7. Spiral Stairs  _(p.1347)_
+          - **A-9.8.4.8** — A-9.8.4.8. Tread Nosings  _(p.1348)_
+          - **A-9.8.6.2.(2)** — A-9.8.6.2.(2) Exemption from Required Landing at Top of Stairs  _(p.1348)_
+          - **A-9.8.7.1.(2)** — A-9.8.7.1.(2) Wider Stairs than Required  _(p.1349)_
+          - **A-9.8.7.2** — A-9.8.7.2. Continuity of Handrails  _(p.1349)_
+          - **A-9.8.7.3.(1)** — A-9.8.7.3.(1) Termination of Handrails  _(p.1350)_
+          - **A-9.8.7.3.(2)** — A-9.8.7.3.(2) Handrail Extensions  _(p.1350)_
+          - **A-9.8.7.4** — A-9.8.7.4. Height of Handrails  _(p.1350)_
+          - **A-9.8.7.5.(2)** — A-9.8.7.5.(2) Handrail Sections  _(p.1350)_
+          - **A-9.8.7.7** — A-9.8.7.7. Attachment of Handrails  _(p.1351)_
+          - **A-9.8.8.1** — A-9.8.8.1. Required Guards  _(p.1351)_
+          - **A-9.8.8.1.(4)** — A-9.8.8.1.(4) Window Fall Prevention  _(p.1351)_
+          - **A-9.8.8.2** — A-9.8.8.2. Loads on Guards  _(p.1352)_
+          - **A-9.8.8.3** — A-9.8.8.3. Minimum Heights  _(p.1352)_
+          - **A-9.8.8.5.(1)** — A-9.8.8.5.(1) and (3) Risk of Falling through Guards  _(p.1352)_
+          - **A-9.8.8.5.(4)** — A-9.8.8.5.(4) Risk of Children Getting Their Head Stuck between Balusters  _(p.1352)_
+          - **A-9.8.8.6.(1)** — A-9.8.8.6.(1) Configuration of Members, Attachments or Openings in Guards so as to not Facilitate Climbing  _(p.1352)_
+          - **A-9.9.4.5.(1)** — A-9.9.4.5.(1) Openings in Exterior Walls of Exits  _(p.1355)_
+          - **A-9.9.8.4.(1)** — A-9.9.8.4.(1) Independent and Remote Exits  _(p.1355)_
+          - **A-9.9.10.1.(1)** — A-9.9.10.1.(1) Escape Windows from Bedrooms  _(p.1355)_
+            - Window Height  _(p.1356)_
+          - **A-9.9.10.1.(2)** — A-9.9.10.1.(2) Bedroom Window Opening Areas and Dimensions  _(p.1356)_
+          - **A-9.9.10.1.(3)** — A-9.9.10.1.(3) Window Opening into a Window Well  _(p.1357)_
+          - **A-9.9.11.5.(1)** — A-9.9.11.5.(1)(d) Colour Contrast  _(p.1357)_
+          - **A-9.10.1.4.(1)** — A-9.10.1.4.(1) Commercial Cooking Equipment  _(p.1357)_
+          - **A-9.10.2.2** — A-9.10.2.2. Building Design and Staff on Duty  _(p.1357)_
+          - **A-9.10.2.2.(2)** — A-9.10.2.2.(2)(a) Requirements for Detached Houses  _(p.1358)_
+          - **A-9.10.3.1** — A-9.10.3.1. Fire and Sound Resistance of Building Assemblies  _(p.1358)_
+          - **A-9.10.4.1.(4)** — A-9.10.4.1.(4) Mezzanines Not Considered as Storeys  _(p.1361)_
+          - **A-9.10.8.3.(2)** — A-9.10.8.3.(2) Light-frame Construction  _(p.1361)_
+          - **A-9.10.9.2.(2)** — A-9.10.9.2.(2) and (3) Continuity of Smoke-Tight Barrier  _(p.1361)_
+          - **A-9.10.9.3.(2)** — A-9.10.9.3.(2) Openings in Smoke-Tight Barriers to be Protected with Closures  _(p.1361)_
+          - **A-9.10.9.6.(1)** — A-9.10.9.6.(1) Penetrations of Fire Separations  _(p.1361)_
+          - **A-9.10.9.8.(1)** — A-9.10.9.8.(1) Large Recessed Outlet Boxes  _(p.1362)_
+          - **A-9.10.9.8.(3)** — A-9.10.9.8.(3)(a)(i) Separating Enclosures  _(p.1362)_
+          - **A-9.10.9.18.(4)** — A-9.10.9.18.(4) Separation between Dwelling Units and Storage or Repair Garages  _(p.1362)_
+          - **A-9.10.12.4.(1)** — A-9.10.12.4.(1) Protection of Overhang of Common Roof Space  _(p.1362)_
+          - **A-9.10.12.4.(3)** — A-9.10.12.4.(3) Protection at Soffits  _(p.1362)_
+          - **A-9.10.13.2.(1)** — A-9.10.13.2.(1) Wood Doors in Fire Separations  _(p.1362)_
+          - **A-9.10.14.5.(1)** — A-9.10.14.5.(1) Minor Combustible Cladding Elements  _(p.1363)_
+          - **A-9.10.14.5.(7)** — A-9.10.14.5.(7) Permitted Projections  _(p.1363)_
+          - **A-9.10.14.5.(8)** — A-9.10.14.5.(8) Protection at Projections  _(p.1363)_
+          - **A-9.10.14.5.(11)** — A-9.10.14.5.(11) and 9.10.15.5.(10) Roof Soffit Projections  _(p.1364)_
+          - **A-9.10.15.1.(1)** — A-9.10.15.1.(1) Application of Subsection 9  _(p.1365)_
+          - **A-9.10.15.4.(2)** — A-9.10.15.4.(2) Staggered or Skewed Exposing Building Faces of Houses  _(p.1365)_
+          - **A-9.10.19.3.(1)** — A-9.10.19.3.(1) Location of Smoke Alarms  _(p.1369)_
+          - **A-9.10.19.5.(2)** — A-9.10.19.5.(2) Interconnection of Smoke Alarms  _(p.1370)_
+          - **A-9.10.20.3.(1)** — A-9.10.20.3.(1) Fire Department Access Route Modification  _(p.1370)_
+          - **A-9.10.22** — A-9.10.22. Clearances from Gas, Propane and Electric Cooktops  _(p.1370)_
+            - Installation of Microwave Ovens Over Cooktops  _(p.1371)_
+          - **A-9.11** — A-9.11. Sound Transmission  _(p.1371)_
+            - Airborne Sound  _(p.1371)_
+            - Control of Sound Leaks  _(p.1373)_
+            - Impact Noise  _(p.1374)_
+            - Machinery Noise  _(p.1374)_
+          - **A-9.11.1.1.(2)** — A-9.11.1.1.(2) Sound Transmission in Houses with a Secondary Suite  _(p.1374)_
+          - **A-9.11.1.3.(2)** — A-9.11.1.3.(2)(b) Control of Airborne Noise in Buildings  _(p.1374)_
+          - **A-9.11.1.4** — A-9.11.1.4. Adjoining Constructions  _(p.1374)_
+          - A-Table 9.11.1.4. Floor Treatments  _(p.1383)_
+          - A-Table 9.12.2.2. Minimum Depths of Foundations  _(p.1384)_
+          - **A-9.12.2.2.(2)** — A-9.12.2.2.(2) Depth and Insulation of Foundations  _(p.1384)_
+          - **A-9.12.3.3.(1)** — A-9.12.3.3.(1) Deleterious Material in Backfill  _(p.1385)_
+          - **A-9.13.2.5** — A-9.13.2.5. Protection of Interior Finishes against Moisture  _(p.1385)_
+          - **A-9.13.4** — A-9.13.4. Soil Gas Control  _(p.1385)_
+          - **A-9.13.4.2.(3)** — A-9.13.4.2.(3) Exception for Buildings Occupied for a Few Hours a Day  _(p.1386)_
+          - A-9.13.4.3  _(p.1386)_
+            - Providing Performance Criteria for the Depressurization of the Space Between the Air Barrier and the Ground  _(p.1386)_
+            - Completion of a Subfloor Depressurization System  _(p.1386)_
+          - **A-9.13.4.3.(2)** — A-9.13.4.3.(2)(b) and (3)(b)(i) Effective Depressurization  _(p.1386)_
+          - **A-9.14.2.1.(2)** — A-9.14.2.1.(2)(a) Insulation Applied to the Exterior of Foundation Walls  _(p.1387)_
+          - **A-9.15.1.1** — A-9.15.1.1. Application of Footing and Foundation Requirements to Decks and Similar Constructions  _(p.1388)_
+          - **A-9.15.1.1.(1)** — A-9.15.1.1.(1)(c) and 9.20.1.1.(1)(b) Flat Insulating Concrete Form Walls  _(p.1388)_
+          - **A-9.15.2.4.(1)** — A-9.15.2.4.(1) Preserved Wood Foundations – Design Assumptions  _(p.1388)_
+          - **A-9.15.3.4.(2)** — A-9.15.3.4.(2) Footing Sizes  _(p.1388)_
+          - A-Table 9.15.4.2.-A Flat Insulating Concrete Form Walls as Foundation Walls  _(p.1389)_
+          - **A-9.17.2.2.(2)** — A-9.17.2.2.(2) Lateral Support of Columns  _(p.1389)_
+          - **A-9.17.3.4** — A-9.17.3.4. Design of Steel Columns  _(p.1389)_
+          - **A-9.18.7.1.(4)** — A-9.18.7.1.(4) Protection of Ground Cover in Warm Air Plenums  _(p.1389)_
+          - **A-9.19.1.1.(1)** — A-9.19.1.1.(1) Venting of Attic or Roof Spaces  _(p.1389)_
+          - **A-9.19.2.1.(1)** — A-9.19.2.1.(1) Access to Attic or Roof Space  _(p.1389)_
+          - **A-9.20.1.2** — A-9.20.1.2. Seismic Information  _(p.1389)_
+          - **A-9.20.5.1.(1)** — A-9.20.5.1.(1) Masonry Support  _(p.1389)_
+          - **A-9.20.8.5.(1)** — A-9.20.8.5.(1) Projection of Masonry Beyond Supporting Members  _(p.1390)_
+          - **A-9.20.12.2.(2)** — A-9.20.12.2.(2) Corbelling of Masonry Foundation Walls  _(p.1390)_
+          - **A-9.20.13.9.(3)** — A-9.20.13.9.(3) Dampproofing of Masonry Walls  _(p.1391)_
+          - **A-9.21.3.6.(2)** — A-9.21.3.6.(2) Metal Chimney Liners  _(p.1391)_
+          - **A-9.21.4.4.(1)** — A-9.21.4.4.(1) Location of Chimney Top  _(p.1391)_
+          - **A-9.21.4.5.(2)** — A-9.21.4.5.(2) Lateral Support for Chimneys  _(p.1391)_
+          - **A-9.21.5.1.(1)** — A-9.21.5.1.(1) Clearance from Combustible Materials  _(p.1391)_
+          - **A-9.23.1.1** — A-9.23.1.1. Constructions Other than Light Wood-Frame Constructions  _(p.1392)_
+          - **A-9.23.1.1.(1)** — A-9.23.1.1.(1) Application of Section 9  _(p.1392)_
+          - **A-9.23.2.4.(3)** — A-9.23.2.4.(3) Dry Interior Environment for Interior Construction  _(p.1392)_
+          - **A-9.23.3.1.(2)** — A-9.23.3.1.(2) Alternative Nail Sizes  _(p.1392)_
+          - **A-9.23.3.1.(3)** — A-9.23.3.1.(3) Standard for Screws  _(p.1393)_
+          - **A-9.23.3.3.(1)** — A-9.23.3.3.(1) Prevention of Splitting  _(p.1393)_
+          - A-Table 9.23.3.5.-B Alternative Nail Sizes  _(p.1393)_
+          - **A-9.23.4.2** — A-9.23.4.2. Span Tables for Wood Joists, Rafters and Beams  _(p.1393)_
+          - **A-9.23.4.2.(2)** — A-9.23.4.2.(2) Numerical Method to Establish Vibration-Controlled Spans for Wood-Frame Floors  _(p.1394)_
+          - **A-9.23.4.3.(1)** — A-9.23.4.3.(1) Maximum Spans for Steel Beams Supporting Floors in Dwellings  _(p.1396)_
+          - A-Table 9.23.4.3. Spans for Steel Beams  _(p.1396)_
+          - **A-9.23.4.4** — A-9.23.4.4. Concrete Topping  _(p.1396)_
+            - Example 1  _(p.1396)_
+          - **A-9.23.8.3** — A-9.23.8.3. Joint Location in Built-Up Beams  _(p.1397)_
+          - **A-9.23.10.4.(1)** — A-9.23.10.4.(1) Fingerjoined Lumber  _(p.1397)_
+          - **A-9.23.10.6.(3)** — A-9.23.10.6.(3) Single Studs at Sides of Openings  _(p.1397)_
+          - **A-9.23.13** — A-9.23.13. Bracing for Resistance to Lateral Loads  _(p.1398)_
+          - A-9.23.13.1  _(p.1399)_
+            - Bracing to Resist Lateral Loads in Low Load Locations  _(p.1399)_
+            - Structural Design for Lateral Wind and Earthquake Loads  _(p.1399)_
+          - **A-9.23.13.2.(1)** — A-9.23.13.2.(1)(a)(i) Heavy Construction  _(p.1399)_
+          - **A-9.23.13.4** — A-9.23.13.4. Braced Wall Bands  _(p.1399)_
+          - A-Table 9.23.13.5. Spacing of Braced Wall Bands and Braced Wall Panels  _(p.1401)_
+            - Identifying and Spacing Adjacent Non-Parallel Braced Wall Bands  _(p.1401)_
+          - **A-9.23.13.5.(2)** — A-9.23.13.5.(2) Perimeter Foundation Walls  _(p.1403)_
+          - **A-9.23.13.5.(3)** — A-9.23.13.5.(3) Attachment of a Porch Roof to Exterior Wall Framing  _(p.1404)_
+          - **A-9.23.13.6.(5)** — A-9.23.13.6.(5) and (6) Use of Gypsum Board Interior Finish to Provide Required Bracing  _(p.1405)_
+          - **A-9.23.14.11.(2)** — A-9.23.14.11.(2) Wood Roof Truss Connections  _(p.1405)_
+          - **A-9.23.15.2.(4)** — A-9.23.15.2.(4) Water Absorption Test  _(p.1405)_
+          - **A-9.23.15.4.(2)** — A-9.23.15.4.(2) OSB  _(p.1405)_
+          - **A-9.24.3.2.(3)** — A-9.24.3.2.(3) Framing Above Doors in Steel Stud Fire Separations  _(p.1406)_
+          - **A-9.25.1.1.(2)** — A-9.25.1.1.(2) Difference Between a Vapour Barrier and an Air Barrier  _(p.1406)_
+          - **A-9.25.2.2.(2)** — A-9.25.2.2.(2) Flame-Spread Ratings of Insulating Materials  _(p.1406)_
+          - **A-9.25.2.3.(3)** — A-9.25.2.3.(3) Position of Insulation  _(p.1406)_
+          - **A-9.25.2.4.(3)** — A-9.25.2.4.(3) Loose-Fill Insulation in Existing Wood-Frame Walls  _(p.1406)_
+          - **A-9.25.2.4.(5)** — A-9.25.2.4.(5) Loose-Fill Insulation in Masonry Walls  _(p.1407)_
+          - **A-9.25.3.1.(1)** — A-9.25.3.1.(1) Air Barrier Systems for Control of Condensation  _(p.1407)_
+          - **A-9.25.3.4** — A-9.25.3.4. and 9.25.3.6. Air Leakage and Soil Gas Control in Floors-on-ground  _(p.1407)_
+          - **A-9.25.3.6.(2)** — A-9.25.3.6.(2) and (3) Polyethylene Air Barriers under Floors-on-Ground  _(p.1408)_
+          - **A-9.25.4.2.(2)** — A-9.25.4.2.(2) Vapour Barrier Materials in Foundation Wall Assemblies Enclosing Basements or Heated Crawl Spaces  _(p.1409)_
+          - **A-9.25.4.2.(3)** — A-9.25.4.2.(3) Normal Conditions  _(p.1409)_
+          - **A-9.25.4.2.(6)** — A-9.25.4.2.(6) Protection of Vapour Barriers  _(p.1409)_
+          - **A-9.25.4.3.(2)** — A-9.25.4.3.(2) Location of Vapour Barriers  _(p.1409)_
+          - **A-9.25.5.1** — A-9.25.5.1. Location of Low Permeance Materials  _(p.1409)_
+            - Low Air- and Vapour-Permeance Materials and Implications for Moisture Accumulation  _(p.1409)_
+            - Cladding  _(p.1410)_
+            - Sheathing  _(p.1410)_
+            - Thermal Insulation  _(p.1410)_
+            - Normal Conditions  _(p.1410)_
+          - **A-9.25.5.1.(1)** — A-9.25.5.1.(1) Air and Vapour Permeance Values  _(p.1411)_
+          - **A-9.25.5.1.(1)** — A-9.25.5.1.(1)(a)(ii) Reduced Potential for Condensation in the Building Envelope  _(p.1412)_
+          - **A-9.25.5.1.(3)** — A-9.25.5.1.(3) Wood-based Sheathing Materials  _(p.1412)_
+          - **A-9.25.5.2** — A-9.25.5.2. Assumptions Followed in Developing Table 9  _(p.1413)_
+            - Calculating Inboard to Outboard Thermal Resistance  _(p.1413)_
+            - References  _(p.1415)_
+          - **A-9.26.1.1.(1)** — A-9.26.1.1.(1) Platforms that Effectively Serve as Roofs  _(p.1415)_
+          - **A-9.26.2.3.(4)** — A-9.26.2.3.(4) Fasteners for Treated Shingles  _(p.1415)_
+          - **A-9.26.4.1** — A-9.26.4.1. Junctions between Roofs and Walls or Guards  _(p.1415)_
+          - **A-9.26.17.1.(1)** — A-9.26.17.1.(1) Installation of Concrete Roof Tiles  _(p.1415)_
+          - **A-9.27.1.1.(5)** — A-9.27.1.1.(5) EIFS on Walls with Cold-Formed Steel Stud Framing  _(p.1415)_
+          - **A-9.27.2** — A-9.27.2. Required Protection from Precipitation  _(p.1415)_
+          - **A-9.27.2.1.(1)** — A-9.27.2.1.(1) Minimizing Precipitation Ingress  _(p.1416)_
+          - **A-9.27.2.2** — A-9.27.2.2. Required Levels of Protection from Precipitation  _(p.1416)_
+            - Capillary Breaks  _(p.1417)_
+            - Moisture Index  _(p.1417)_
+          - **A-9.27.3.1** — A-9.27.3.1. Second Plane of Protection  _(p.1417)_
+            - Drainage Plane  _(p.1417)_
+            - Sheathing Membrane  _(p.1417)_
+            - Appropriate Level of Protection  _(p.1418)_
+          - **A-9.27.3.4.(2)** — A-9.27.3.4.(2) Detailing of Joints in Exterior Insulating Sheathing  _(p.1418)_
+          - **A-9.27.3.5.(1)** — A-9.27.3.5.(1) Sheathing Membranes in lieu of Sheathing  _(p.1418)_
+          - **A-9.27.3.6** — A-9.27.3.6. Sheathing Membrane under Face Sealed Cladding  _(p.1418)_
+          - **A-9.27.3.8.(1)** — A-9.27.3.8.(1) Required Flashing  _(p.1418)_
+            - Horizontal Offsets  _(p.1418)_
+            - Changes in Substrate  _(p.1418)_
+          - **A-9.27.3.8.(3)** — A-9.27.3.8.(3) Flashing over Curved-Head Openings  _(p.1419)_
+          - **A-9.27.3.8.(4)** — A-9.27.3.8.(4) Flashing Configuration and Positive Drainage  _(p.1419)_
+            - Flashing Configuration  _(p.1419)_
+            - Maintaining Positive Slope  _(p.1420)_
+          - **A-9.27.3.8.(5)** — A-9.27.3.8.(5) Protection against Precipitation Ingress at the Sill-to-Cladding Joint  _(p.1420)_
+          - **A-9.27.4.2.(1)** — A-9.27.4.2.(1) Selection and Installation of Sealants  _(p.1421)_
+          - **A-9.27.5.4.(2)** — A-9.27.5.4.(2) Attachment of Cladding to Flat Wall ICF Units where the 1-in-50 HWP Exceeds 0  _(p.1421)_
+          - **A-9.27.5.7** — A-9.27.5.7. Penetration of Fasteners  _(p.1421)_
+          - **A-9.27.9.2.(2)** — A-9.27.9.2.(2) Grooves in Hardboard Cladding  _(p.1421)_
+          - **A-9.27.10.2.(2)** — A-9.27.10.2.(2) Thickness of Grade O-2 OSB  _(p.1421)_
+          - **A-9.27.11.1.(1)** — A-9.27.11.1.(1) Steel Sheet Products  _(p.1421)_
+          - **A-9.27.11.1.(2)** — A-9.27.11.1.(2) and (3) Material Standards for Aluminum Cladding  _(p.1422)_
+          - **A-9.27.14.1.(1)** — A-9.27.14.1.(1) Geometrically Defined Drainage Cavity  _(p.1422)_
+          - **A-9.27.14.2.(2)** — A-9.27.14.2.(2)(a) Substrates for Exterior Insulation Finish Systems  _(p.1422)_
+          - A-Table 9.28.4.3. Stucco Lath  _(p.1422)_
+          - **A-9.29.5.1.(3)** — A-9.29.5.1.(3) Application of Gypsum Board to Flat ICF Walls  _(p.1422)_
+          - **A-9.30.1.2.(1)** — A-9.30.1.2.(1) Water Resistance  _(p.1422)_
+          - **A-9.31.6.2.(3)** — A-9.31.6.2.(3) Securement of Service Water Heaters  _(p.1423)_
+          - **A-9.32.1.2.(2)** — A-9.32.1.2.(2) Application of Subsection 9  _(p.1423)_
+            - Ventilation for Smoke Control  _(p.1423)_
+            - Ventilation for Air Exchange  _(p.1423)_
+          - **A-9.32.1.3.(2)** — A-9.32.1.3.(2) Venting of Laundry-Drying Equipment  _(p.1424)_
+          - **A-9.32.3** — A-9.32.3. Heating-Season Mechanical Ventilation  _(p.1424)_
+            - Evolution of NBC Ventilation Requirements  _(p.1424)_
+            - Current Requirements  _(p.1424)_
+          - **A-9.32.3.1.(1)** — A-9.32.3.1.(1) Required Ventilation  _(p.1424)_
+            - Performance Approach [Clause 9.32.3.1.(1)(a)]  _(p.1424)_
+            - Prescriptive Approach [Clause 9.32.3.1.(1)(b)]  _(p.1424)_
+          - **A-9.32.3.3** — A-9.32.3.3. Principal Ventilation System  _(p.1425)_
+            - Indoor Air Exhaust  _(p.1425)_
+            - Outdoor Air Supply  _(p.1425)_
+            - Distribution of Air  _(p.1425)_
+          - **A-9.32.3.3.(2)** — A-9.32.3.3.(2) Normal Operating Exhaust Capacity  _(p.1432)_
+          - **A-9.32.3.3.(3)** — A-9.32.3.3.(3) Required Controls  _(p.1432)_
+          - **A-9.32.3.3.(5)** — A-9.32.3.3.(5) Location of Controls  _(p.1432)_
+          - **A-9.32.3.3.(10)** — A-9.32.3.3.(10) Location of Exhaust Air Intakes  _(p.1432)_
+          - **A-9.32.3.4** — A-9.32.3.4. Ventilation Systems Used in Conjunction with Forced Air Heating Systems  _(p.1433)_
+          - **A-9.32.3.5** — A-9.32.3.5. Ventilation Systems Not Used in Conjunction with Forced Air Heating Systems  _(p.1434)_
+            - Tempering of Outdoor Air  _(p.1434)_
+            - Distribution of Outdoor Air  _(p.1434)_
+          - **A-9.32.3.6** — A-9.32.3.6. Exhaust-Only Ventilation Systems  _(p.1435)_
+          - **A-9.32.3.7** — A-9.32.3.7. Supplemental Exhaust  _(p.1436)_
+          - **A-9.32.3.8** — A-9.32.3.8. Protection against Depressurization  _(p.1436)_
+            - Spillage of Combustion Products  _(p.1437)_
+            - Makeup Air Requirements  _(p.1438)_
+            - Carbon Monoxide Alarm Requirements for Solid-Fuel-Burning Appliances  _(p.1438)_
+          - **A-9.32.3.9** — A-9.32.3.9. Carbon Monoxide Alarms  _(p.1438)_
+          - **A-9.32.3.10** — A-9.32.3.10. Fans  _(p.1439)_
+          - **A-9.32.3.11** — A-9.32.3.11. Ducts  _(p.1439)_
+          - **A-9.32.3.12** — A-9.32.3.12. Heat Recovery Ventilators  _(p.1439)_
+          - **A-9.33.1.1.(2)** — A-9.33.1.1.(2) Combustion Air and Tight Houses  _(p.1439)_
+          - **A-9.33.4.3.(1)** — A-9.33.4.3.(1) Heating System Controls  _(p.1439)_
+          - **A-9.33.5.3** — A-9.33.5.3. Design, Construction and Installation Standard for Solid-Fuel-Burning Appliances  _(p.1439)_
+          - **A-9.33.6.13** — A-9.33.6.13. Return Air System  _(p.1439)_
+          - **A-9.33.10.2.(1)** — A-9.33.10.2.(1) Factory-Built Chimneys  _(p.1440)_
+          - **A-9.34.2** — A-9.34.2. Lighting Outlets  _(p.1440)_
+          - **A-9.35.2.2.(1)** — A-9.35.2.2.(1) Garage Floor  _(p.1440)_
+          - **A-9.36.1.1.(1)** — A-9.36.1.1.(1) Energy Used by the Building  _(p.1441)_
+          - **A-9.36.1.2.(2)** — A-9.36.1.2.(2) Overall Thermal Transmittance  _(p.1441)_
+          - **A-9.36.1.2.(3)** — A-9.36.1.2.(3) Conversion of Metric Values to Imperial Values  _(p.1441)_
+          - **A-9.36.1.2.(4)** — A-9.36.1.2.(4) Fenestration  _(p.1441)_
+          - **A-9.36.1.2.(5)** — A-9.36.1.2.(5) and (6) Annual Energy Consumption and House Energy Target  _(p.1441)_
+          - **A-9.36.1.3** — A-9.36.1.3. Compliance Options According to Building Type and Size  _(p.1441)_
+          - **A-9.36.1.3.(3)** — A-9.36.1.3.(3) Houses and Common Spaces  _(p.1442)_
+            - Houses  _(p.1442)_
+            - Common spaces  _(p.1442)_
+          - **A-9.36.1.3.(6)** — A-9.36.1.3.(6) Exemptions  _(p.1442)_
+          - **A-9.36.2.1.(2)** — A-9.36.2.1.(2) Wall or Floor between a Garage and a Conditioned Space  _(p.1442)_
+          - **A-9.36.2.2.(3)** — A-9.36.2.2.(3) Calculation Tools  _(p.1442)_
+          - **A-9.36.2.2.(5)** — A-9.36.2.2.(5) Calculating Effective Thermal Resistance of Log Walls  _(p.1443)_
+          - **A-9.36.2.3.(2)** — A-9.36.2.3.(2) and (3) Calculating Gross Wall Area  _(p.1443)_
+          - **A-9.36.2.3.(5)** — A-9.36.2.3.(5) Areas of Other Fenestration  _(p.1444)_
+          - **A-9.36.2.4.(1)** — A-9.36.2.4.(1) Calculating the Effective Thermal Resistance of Building Envelope Assemblies  _(p.1444)_
+            - Calculating the Effective Thermal Resistance of an Assembly with Continuous Insulation: Isothermal Planes Method  _(p.1444)_
+            - Calculating the Effective Thermal Resistance of a Wood-frame Assembly: Isothermal-Planes and Parallel-Path Flow Methods  _(p.1445)_
+            - Example 1 – Calculation of RSIeff for a Typical 38 × 140 mm Wood-frame Wall Assembly Using the Isothermal-Planes and Parallel-P  _(p.1445)_
+            - Calculating the Effective Thermal Resistance of a Steel-frame Assembly  _(p.1447)_
+            - Example 2 – Calculation of RSIeff for a 41 × 152 mm Steel-frame Wall Assembly with Studs 406 mm o. c.  _(p.1448)_
+          - **A-9.36.2.4.(3)** — A-9.36.2.4.(3) Calculating Thermal Resistance of Major Structural Penetrations  _(p.1455)_
+          - **A-9.36.2.4.(4)** — A-9.36.2.4.(4) Credit for Unheated Spaces Protecting the Building Envelope  _(p.1455)_
+          - **A-9.36.2.5.(1)** — A-9.36.2.5.(1) Continuity of Insulation  _(p.1456)_
+          - **A-9.36.2.5.(2)** — A-9.36.2.5.(2) Thermal Bridging  _(p.1456)_
+          - **A-9.36.2.5.(3)** — A-9.36.2.5.(3) Insulation of Masonry Fireplaces  _(p.1457)_
+          - **A-9.36.2.5.(5)** — A-9.36.2.5.(5) Maintaining Continuity of Insulation  _(p.1458)_
+          - **A-9.36.2.5.(6)** — A-9.36.2.5.(6) Effective Thermal Resistance at Projected Area  _(p.1460)_
+          - **A-9.36.2.5.(9)** — A-9.36.2.5.(9) Effective Thermal Resistance at Joints in the Building Envelope  _(p.1460)_
+          - **A-9.36.2.6.(1)** — A-9.36.2.6.(1) Thermal Characteristics of Above-ground Opaque Building Assemblies  _(p.1460)_
+            - Building Envelope Insulation and Ventilation Options  _(p.1460)_
+            - Nominal Insulation Values for Above-ground Walls  _(p.1461)_
+          - **A-9.36.2.6.(3)** — A-9.36.2.6.(3) Reduced Effective Thermal Resistance Near the Eaves of Sloped Roofs  _(p.1464)_
+          - **A-9.36.2.7.(1)** — A-9.36.2.7.(1) and (2) Design of Windows, Glazed Doors and Skylights  _(p.1464)_
+          - A-Table 9.36.2.7.-A Thermal Characteristics of Windows and Doors  _(p.1464)_
+          - **A-9.36.2.7.(3)** — A-9.36.2.7.(3) Site-built Windows  _(p.1465)_
+          - **A-9.36.2.8.(1)** — A-9.36.2.8.(1) Nominal Insulation Values for Walls Below-Grade or in Contact with the Ground  _(p.1465)_
+          - A-Tables 9.36.2.8.-A and -B Multiple Applicable Requirements  _(p.1468)_
+          - **A-9.36.2.8.(2)** — A-9.36.2.8.(2) Combination Floor Assemblies  _(p.1468)_
+          - **A-9.36.2.8.(4)** — A-9.36.2.8.(4) Unheated Floors-on-ground Above the Frost Line  _(p.1469)_
+          - **A-9.36.2.8.(9)** — A-9.36.2.8.(9) Skirt Insulation  _(p.1470)_
+          - **A-9.36.2.9.(1)** — A-9.36.2.9.(1) Controlling air leakage  _(p.1470)_
+            - Airtightness Options  _(p.1470)_
+            - Air Barrier Assembly Testing  _(p.1470)_
+            - Air Barrier System Approaches  _(p.1470)_
+          - **A-9.36.2.9.(5)** — A-9.36.2.9.(5) Making Fireplaces Airtight  _(p.1471)_
+          - **A-9.36.2.9.(6)** — A-9.36.2.9.(6) Exterior Air Barrier Design Considerations  _(p.1471)_
+          - **A-9.36.2.10.(5)** — A-9.36.2.10.(5)(b) Sealing the Air Barrier System with Sheathing Tape  _(p.1471)_
+          - **A-9.36.2.10.(8)** — A-9.36.2.10.(8)(a) Components Designed to Provide a Seal at Penetrations  _(p.1471)_
+          - **A-9.36.2.10.(10)** — A-9.36.2.10.(10) Sealing the Air Barrier around Windows, Doors and Skylights  _(p.1471)_
+          - **A-9.36.2.10.(15)** — A-9.36.2.10.(15) Sealing Duct Penetrations  _(p.1471)_
+          - **A-9.36.2.11** — A-9.36.2.11. Concept of Trade-offs  _(p.1471)_
+            - Limitations to Using Trade-off Options  _(p.1471)_
+            - Terms Used in Trade-off Provisions  _(p.1472)_
+          - **A-9.36.2.11.(2)** — A-9.36.2.11.(2) Trading RSI Values of Above-Ground Opaque Building Envelope Assemblies  _(p.1472)_
+            - Example 1 – Trading RSI values of Above-ground Opaque Building Envelope Assemblies  _(p.1472)_
+          - **A-9.36.2.11.(2)** — A-9.36.2.11.(2) and (3) Calculating Trade-off Values  _(p.1473)_
+          - **A-9.36.2.11.(3)** — A-9.36.2.11.(3) Trading R-values of Windows  _(p.1473)_
+            - Example 1 – Trading R-values of Windows  _(p.1473)_
+          - **A-9.36.2.11.(4)** — A-9.36.2.11.(4) RSI Values of Insulation in Attics under Sloped Roofs  _(p.1474)_
+            - Trade-off Option for Buildings with Low Ceilings  _(p.1474)_
+            - Trade-off Calculation  _(p.1474)_
+            - Trading Window Area for Reduced Attic Insulation  _(p.1474)_
+            - Example 1 – Trading Window Area for Reduced Attic Insulation  _(p.1475)_
+          - **A-9.36.2.11.(6)** — A-9.36.2.11.(6)(a) Reduction in Thermal Resistance of Ceilings in Buildings with Low Ceilings  _(p.1475)_
+          - **A-9.36.3.2.(1)** — A-9.36.3.2.(1) Load Calculations  _(p.1475)_
+          - **A-9.36.3.2.(2)** — A-9.36.3.2.(2) Design and Installation of Ducts  _(p.1475)_
+          - **A-9.36.3.2.(5)** — A-9.36.3.2.(5) Increasing the Insulation on Sides of Ducts  _(p.1476)_
+          - **A-9.36.3.3.(4)** — A-9.36.3.3.(4) Exemption  _(p.1476)_
+          - **A-9.36.3.4.(1)** — A-9.36.3.4.(1) Piping for Heating and Cooling Systems  _(p.1476)_
+          - **A-9.36.3.4.(2)** — A-9.36.3.4.(2) High-Temperature Refrigerant Piping  _(p.1476)_
+          - **A-9.36.3.5.(1)** — A-9.36.3.5.(1) Location of Heating and Air-conditioning Equipment  _(p.1476)_
+          - **A-9.36.3.6.(7)** — A-9.36.3.6.(7) Heat Pump Controls for Recovery from Setback  _(p.1476)_
+          - **A-9.36.3.8** — A-9.36.3.8. Application  _(p.1476)_
+          - **A-9.36.3.8.(4)** — A-9.36.3.8.(4)(a) Heat Recovery from Dehumidification in Spaces with an Indoor Pool or Hot Tub  _(p.1477)_
+          - **A-9.36.3.9.(1)** — A-9.36.3.9.(1) Heat Recovery in Dwelling Units  _(p.1477)_
+          - **A-9.36.3.9.(3)** — A-9.36.3.9.(3) Efficiency of Heat-Recovery Ventilators (HRVs)  _(p.1477)_
+          - **A-9.36.3.10.(1)** — A-9.36.3.10.(1) Unit and Packaged Equipment  _(p.1477)_
+          - **A-9.36.3.10.(3)** — A-9.36.3.10.(3) Multiple Component Manufacturers  _(p.1477)_
+          - **A-9.36.4.2.(1)** — A-9.36.4.2.(1) Unit and Packaged Equipment  _(p.1477)_
+          - **A-9.36.4.2.(3)** — A-9.36.4.2.(3) Exception  _(p.1477)_
+          - **A-9.36.4.6.(2)** — A-9.36.4.6.(2) Required Operation of Pump  _(p.1477)_
+          - **A-9.36.5.2** — A-9.36.5.2. Use of Terms “Building” and “House”  _(p.1478)_
+          - **A-9.36.5.3** — A-9.36.5.3. Compliance  _(p.1478)_
+          - **A-9.36.5.3.(1)** — A-9.36.5.3.(1) Energy Modeling  _(p.1478)_
+          - **A-9.36.5.3.(2)** — A-9.36.5.3.(2) Concept of Comparing Performance  _(p.1478)_
+          - A-Table 9.36.5.4. Terminology Used in Table 9  _(p.1478)_
+          - **A-9.36.5.4.(1)** — A-9.36.5.4.(1) Calculation Procedure  _(p.1479)_
+          - **A-9.36.5.4.(2)** — A-9.36.5.4.(2) Space-Conditioning Load  _(p.1479)_
+          - **A-9.36.5.4.(7)** — A-9.36.5.4.(7) Thermostatic Control  _(p.1479)_
+          - **A-9.36.5.5.(1)** — A-9.36.5.5.(1) Source of Climatic Data  _(p.1479)_
+          - **A-9.36.5.6.(6)** — A-9.36.5.6.(6) Contents of the House  _(p.1479)_
+          - **A-9.36.5.6.(11)** — A-9.36.5.6.(11) Application  _(p.1479)_
+          - **A-9.36.5.7.(1)** — A-9.36.5.7.(1) Consumption of HVAC systems  _(p.1479)_
+          - **A-9.36.5.7.(5)** — A-9.36.5.7.(5) Zoned Air Handlers  _(p.1479)_
+          - **A-9.36.5.8.(5)** — A-9.36.5.8.(5) Water Delivery Temperature  _(p.1479)_
+          - **A-9.36.5.9.(1)** — A-9.36.5.9.(1) Modeling the Proposed House  _(p.1479)_
+            - Completeness of the Energy Model Calculations  _(p.1479)_
+            - Opaque Building Envelope Assemblies  _(p.1480)_
+          - **A-9.36.5.10.(2)** — A-9.36.5.10.(2) Assembly Type  _(p.1480)_
+          - **A-9.36.5.11.(9)** — A-9.36.5.11.(9) Part-Load Performance of Equipment  _(p.1480)_
+            - Measured Data  _(p.1480)_
+            - Modeled Part-Load Performance Data  _(p.1480)_
+          - **A-9.36.5.11.(10)** — A-9.36.5.11.(10) Sensible Heat Recovery  _(p.1480)_
+            - Treatment of Humidity in the Calculations  _(p.1480)_
+            - Energy-Recovery Ventilators  _(p.1480)_
+          - **A-9.36.5.11.(11)** — A-9.36.5.11.(11) Circulation Fans  _(p.1480)_
+          - **A-9.36.5.12.(2)** — A-9.36.5.12.(2) Assumptions Relating to Drain-Water Heat Recovery  _(p.1480)_
+          - **A-9.36.5.14.(10)** — A-9.36.5.14.(10) Above-Ground Gross Wall Area  _(p.1480)_
+          - **A-9.36.5.15.(5)** — A-9.36.5.15.(5) Sizing of Heating and Cooling Systems  _(p.1480)_
+          - **A-9.36.5.15.(6)** — A-9.36.5.15.(6) Default Settings  _(p.1480)_
+          - **A-9.36.5.15.(8)** — A-9.36.5.15.(8) Treatment of Humidity in the Calculations  _(p.1480)_
+          - **A-9.36.6.2.(1)** — A-9.36.6.2.(1)(a) Zone Pressure  _(p.1481)_
+          - **A-9.36.6.2.(1)** — A-9.36.6.2.(1)(b) Adjacent Zones  _(p.1481)_
+          - **A-9.36.6.4.(2)** — A-9.36.6.4.(2) Determining Airtightness Level of Buildings with Multiple Zones Having Different Airtightness Levels  _(p.1481)_
+          - **A-9.36.7.2.(1)** — A-9.36.7.2.(1)(b) Percent Improvement and Percent House Energy Target  _(p.1481)_
+          - **A-9.36.7.3.(1)** — A-9.36.7.3.(1) Reference House and Proposed House  _(p.1481)_
+          - **A-9.36.7.3.(4)** — A-9.36.7.3.(4) Peak Cooling Load  _(p.1481)_
+          - **A-9.36.7.3.(5)** — A-9.36.7.3.(5) Annual Gross Space Heat Loss  _(p.1481)_
+          - **A-9.36.7.3.(9)** — A-9.36.7.3.(9) Airtightness Testing  _(p.1481)_
+          - **A-9.36.8.2.(1)** — A-9.36.8.2.(1)(b) Compliance Options  _(p.1483)_
+          - **A-9.36.8.6.(4)** — A-9.36.8.6.(4) Energy Rating Compliance Option  _(p.1483)_
+    - Index  _(p.1485)_
+    - Conversion Factors  _(p.1536)_
